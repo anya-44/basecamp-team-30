@@ -1,0 +1,1673 @@
+school_urn,establishment_name,easting,northing,district_administrative_code,lsoa_code,type_of_establishment,statutory_low_age,statutory_high_age
+100000,The Aldgate School,533498.0,181201.0,E09000001,E01032739,Voluntary aided school,3.0,11.0
+100008,Argyle Primary School,530238.0,182761.0,E09000007,E01000941,Community school,3.0,11.0
+100009,West Hampstead Primary School,524888.0,185067.0,E09000007,E01000873,Community school,3.0,11.0
+100010,Brecknock Primary School,529912.0,184835.0,E09000007,E01000869,Community school,2.0,11.0
+100011,Brookfield Primary School,528706.0,186594.0,E09000007,E01000908,Community school,2.0,11.0
+100013,Edith Neville Primary School,529725.0,183195.0,E09000007,E01035709,Community school,3.0,11.0
+100014,Fleet Primary School,527677.0,185424.0,E09000007,E01000887,Community school,3.0,11.0
+100015,Hawley Primary School,528886.0,184273.0,E09000007,E01000856,Community school,3.0,11.0
+100018,Netley Primary School,529095.0,182598.0,E09000007,E01035710,Community school,2.0,11.0
+100019,New End Primary School,526483.0,185916.0,E09000007,E01000895,Community school,3.0,11.0
+100020,Primrose Hill School,528304.0,183909.0,E09000007,E01000862,Community school,2.0,11.0
+100021,Rhyl Community Primary School,528334.0,184823.0,E09000007,E01000900,Community school,2.0,11.0
+100022,Richard Cobden Primary School,529342.0,183487.0,E09000007,E01000959,Community school,3.0,11.0
+100023,Torriano Primary School,529559.0,185072.0,E09000007,E01000926,Community school,3.0,11.0
+100025,Gospel Oak Primary School,528230.0,185638.0,E09000007,E01000886,Community school,3.0,11.0
+100026,Fitzjohn's Primary School,526566.0,185411.0,E09000007,E01000897,Community school,3.0,11.0
+100027,Eleanor Palmer Primary School,529117.0,185613.0,E09000007,E01000921,Community school,3.0,11.0
+100028,"Christ Church Primary School, Hampstead",526518.0,186095.0,E09000007,E01000899,Voluntary aided school,4.0,11.0
+100029,Christ Church School,528821.0,182991.0,E09000007,E01000949,Voluntary aided school,3.0,11.0
+100030,Emmanuel Church of England Primary School,525336.0,185264.0,E09000007,E01000970,Voluntary aided school,3.0,11.0
+100031,Hampstead Parochial Church of England Primary School,526301.0,185733.0,E09000007,E01000879,Voluntary aided school,4.0,11.0
+100032,"Holy Trinity CofE Primary School, NW3",526445.0,184601.0,E09000007,E01000883,Voluntary aided school,4.0,11.0
+100033,"Holy Trinity and Saint Silas CofE Primary School, NW1",528675.0,184432.0,E09000007,E01000856,Voluntary aided school,4.0,11.0
+100034,Kentish Town Church of England Primary School,529113.0,185066.0,E09000007,E01000921,Voluntary aided school,3.0,11.0
+100035,Rosary Catholic Primary School,527199.0,185281.0,E09000007,E01000898,Voluntary aided school,3.0,11.0
+100036,St Alban's Church of England Primary School,531156.0,181834.0,E09000007,E01000917,Voluntary aided school,3.0,11.0
+100040,St George the Martyr Church of England Primary School,530763.0,182065.0,E09000007,E01000920,Voluntary aided school,3.0,11.0
+100041,St Josephs Catholic Primary School,530415.0,181368.0,E09000007,E01000918,Voluntary aided school,3.0,11.0
+100042,St Mary's Kilburn Church of England Primary School,525389.0,183932.0,E09000007,E01000933,Voluntary aided school,3.0,11.0
+100043,St Mary and St Pancras Church of England Primary School,529495.0,183146.0,E09000007,E01000954,Voluntary aided school,3.0,11.0
+100045,St Patrick's Catholic Primary School,528861.0,185010.0,E09000007,E01000922,Voluntary aided school,3.0,11.0
+100046,St Paul's Church of England Primary School,527498.0,184129.0,E09000007,E01000967,Voluntary aided school,4.0,11.0
+100047,St Eugene de Mazenod Roman Catholic Primary School,525360.0,183998.0,E09000007,E01000933,Voluntary aided school,4.0,11.0
+100048,Our Lady Roman Catholic Primary School,529268.0,183862.0,E09000007,E01000861,Voluntary aided school,3.0,11.0
+100114,Morden Mount Primary School,538003.0,176437.0,E09000011,E01001638,Community school,3.0,11.0
+100115,Cherry Orchard Primary School,541222.0,177219.0,E09000011,E01001595,Community school,4.0,11.0
+100120,Ealdham Primary School,541517.0,175119.0,E09000011,E01034176,Community school,3.0,11.0
+100125,Fossdene Primary School,540841.0,178110.0,E09000011,E01001592,Community school,4.0,11.0
+100127,Gordon Primary School,542832.0,175288.0,E09000011,E01001604,Community school,3.0,11.0
+100129,Haimo Primary School,541948.0,174911.0,E09000011,E01001620,Community school,3.0,11.0
+100131,Henwick Primary School,542011.0,175689.0,E09000011,E01001624,Community school,3.0,11.0
+100134,Invicta Primary School,540412.0,177493.0,E09000011,E01001581,Community school,3.0,11.0
+100137,Meridian Primary School,538861.0,177987.0,E09000011,E01001664,Community school,3.0,11.0
+100140,Plumcroft Primary School,544151.0,177486.0,E09000011,E01001681,Community school,3.0,11.0
+100141,Sherington Primary School,540764.0,177627.0,E09000011,E01001593,Community school,3.0,11.0
+100142,Thorntree Primary School,541865.0,178397.0,E09000011,E01001589,Community school,4.0,11.0
+100146,Wyborne Primary School,543932.0,173264.0,E09000011,E01001619,Community school,3.0,11.0
+100149,Montbelle Primary School,543480.0,171884.0,E09000011,E01001603,Community school,3.0,11.0
+100152,De Lucy Primary School,546656.0,179560.0,E09000011,E01001576,Community school,3.0,11.0
+100155,Cardwell Primary School,542625.0,178829.0,E09000011,E01001705,Community school,3.0,11.0
+100158,Heronsgate Primary School,544682.0,179291.0,E09000011,E01033744,Community school,3.0,11.0
+100159,Linton Mead Primary School,546738.0,180895.0,E09000011,E01001688,Community school,3.0,11.0
+100162,Greenslade Primary School,544981.0,177699.0,E09000011,E01001683,Community school,4.0,11.0
+100163,Mulgrave Primary School,543186.0,178646.0,E09000011,E01001705,Community school,2.0,11.0
+100164,Charlton Manor Primary School,541549.0,177353.0,E09000011,E01001650,Community school,3.0,11.0
+100165,Christ Church Church of England Primary School,539398.0,178485.0,E09000011,E01034183,Voluntary aided school,4.0,11.0
+100166,"Christ Church Church of England Primary School, Shooters Hill",543236.0,176562.0,E09000011,E01001682,Voluntary aided school,5.0,11.0
+100167,Eltham Church of England Primary School,542989.0,174524.0,E09000011,E01001609,Voluntary aided school,3.0,11.0
+100168,Our Lady of Grace Catholic Primary School,540873.0,177706.0,E09000011,E01001594,Voluntary aided school,4.0,11.0
+100169,St Joseph's Catholic Primary School,539329.0,178289.0,E09000011,E01034185,Voluntary aided school,4.0,11.0
+100170,St Margaret's Church of England Primary School,544274.0,178095.0,E09000011,E01001633,Voluntary aided school,3.0,11.0
+100173,St Patrick's Catholic Primary School,544890.0,178606.0,E09000011,E01001631,Voluntary aided school,3.0,11.0
+100174,St Alfege with St Peter's Church of England Primary School,538127.0,177732.0,E09000011,E01034179,Voluntary aided school,3.0,11.0
+100175,St Peter's Catholic Primary School,543728.0,178491.0,E09000011,E01001697,Voluntary aided school,5.0,11.0
+100176,St Thomas More Catholic Primary School,542156.0,175625.0,E09000011,E01001624,Voluntary aided school,4.0,11.0
+100177,St Thomas A Becket Roman Catholic Primary School,546166.0,179075.0,E09000011,E01001579,Voluntary aided school,3.0,11.0
+100180,St Margaret Clitherow Catholic Primary School,546767.0,180139.0,E09000011,E01001694,Voluntary aided school,3.0,11.0
+100181,Bishop John Robinson Church of England Primary School,547142.0,180957.0,E09000011,E01001688,Voluntary aided school,3.0,11.0
+100218,Berger Primary School,535671.0,184827.0,E09000012,E01001730,Community school,2.0,11.0
+100223,Daubeney Primary School,536126.0,185583.0,E09000012,E01001791,Community school,2.0,11.0
+100225,Gainsborough Primary School,536980.0,184834.0,E09000012,E01001849,Community school,0.0,11.0
+100229,Lauriston School,535636.0,183779.0,E09000012,E01001836,Community school,3.0,11.0
+100230,London Fields Primary School,534642.0,183828.0,E09000012,E01033712,Community school,3.0,11.0
+100231,Millfields Community School,535218.0,185910.0,E09000012,E01001793,Community school,3.0,11.0
+100232,Morningside Primary School,535292.0,184869.0,E09000012,E01001731,Community school,2.0,11.0
+100234,Orchard Primary School,535394.0,184242.0,E09000012,E01001840,Community school,3.0,11.0
+100235,Queensbridge Primary School,533825.0,184027.0,E09000012,E01001819,Community school,4.0,11.0
+100239,Princess May Primary School,533380.0,185516.0,E09000012,E01001835,Community school,3.0,11.0
+100240,Sebright School,534243.0,183445.0,E09000012,E01001775,Community school,3.0,11.0
+100241,Shacklewell Primary School,533714.0,185576.0,E09000012,E01001745,Community school,2.0,11.0
+100242,Southwold Primary School,535010.0,186746.0,E09000012,E01001798,Community school,3.0,11.0
+100243,Thomas Fairchild Community School,532494.0,183307.0,E09000012,E01035646,Community school,3.0,11.0
+100245,Shoreditch Park Primary School,532859.0,183527.0,E09000012,E01035643,Community school,3.0,11.0
+100248,Woodberry Down Community Primary School,532393.0,187810.0,E09000012,E01035638,Community school,2.0,11.0
+100250,Kingsmead Primary School,536310.0,185685.0,E09000012,E01001790,Community school,2.0,11.0
+100252,Grasmere Primary School,532960.0,185754.0,E09000012,E01001739,Community school,3.0,11.0
+100253,Jubilee Primary School,534149.0,187016.0,E09000012,E01001727,Community school,3.0,11.0
+100254,Nightingale Primary School,534594.0,185895.0,E09000012,E01033713,Community school,3.0,11.0
+100256,Harrington Hill Primary School,534968.0,187170.0,E09000012,E01001828,Community school,3.0,11.0
+100257,Holmleigh Primary School,533089.0,187465.0,E09000012,E01001812,Community school,3.0,11.0
+100258,Grazebrook Primary School,532963.0,186776.0,E09000012,E01001806,Community school,3.0,11.0
+100259,Parkwood Primary School,531839.0,186844.0,E09000012,E01001718,Community school,2.0,11.0
+100260,Benthal Primary School,534224.0,186153.0,E09000012,E01001764,Community school,3.0,11.0
+100261,Mandeville Primary School,536002.0,186066.0,E09000012,E01001787,Community school,2.0,11.0
+100263,Holy Trinity Church of England Primary School,533726.0,184592.0,E09000012,E01033700,Voluntary aided school,3.0,11.0
+100264,Our Lady and St Joseph Catholic Primary School,533206.0,184640.0,E09000012,E01001756,Voluntary aided school,4.0,11.0
+100266,St John the Baptist Voluntary Aided Church of England Primary School,532997.0,183073.0,E09000012,E01033709,Voluntary aided school,2.0,11.0
+100267,St Matthias Church of England Primary School,533258.0,185524.0,E09000012,E01001740,Voluntary aided school,3.0,11.0
+100269,St. Paul's With St. Michael's CofE Primary School,534264.0,183839.0,E09000012,E01001815,Voluntary aided school,3.0,11.0
+100270,St John of Jerusalem Church of England Primary School,535320.0,184155.0,E09000012,E01001840,Voluntary aided school,3.0,11.0
+100274,St Scholastica's Catholic Primary School,534408.0,186210.0,E09000012,E01001770,Voluntary aided school,3.0,11.0
+100275,Simon Marks Jewish Primary School,533974.0,186970.0,E09000012,E01001723,Voluntary aided school,3.0,11.0
+100321,Addison Primary School,523706.0,179379.0,E09000013,E01001851,Community school,3.0,11.0
+100322,Avonmore Primary School,524849.0,178269.0,E09000013,E01001911,Community school,3.0,11.0
+100324,Brackenbury Primary School,522760.0,179365.0,E09000013,E01001895,Community school,3.0,11.0
+100326,Miles Coverdale Primary School,523026.0,179840.0,E09000013,E01001941,Community school,4.0,11.0
+100328,Flora Gardens Primary School,523332.0,179236.0,E09000013,E01001856,Community school,3.0,11.0
+100331,Kenmont Primary School,522501.0,182898.0,E09000013,E01001877,Community school,3.0,11.0
+100334,Melcombe Primary School,523607.0,177859.0,E09000013,E01001890,Community school,4.0,11.0
+100335,Old Oak Primary School,521948.0,181361.0,E09000013,E01001878,Community school,3.0,11.0
+100338,Sir John Lillie Primary School,524416.0,177532.0,E09000013,E01001879,Community school,3.0,11.0
+100340,Wendell Park Primary School,521631.0,179719.0,E09000013,E01001865,Community school,3.0,11.0
+100341,Wormholt Park Primary School,522318.0,180664.0,E09000013,E01001955,Community school,3.0,11.0
+100344,All Saints CofE Primary School,524167.0,176390.0,E09000013,E01001915,Voluntary aided school,3.0,11.0
+100345,Holy Cross RC School,525175.0,176754.0,E09000013,E01001922,Voluntary aided school,3.0,11.0
+100346,John Betts Primary School,522568.0,179018.0,E09000013,E01001928,Voluntary aided school,5.0,11.0
+100349,St John's Walham Green Church of England Primary School,524468.0,176864.0,E09000013,E01001949,Voluntary aided school,3.0,11.0
+100350,St Mary's Catholic Primary School,523932.0,179282.0,E09000013,E01001851,Voluntary aided school,3.0,11.0
+100351,St Paul's CofE Primary School,523176.0,178344.0,E09000013,E01001893,Voluntary aided school,3.0,11.0
+100352,St Peter's Primary School,522274.0,178492.0,E09000013,E01001933,Voluntary aided school,4.0,11.0
+100353,St Stephen's CofE Primary School,523106.0,180001.0,E09000013,E01001941,Voluntary aided school,3.0,11.0
+100354,Good Shepherd RC Primary School,521890.0,179649.0,E09000013,E01001865,Voluntary aided school,3.0,11.0
+100357,St Thomas of Canterbury Catholic Primary School,524581.0,177345.0,E09000013,E01001882,Voluntary aided school,4.0,11.0
+100397,Ambler Primary School and Children's Centre,531678.0,186560.0,E09000019,E01002747,Community school,0.0,11.0
+100402,Drayton Park Primary School,531433.0,185329.0,E09000019,E01002739,Community school,3.0,11.0
+100403,Duncombe Primary School,530146.0,187006.0,E09000019,E01002804,Community school,2.0,11.0
+100405,Gillespie Primary School,531802.0,186280.0,E09000019,E01002749,Community school,3.0,11.0
+100406,Grafton Primary School,530483.0,186145.0,E09000019,E01035652,Community school,2.0,11.0
+100407,Hanover Primary School,531982.0,183273.0,E09000019,E01002802,Community school,3.0,11.0
+100408,Hargrave Park School,529016.0,186684.0,E09000019,E01002773,Community school,0.0,11.0
+100411,Laycock Primary School,531535.0,184551.0,E09000019,E01002795,Community school,3.0,11.0
+100415,Moreland Primary School,531942.0,182766.0,E09000019,E01002707,Community school,0.0,11.0
+100418,Pakeman Primary School,530838.0,186121.0,E09000019,E01002730,Community school,2.0,11.0
+100422,Robert Blair School and Children's Centre,530342.0,184544.0,E09000019,E01002708,Community school,0.0,11.0
+100425,Thornhill Primary School,531173.0,184131.0,E09000019,E01002699,Community school,3.0,11.0
+100426,Vittoria Primary School,530952.0,183516.0,E09000019,E01002710,Community school,3.0,11.0
+100428,Winton Primary School,530634.0,183172.0,E09000019,E01002711,Community school,2.0,11.0
+100429,Yerbury Primary School,529695.0,186359.0,E09000019,E01002769,Community school,3.0,11.0
+100430,Tufnell Park Primary School,529772.0,185609.0,E09000019,E01002784,Community school,2.0,11.0
+100432,Ashmount Primary School,530090.0,187755.0,E09000019,E01002756,Community school,3.0,11.0
+100434,Prior Weston Primary School and Children's Centre,532376.0,182029.0,E09000019,E01002704,Community school,0.0,11.0
+100437,Sacred Heart Catholic Primary School,530896.0,185179.0,E09000019,E01033488,Voluntary aided school,3.0,11.0
+100438,St John Evangelist Catholic Primary School,531600.0,183377.0,E09000019,E01002801,Voluntary aided school,3.0,11.0
+100439,St John's Upper Holloway CofE Primary School,529508.0,186512.0,E09000019,E01002774,Voluntary aided school,2.0,11.0
+100440,St John's Highbury Vale CofE Primary School,531758.0,186077.0,E09000019,E01002749,Voluntary aided school,4.0,11.0
+100441,St Joseph's Catholic Primary School,528892.0,187162.0,E09000019,E01002770,Voluntary aided school,2.0,11.0
+100443,St Luke's CofE Primary School,532463.0,182576.0,E09000019,E01002701,Voluntary aided school,3.0,11.0
+100444,St Mark's CofE Primary School,530342.0,186726.0,E09000019,E01002808,Voluntary aided school,2.0,11.0
+100446,St Mary's CofE Primary School,531845.0,184012.0,E09000019,E01002793,Voluntary aided school,4.0,11.0
+100447,St Peter and St Paul Catholic Primary School,531847.0,182367.0,E09000019,E01002703,Voluntary aided school,2.0,11.0
+100448,St Andrew's (Barnsbury) CofE Primary School,530855.0,183827.0,E09000019,E01002714,Voluntary aided school,4.0,11.0
+100449,St Joan of Arc RC Primary School,532024.0,185906.0,E09000019,E01002742,Voluntary aided school,3.0,11.0
+100450,Christ The King Catholic Primary School,530746.0,186961.0,E09000019,E01002805,Voluntary aided school,3.0,11.0
+100477,Ashburnham Community School,526554.0,177396.0,E09000020,E01002840,Community school,3.0,11.0
+100478,Barlby Primary School,523831.0,181997.0,E09000020,E01002905,Community school,3.0,11.0
+100479,Bevington Primary School,524414.0,181794.0,E09000020,E01002855,Community school,0.0,11.0
+100480,Bousfield Primary School,526029.0,178368.0,E09000020,E01002898,Community school,3.0,11.0
+100481,Colville Primary School,524779.0,181067.0,E09000020,E01002832,Community school,0.0,11.0
+100482,Fox Primary School,525233.0,180251.0,E09000020,E01002827,Community school,4.0,11.0
+100483,Marlborough Primary School,527415.0,178681.0,E09000020,E01002858,Community school,0.0,11.0
+100485,Oxford Gardens Primary School,523676.0,181272.0,E09000020,E01002878,Community school,3.0,11.0
+100486,Park Walk Primary School,526612.0,177707.0,E09000020,E01002912,Community school,3.0,11.0
+100487,Avondale Park Primary School,524052.0,180593.0,E09000020,E01002870,Community school,3.0,11.0
+100488,Thomas Jones Primary School,524214.0,181162.0,E09000020,E01002874,Community school,3.0,11.0
+100489,Christ Church CofE Primary School,527556.0,177871.0,E09000020,E01002899,Voluntary aided school,4.0,11.0
+100490,Holy Trinity CofE Primary School,528059.0,178778.0,E09000020,E01002859,Voluntary aided school,4.0,11.0
+100491,Oratory Roman Catholic Primary School,527141.0,178427.0,E09000020,E01002823,Voluntary aided school,5.0,11.0
+100492,St Thomas' CofE Primary School,524351.0,182075.0,E09000020,E01002857,Voluntary aided school,3.0,11.0
+100493,St Barnabas and St Philip's CofE Primary School,525153.0,179172.0,E09000020,E01002817,Voluntary aided school,3.0,11.0
+100494,Saint Francis of Assisi Catholic Primary School,523827.0,180762.0,E09000020,E01002870,Voluntary aided school,3.0,11.0
+100495,St Clement and St James CofE Primary School,524226.0,180422.0,E09000020,E01002872,Voluntary aided school,4.0,11.0
+100497,St Mary Abbots CofE Primary School,525573.0,179680.0,E09000020,E01002826,Voluntary aided school,4.0,11.0
+100499,Saint Mary's Catholic Primary School,524221.0,182203.0,E09000020,E01002852,Voluntary aided school,3.0,11.0
+100500,Servite RC Primary School,526204.0,177810.0,E09000020,E01002896,Voluntary aided school,3.0,11.0
+100505,St Charles Catholic Primary School,523928.0,181778.0,E09000020,E01002905,Voluntary aided school,3.0,11.0
+100556,Ashmole Primary School,530994.0,177580.0,E09000022,E01033864,Community school,3.0,11.0
+100560,Clapham Manor Primary School,529473.0,175582.0,E09000022,E01003039,Community school,3.0,11.0
+100564,Granton Primary School,529288.0,170025.0,E09000022,E01003139,Community school,3.0,11.0
+100566,Heathbrook Primary School,529067.0,176207.0,E09000022,E01003037,Community school,3.0,11.0
+100567,Henry Cavendish Primary School,529164.0,173386.0,E09000022,E01003157,Community school,3.0,11.0
+100572,Jessop Primary School,531996.0,175145.0,E09000022,E01003073,Community school,2.0,11.0
+100574,Kingswood Primary School,532856.0,171503.0,E09000022,E01003068,Community school,3.0,11.0
+100576,Larkhall Primary Campus,529999.0,176292.0,E09000022,E01003092,Community school,2.0,11.0
+100577,Paxton Primary School,533512.0,170963.0,E09000028,E01003948,Community school,3.0,11.0
+100578,Richard Atkins Primary School,530256.0,173786.0,E09000022,E01003023,Community school,3.0,11.0
+100582,Stockwell Primary School,530821.0,175861.0,E09000022,E01003053,Community school,2.0,11.0
+100584,Sudbourne Primary School,530757.0,174948.0,E09000022,E01003019,Community school,3.0,11.0
+100585,Sunnyhill Primary School,530786.0,171686.0,E09000022,E01003148,Community school,3.0,11.0
+100586,Telferscot Primary School,529567.0,173153.0,E09000022,E01003158,Community school,3.0,11.0
+100588,Vauxhall Primary School,530783.0,178344.0,E09000022,E01003105,Foundation school,3.0,11.0
+100589,Walnut Tree Walk Primary School,531071.0,178909.0,E09000022,E01003015,Community school,3.0,11.0
+100591,"Wyvil Primary School and Resource Bases for Speech, Language and Communication Needs, and Autism",530264.0,177481.0,E09000022,E01033865,Foundation school,3.0,11.0
+100593,Crown Lane Primary School,531556.0,171096.0,E09000022,E01003087,Community school,3.0,11.0
+100595,Fenstanton Primary School,531198.0,173161.0,E09000022,E01003174,Community school,3.0,11.0
+100597,Elm Wood School,532733.0,172061.0,E09000022,E01003065,Community school,3.0,11.0
+100598,Allen Edwards Primary School,530167.0,176541.0,E09000022,E01003123,Community school,3.0,11.0
+100601,Glenbrook Primary School,529881.0,174323.0,E09000022,E01003159,Community school,3.0,11.0
+100602,Julian's School,531795.0,171950.0,E09000022,E01003081,Foundation school,3.0,11.0
+100604,Herbert Morrison Primary School,530243.0,177187.0,E09000022,E01003097,Community school,3.0,11.0
+100609,Archbishop Sumner Church of England Primary School,531312.0,178655.0,E09000022,E01003110,Voluntary aided school,4.0,11.0
+100610,Christ Church Primary SW9,531482.0,176949.0,E09000022,E01003187,Voluntary aided school,3.0,11.0
+100612,Macaulay Church of England Primary School,528789.0,175481.0,E09000022,E01003042,Voluntary aided school,3.0,11.0
+100613,St Andrew's Church of England Primary School,530518.0,176047.0,E09000022,E01003094,Voluntary aided school,4.0,11.0
+100614,St John the Divine Church of England Primary School,531782.0,177253.0,E09000028,E01003926,Voluntary aided school,3.0,11.0
+100615,St John's Angell Town Church of England Primary School,531478.0,176039.0,E09000022,E01003049,Voluntary aided school,3.0,11.0
+100616,St Jude's Church of England Primary School,531761.0,174518.0,E09000022,E01003074,Voluntary aided school,4.0,11.0
+100619,St Mark's Church of England Primary School,530822.0,177860.0,E09000022,E01003102,Voluntary aided school,3.0,11.0
+100620,St Saviour's Church of England Primary School,532228.0,175575.0,E09000022,E01003078,Voluntary aided school,4.0,11.0
+100621,St Stephen's Church of England Primary School,530488.0,177314.0,E09000022,E01003129,Voluntary aided school,3.0,11.0
+100622,Holy Trinity Church of England Primary School,530854.0,173742.0,E09000022,E01003173,Voluntary aided school,4.0,11.0
+100623,St Helen's Catholic Primary School,531142.0,175926.0,E09000022,E01003060,Voluntary aided school,3.0,11.0
+100629,St Anne's Catholic Primary School,530677.0,177967.0,E09000022,E01003102,Voluntary aided school,4.0,11.0
+100631,St Bede's Catholic Primary School,529666.0,173374.0,E09000022,E01003163,Voluntary aided school,3.0,11.0
+100632,St Andrew's Catholic Primary School,530403.0,171145.0,E09000022,E01003150,Voluntary aided school,4.0,11.0
+100633,Immanuel and St Andrew Church of England Primary School,530019.0,170582.0,E09000022,E01003145,Voluntary aided school,3.0,11.0
+100634,Reay Primary School,530994.0,177078.0,E09000022,E01003181,Foundation school,3.0,11.0
+100636,St Mary's Roman Catholic Primary School,529453.0,174993.0,E09000022,E01003032,Voluntary aided school,3.0,11.0
+100671,Adamsrill Primary School,536254.0,172024.0,E09000023,E01003312,Community school,3.0,11.0
+100672,Athelney Primary School,537455.0,172415.0,E09000023,E01003196,Community school,2.0,11.0
+100673,Baring Primary School,540086.0,173628.0,E09000023,E01003268,Community school,3.0,11.0
+100674,Beecroft Garden Primary,536543.0,174956.0,E09000023,E01003231,Community school,4.0,11.0
+100676,Cooper's Lane Primary School,540545.0,172843.0,E09000023,E01003263,Community school,3.0,11.0
+100677,Dalmain Primary School,536070.0,173436.0,E09000023,E01003229,Community school,3.0,11.0
+100678,Deptford Park Primary School,536327.0,178410.0,E09000023,E01034389,Community school,4.0,11.0
+100679,Downderry Primary School,539164.0,171810.0,E09000023,E01003239,Community school,3.0,11.0
+100680,Edmund Waller Primary School,535632.0,176449.0,E09000023,E01003341,Community school,3.0,11.0
+100681,Elfrida Primary School,537494.0,171845.0,E09000023,E01003189,Community school,2.0,11.0
+100683,Forster Park Primary School,539371.0,172482.0,E09000023,E01003347,Community school,4.0,11.0
+100684,Gordonbrock Primary School,537110.0,174807.0,E09000023,E01003276,Community school,3.0,11.0
+100685,Grinling Gibbons Primary School,536930.0,177681.0,E09000023,E01003253,Community school,3.0,11.0
+100686,Haseltine Primary School,536607.0,171749.0,E09000023,E01003190,Community school,3.0,11.0
+100687,Brindishe Green School,538752.0,174369.0,E09000023,E01003292,Community school,3.0,11.0
+100688,Holbeach Primary School,537465.0,173958.0,E09000023,E01003324,Community school,3.0,11.0
+100689,John Stainer Community Primary School,536277.0,175737.0,E09000023,E01003345,Community school,3.0,11.0
+100690,Kelvin Grove Primary School,534761.0,172179.0,E09000023,E01003259,Community school,3.0,11.0
+100691,Kender Primary School,535468.0,176916.0,E09000023,E01003338,Community school,2.0,11.0
+100692,Launcelot Primary School and Nursery,540149.0,171655.0,E09000023,E01003237,Community school,3.0,11.0
+100693,Brindishe Manor School,539350.0,174478.0,E09000023,E01003287,Community school,3.0,11.0
+100695,Oak Gardens Primary School,537042.0,176596.0,E09000023,E01003210,Community school,3.0,11.0
+100696,Marvels Lane Primary School,541432.0,171932.0,E09000023,E01003266,Community school,3.0,11.0
+100699,Rangefield Primary School,539405.0,171393.0,E09000023,E01032565,Community school,3.0,11.0
+100700,Rathfern Primary School,536828.0,173191.0,E09000023,E01003321,Community school,2.0,11.0
+100701,Rushey Green Primary School,537770.0,173407.0,E09000023,E01003216,Community school,3.0,11.0
+100703,Sandhurst Primary School,539055.0,173451.0,E09000023,E01003220,Community school,3.0,11.0
+100704,Stillness Junior School,536370.0,174094.0,E09000023,E01003227,Community school,7.0,11.0
+100705,Stillness Infant School,536370.0,174094.0,E09000023,E01003227,Community school,3.0,7.0
+100708,Torridon Primary School,538945.0,172742.0,E09000023,E01003219,Community school,3.0,11.0
+100709,John Ball Primary School,539376.0,176050.0,E09000023,E01003200,Community school,2.0,11.0
+100710,Fairlawn Primary School,535292.0,173813.0,E09000023,E01003260,Community school,3.0,11.0
+100711,Eliot Bank Primary School,534813.0,172681.0,E09000023,E01003257,Community school,3.0,11.0
+100712,Twin Oaks Primary School,536041.0,178131.0,E09000023,E01003247,Community school,4.0,11.0
+100713,Myatt Garden Primary School,536827.0,176434.0,E09000023,E01003210,Community school,3.0,11.0
+100714,Horniman Primary School,534976.0,173432.0,E09000023,E01003254,Community school,5.0,11.0
+100715,Perrymount Primary School,535860.0,172698.0,E09000023,E01003310,Community school,3.0,11.0
+100716,Ashmead Primary School,537241.0,176322.0,E09000023,E01033324,Community school,3.0,11.0
+100717,Brindishe Lee School,539672.0,174662.0,E09000023,E01003287,Community school,4.0,11.0
+100718,Kilmorie Primary School,536338.0,172903.0,E09000023,E01003314,Community school,3.0,11.0
+100719,All Saints' Church of England Primary School Blackheath,539253.0,176405.0,E09000023,E01003200,Voluntary aided school,4.0,11.0
+100722,Good Shepherd RC School,539874.0,171640.0,E09000023,E01003237,Voluntary aided school,3.0,11.0
+100723,Holy Trinity Church of England Primary School,535188.0,172518.0,E09000023,E01003256,Voluntary aided school,3.0,11.0
+100724,St Margaret's Lee CofE Primary School,539396.0,175309.0,E09000023,E01003203,Voluntary aided school,4.0,11.0
+100725,St Augustine's Catholic Primary School and Nursery,537997.0,171320.0,E09000023,E01003192,Voluntary aided school,3.0,11.0
+100726,St Bartholomews's Church of England Primary School,535296.0,172015.0,E09000023,E01003329,Voluntary aided school,5.0,11.0
+100728,St John Baptist Southend Church of England Primary School,538325.0,171872.0,E09000023,E01003353,Voluntary aided school,4.0,11.0
+100729,St Joseph's Catholic Primary School,537224.0,177395.0,E09000023,E01003253,Voluntary aided school,4.0,11.0
+100730,St Mary's Lewisham Church of England Primary School,537996.0,174766.0,E09000023,E01003291,Voluntary aided school,3.0,11.0
+100733,St Saviour's Catholic Primary School,538324.0,175333.0,E09000023,E01033327,Voluntary aided school,3.0,11.0
+100737,St William of York Catholic Primary School,536366.0,173525.0,E09000023,E01003230,Voluntary aided school,3.0,11.0
+100739,Holy Cross Catholic Primary School,537933.0,173402.0,E09000023,E01003216,Voluntary aided school,3.0,11.0
+100774,Albion Primary School,535335.0,179689.0,E09000028,E01004033,Community school,3.0,11.0
+100775,Bellenden Primary School,534319.0,175761.0,E09000028,E01004062,Community school,3.0,11.0
+100780,Bird In Bush School,534575.0,177497.0,E09000028,E01003983,Community school,3.0,11.0
+100784,Crampton Primary,531943.0,178490.0,E09000028,E01003995,Community school,4.0,11.0
+100785,Crawford Primary School,532360.0,176513.0,E09000028,E01003922,Community school,3.0,11.0
+100790,Goodrich Community Primary School,534340.0,174098.0,E09000028,E01003957,Community school,3.0,11.0
+100791,Grange Primary School,533244.0,179211.0,E09000028,E01003979,Community school,3.0,11.0
+100793,Heber Primary School,533949.0,174413.0,E09000028,E01003956,Community school,3.0,11.0
+100794,Hollydale Primary School,535369.0,176100.0,E09000028,E01004000,Community school,4.0,11.0
+100795,Ilderton Primary School,535190.0,178023.0,E09000028,E01003987,Community school,3.0,11.0
+100796,Ivydale Primary School,535830.0,175214.0,E09000028,E01004002,Community school,3.0,11.0
+100798,John Ruskin Primary School and Language Classes,532224.0,177728.0,E09000028,E01003923,Community school,3.0,11.0
+100800,Keyworth Primary School,531692.0,178119.0,E09000028,E01003999,Community school,2.0,11.0
+100801,Dulwich Wood Primary School,533366.0,172068.0,E09000028,E01003946,Community school,4.0,11.0
+100803,Michael Faraday School,532828.0,177988.0,E09000028,E01033881,Community school,3.0,11.0
+100808,Riverside Primary School,534423.0,179618.0,E09000028,E01004023,Community school,3.0,11.0
+100809,Robert Browning Primary School,532525.0,178379.0,E09000028,E01003963,Community school,3.0,11.0
+100811,Snowsfields Primary School,533094.0,179804.0,E09000028,E01003981,Community school,3.0,11.0
+100812,Southwark Park Primary School,534910.0,179032.0,E09000028,E01004024,Community school,3.0,11.0
+100813,Tower Bridge Primary School,533570.0,179825.0,E09000028,E01033885,Community school,3.0,11.0
+100815,Victory Primary School,532497.0,178834.0,E09000028,E01033875,Community school,3.0,11.0
+100817,Phoenix Primary School,534192.0,178136.0,E09000028,E01004038,Community school,3.0,11.0
+100818,Pilgrims' Way Primary School,535095.0,177517.0,E09000028,E01003988,Community school,3.0,11.0
+100819,Alfred Salter Primary School,535897.0,179666.0,E09000028,E01004032,Community school,3.0,11.0
+100821,Oliver Goldsmith Primary School,533566.0,176849.0,E09000028,E01003914,Community school,3.0,11.0
+100822,Boutcher Church of England Primary School,533647.0,178966.0,E09000028,E01033872,Voluntary aided school,5.0,11.0
+100823,Dulwich Village Church of England Infants' School,533049.0,174311.0,E09000028,E01004070,Voluntary aided school,4.0,7.0
+100824,English Martyrs' Roman Catholic Primary School,532817.0,178587.0,E09000028,E01003961,Voluntary aided school,4.0,11.0
+100825,St James the Great Roman Catholic Primary School,533921.0,176804.0,E09000028,E01004010,Voluntary aided school,3.0,11.0
+100826,St Francis RC Primary School,534323.0,177446.0,E09000028,E01003983,Voluntary aided school,3.0,11.0
+100827,St George's Church of England Primary School,533123.0,177455.0,E09000028,E01003916,Voluntary aided school,4.0,11.0
+100829,St James' Church of England Primary School,534223.0,179425.0,E09000028,E01033869,Voluntary aided school,3.0,11.0
+100830,St John's and St Clement's Church of England Primary School,534049.0,175559.0,E09000028,E01004065,Voluntary aided school,5.0,11.0
+100834,"Saint Joseph's Catholic Primary School, the Borough",532485.0,179893.0,E09000028,E01003929,Voluntary aided school,3.0,11.0
+100835,St Jude's Church of England Primary School,531616.0,179248.0,E09000028,E01003930,Voluntary aided school,3.0,11.0
+100837,Peter Hills with St Mary's and St Paul's CofE Primary School,535947.0,180402.0,E09000028,E01004055,Voluntary aided school,3.0,11.0
+100839,St Peter's Church of England Primary School,532484.0,178081.0,E09000028,E01003969,Voluntary aided school,3.0,11.0
+100840,The Cathedral School of St Saviour and St Mary Overie,532389.0,179937.0,E09000028,E01003929,Voluntary aided school,3.0,11.0
+100841,St John's Roman Catholic Primary School,536038.0,179747.0,E09000028,E01004057,Voluntary aided school,3.0,11.0
+100853,St Joseph's Catholic Junior School,532109.0,177303.0,E09000028,E01003926,Voluntary aided school,7.0,11.0
+100854,St Joseph's Catholic Infants School,532109.0,177303.0,E09000028,E01003926,Voluntary aided school,3.0,7.0
+100855,Friars Primary Foundation School,531739.0,179767.0,E09000028,E01032583,Foundation school,3.0,11.0
+100890,Ben Jonson Primary School,536179.0,182059.0,E09000030,E01035680,Community school,3.0,11.0
+100891,Bonner Primary School,535452.0,183006.0,E09000030,E01004266,Community school,4.0,11.0
+100892,Old Palace Primary School,537853.0,182838.0,E09000030,E01004236,Community school,4.0,11.0
+100894,Cayley Primary School,536206.0,181504.0,E09000030,E01035683,Community school,3.0,11.0
+100895,Blue Gate Fields Junior School,535119.0,180864.0,E09000030,E01004303,Community school,7.0,11.0
+100896,Chisenhale Primary School,536115.0,183374.0,E09000030,E01004234,Community school,3.0,11.0
+100898,Cubitt Town Primary School,538254.0,179195.0,E09000030,E01035705,Community school,3.0,11.0
+100902,Globe Primary School,535260.0,182916.0,E09000030,E01004266,Community school,2.0,11.0
+100903,Hague Primary School,534743.0,182456.0,E09000030,E01004211,Community school,3.0,11.0
+100904,Harbinger Primary School,537560.0,178580.0,E09000030,E01004275,Community school,3.0,11.0
+100906,John Scurr Primary School,535216.0,182155.0,E09000030,E01004207,Community school,2.0,11.0
+100907,Lawdale Junior School,534502.0,182835.0,E09000030,E01004204,Community school,7.0,11.0
+100908,Elizabeth Selby Infants' School,534427.0,182833.0,E09000030,E01004204,Community school,2.0,7.0
+100911,Marion Richardson Primary School,535682.0,181244.0,E09000030,E01004289,Community school,3.0,11.0
+100912,Marner Primary School,537992.0,182318.0,E09000030,E01035667,Community school,3.0,11.0
+100913,Mayflower Primary School,537483.0,181055.0,E09000030,E01004244,Community school,3.0,11.0
+100914,Mowlem Primary School,535051.0,183434.0,E09000030,E01035660,Community school,3.0,11.0
+100915,Blue Gate Fields Infants' School,535119.0,180864.0,E09000030,E01004303,Community school,3.0,7.0
+100916,Olga Primary School,536311.0,183145.0,E09000030,E01004230,Community school,3.0,11.0
+100917,Stepney Park Primary School,535303.0,181782.0,E09000030,E01004324,Community school,3.0,11.0
+100920,Manorfield Primary School,537943.0,181797.0,E09000030,E01035678,Community school,2.0,11.0
+100923,Stewart Headlam Primary School,534719.0,182243.0,E09000030,E01004205,Community school,3.0,11.0
+100927,Wellington Primary School,537160.0,182604.0,E09000030,E01004267,Community school,3.0,11.0
+100928,Woolmore Primary School,538273.0,180944.0,E09000030,E01004219,Community school,3.0,11.0
+100930,Thomas Buxton Primary School,534355.0,182089.0,E09000030,E01035668,Community school,3.0,11.0
+100931,Seven Mills Primary School,537259.0,179545.0,E09000030,E01032772,Community school,3.0,11.0
+100934,Osmani Primary School,534348.0,182017.0,E09000030,E01004308,Community school,3.0,11.0
+100937,Bangabandhu Primary School,535234.0,182582.0,E09000030,E01032787,Community school,3.0,11.0
+100938,Halley Primary School,536272.0,181728.0,E09000030,E01035683,Community school,3.0,11.0
+100939,Bigland Green Primary School,534732.0,181144.0,E09000030,E01004304,Community school,3.0,11.0
+100940,Kobi Nazrul Primary School,534367.0,181447.0,E09000030,E01035686,Community school,3.0,11.0
+100943,William Davis Primary School,534185.0,182356.0,E09000030,E01035668,Community school,3.0,11.0
+100944,Christ Church CofE School,533875.0,181751.0,E09000030,E01004306,Voluntary aided school,3.0,11.0
+100946,Stepney Greencoat Church of England Primary School,536632.0,181305.0,E09000030,E01004251,Voluntary aided school,3.0,11.0
+100949,St Agnes RC Primary School,537541.0,182817.0,E09000030,E01004237,Voluntary aided school,3.0,11.0
+100951,St Edmund's Catholic School,537362.0,178752.0,E09000030,E01032783,Voluntary aided school,3.0,11.0
+100953,St John's Church of England Primary School,535057.0,183029.0,E09000030,E01004198,Voluntary aided school,3.0,11.0
+100954,St Luke's Church of England Primary School,538579.0,178697.0,E09000030,E01004218,Voluntary aided school,3.0,11.0
+100958,St Paul With St Luke CofE Primary Federation,536879.0,181745.0,E09000030,E01004271,Voluntary aided school,3.0,11.0
+100959,St Paul's Whitechapel Church of England Primary School,534320.0,180791.0,E09000030,E01035696,Voluntary aided school,3.0,11.0
+100960,St Peter's London Docks CofE Primary School,535063.0,180371.0,E09000030,E01004297,Voluntary aided school,3.0,11.0
+100961,St Saviour's Church of England Primary School,537666.0,181580.0,E09000030,E01035685,Voluntary aided school,3.0,11.0
+100962,English Martyrs Roman Catholic Primary School,533902.0,181086.0,E09000030,E01032767,Voluntary aided school,3.0,11.0
+100995,Alderbrook Primary School,528663.0,173802.0,E09000032,E01004472,Community school,3.0,11.0
+100996,Allfarthing Primary School,526161.0,174286.0,E09000032,E01004512,Community school,3.0,11.0
+100997,Beatrix Potter Primary School,526418.0,173238.0,E09000032,E01004624,Community school,3.0,11.0
+101001,Brandlehow Primary School,524669.0,175124.0,E09000032,E01033135,Community school,3.0,11.0
+101005,Earlsfield Primary School,526162.0,172951.0,E09000032,E01004496,Community school,3.0,11.0
+101006,Falconbrook Primary School,526881.0,175971.0,E09000032,E01004541,Community school,2.0,11.0
+101009,Furzedown Primary School,528505.0,170892.0,E09000032,E01004520,Community school,3.0,11.0
+101011,Honeywell Junior School,527750.0,174463.0,E09000032,E01004558,Foundation school,7.0,11.0
+101012,Honeywell Infant School,527750.0,174463.0,E09000032,E01004558,Foundation school,3.0,7.0
+101013,Hotham Primary School,523675.0,175472.0,E09000032,E01004607,Community school,3.0,11.0
+101014,John Burns Primary School,528402.0,176123.0,E09000032,E01004590,Community school,3.0,11.0
+101016,Penwortham Primary School,528964.0,170848.0,E09000032,E01004518,Community school,3.0,11.0
+101018,Riversdale Primary School,525248.0,173488.0,E09000032,E01004593,Community school,3.0,11.0
+101019,Sellincourt Primary School,527435.0,170988.0,E09000032,E01004530,Community school,3.0,11.0
+101020,Shaftesbury Park Primary School,528099.0,176014.0,E09000032,E01004592,Community school,2.0,11.0
+101021,Smallwood Primary School and Language Unit,526650.0,171795.0,E09000032,E01004615,Community school,3.0,11.0
+101022,Swaffield School,526161.0,174028.0,E09000032,E01004620,Community school,3.0,11.0
+101024,West Hill Primary School,525241.0,174576.0,E09000032,E01035494,Community school,2.0,11.0
+101026,Sheringdale Primary School,524906.0,173501.0,E09000032,E01004595,Community school,3.0,11.0
+101027,Southmead Primary School,524070.0,173321.0,E09000032,E01004635,Community school,3.0,11.0
+101028,Granard Primary School,522909.0,174502.0,E09000032,E01004645,Community school,3.0,11.0
+101029,Heathmere Primary School,522275.0,173317.0,E09000032,E01004570,Community school,3.0,11.0
+101031,Ronald Ross Primary School,524020.0,173827.0,E09000032,E01004630,Community school,3.0,11.0
+101032,Albemarle Primary School,524238.0,172951.0,E09000032,E01004635,Foundation school,3.0,11.0
+101034,"All Saints' CofE Primary School, Putney",523226.0,175760.0,E09000032,E01004605,Voluntary aided school,3.0,11.0
+101036,Holy Ghost Catholic Primary School,528154.0,173676.0,E09000032,E01004550,Voluntary aided school,5.0,11.0
+101037,Our Lady of Victories Catholic Primary School,523640.0,175351.0,E09000032,E01004607,Voluntary aided school,4.0,11.0
+101038,Roehampton Church Forest Primary School,522568.0,173689.0,E09000032,E01004572,Voluntary aided school,3.0,11.0
+101042,St Boniface RC Primary School,527651.0,171395.0,E09000032,E01004525,Voluntary aided school,3.0,11.0
+101043,St Faith's CofE Primary School,526093.0,174932.0,E09000032,E01004510,Voluntary aided school,3.0,11.0
+101044,St George's CofE Primary School,529322.0,176967.0,E09000032,E01004567,Voluntary aided school,3.0,11.0
+101045,St Joseph's Catholic Primary and Nursery School,525119.0,174894.0,E09000032,E01004511,Voluntary aided school,3.0,11.0
+101046,St Mary's CofE Nursery and Primary School,523670.0,175603.0,E09000032,E01004606,Voluntary aided school,3.0,11.0
+101047,Trinity St Mary's CofE Primary School,528296.0,173119.0,E09000032,E01004545,Voluntary aided school,2.0,11.0
+101048,St Mary's RC Voluntary Aided Primary School,528837.0,176954.0,E09000032,E01033100,Voluntary aided school,3.0,11.0
+101049,St Michael's CofE Primary School,524889.0,173911.0,E09000032,E01004504,Voluntary aided school,3.0,11.0
+101050,"Sacred Heart Catholic Primary School, Roehampton",522257.0,174642.0,E09000032,E01004642,Voluntary aided school,3.0,11.0
+101051,Our Lady Queen of Heaven RC School,523701.0,173544.0,E09000032,E01004631,Voluntary aided school,3.0,11.0
+101052,St Anselm's Catholic Primary School,528163.0,172354.0,E09000032,E01004481,Voluntary aided school,4.0,11.0
+101057,Hillbrook School,528119.0,171797.0,E09000032,E01004611,Foundation school,3.0,11.0
+101107,St John's Wood Primary School,527092.0,183132.0,E09000033,E01004724,Community school,3.0,11.0
+101110,Edward Wilson Primary School,525705.0,181829.0,E09000033,E01032512,Community school,3.0,11.0
+101111,Essendine Primary School,525311.0,182561.0,E09000033,E01004708,Community school,3.0,11.0
+101116,Hallfield Primary School,525940.0,181017.0,E09000033,E01004697,Community school,2.0,11.0
+101120,Queen's Park Primary School,524394.0,182467.0,E09000033,E01004721,Community school,3.0,11.0
+101121,All Souls CofE Primary School,529242.0,181745.0,E09000033,E01004763,Voluntary aided school,3.0,11.0
+101122,Burdett-Coutts and Townshend Foundation CofE Primary School,529548.0,179003.0,E09000033,E01004744,Voluntary aided school,2.0,11.0
+101123,Hampden Gurney CofE Primary School,527459.0,181362.0,E09000033,E01004658,Voluntary aided school,3.0,11.0
+101125,St Augustines Federated Schools: CofE Primary School,525528.0,183286.0,E09000033,E01004710,Voluntary aided school,3.0,11.0
+101126,St Barnabas' CofE Primary School,528421.0,178462.0,E09000033,E01035721,Voluntary aided school,3.0,11.0
+101127,St Clement Danes CofE Primary School,530611.0,181081.0,E09000033,E01004735,Voluntary aided school,4.0,11.0
+101128,St Edward's Catholic Primary School,527354.0,182085.0,E09000033,E01004659,Voluntary aided school,3.0,11.0
+101129,St Gabriel's CofE Primary School,529064.0,178013.0,E09000033,E01004665,Voluntary aided school,4.0,11.0
+101130,St George's Hanover Square CofE Primary School,528476.0,180499.0,E09000033,E01004761,Voluntary aided school,3.0,11.0
+101131,Soho Parish CofE Primary School,529559.0,180851.0,E09000033,E01035716,Voluntary aided school,3.0,11.0
+101132,St James & St John Church of England Primary School,526422.0,180910.0,E09000033,E01004694,Voluntary aided school,3.0,11.0
+101134,St Luke's CofE Primary School,524741.0,183012.0,E09000033,E01004723,Voluntary aided school,4.0,11.0
+101135,St Mary Magdalene & St Stephen's CofE Primary School,525683.0,181957.0,E09000033,E01004754,Voluntary aided school,3.0,11.0
+101136,St Mary's Bryanston Square CofE School,527546.0,181766.0,E09000033,E01004661,Voluntary aided school,2.0,11.0
+101137,St. Mary of the Angels Catholic Primary School,525132.0,181428.0,E09000033,E01035717,Voluntary aided school,3.0,11.0
+101138,"St Matthew's School, Westminster",529827.0,179261.0,E09000033,E01004732,Voluntary aided school,3.0,11.0
+101139,St Peter's CofE School,525183.0,182121.0,E09000033,E01004676,Voluntary aided school,5.0,11.0
+101140,St Peter's Eaton Square CofE Primary School,528736.0,179092.0,E09000033,E01004750,Voluntary aided school,4.0,11.0
+101141,St Saviour's CofE Primary School,525889.0,182081.0,E09000033,E01035715,Voluntary aided school,3.0,11.0
+101143,St Vincent's Catholic Primary School,528270.0,181584.0,E09000033,E01004717,Voluntary aided school,3.0,11.0
+101144,St Vincent De Paul Catholic Primary School,529206.0,179068.0,E09000033,E01004748,Voluntary aided school,3.0,11.0
+101147,Christ Church Bentinck CofE Primary School,527312.0,181875.0,E09000033,E01033603,Voluntary aided school,3.0,11.0
+101188,Dorothy Barley Infants' School,546774.0,185234.0,E09000002,E01000073,Community school,3.0,7.0
+101192,Manor Junior School,545828.0,184731.0,E09000002,E01000066,Community school,7.0,11.0
+101193,Manor Primary School,545828.0,184731.0,E09000002,E01034471,Community school,3.0,11.0
+101196,Northbury Primary School,544013.0,184537.0,E09000002,E01000007,Community school,3.0,11.0
+101198,Ripple Primary School,545104.0,183966.0,E09000002,E01000044,Community school,3.0,11.0
+101202,Beam Primary School,550210.0,183257.0,E09000002,E01000090,Community school,3.0,11.0
+101203,Furze Infant School,548410.0,188015.0,E09000002,E01000112,Community school,3.0,7.0
+101206,Grafton Primary School,548487.0,186607.0,E09000002,E01000100,Community school,3.0,11.0
+101211,Marsh Green Primary School,549365.0,183556.0,E09000002,E01000087,Community school,3.0,11.0
+101212,Rush Green Primary School,550976.0,187161.0,E09000002,E01000038,Community school,3.0,11.0
+101216,The Leys Primary School,550461.0,184093.0,E09000002,E01000103,Community school,3.0,11.0
+101219,Warren Junior School,548573.0,188552.0,E09000002,E01000110,Community school,7.0,11.0
+101220,"Thomas Arnold Primary School, Rowdowns Road",548866.0,184187.0,E09000002,E01000086,Community school,3.0,11.0
+101222,Valence Primary School,547891.0,186499.0,E09000002,E01000102,Community school,3.0,11.0
+101223,Village Infants' School,549383.0,184397.0,E09000002,E01000085,Community school,3.0,7.0
+101224,Rose Lane Primary School,548069.0,189608.0,E09000002,E01000027,Community school,3.0,11.0
+101226,William Bellamy Primary School,549437.0,186675.0,E09000002,E01000060,Community school,3.0,11.0
+101227,Parsloes Primary School,548794.0,184928.0,E09000002,E01000013,Community school,3.0,11.0
+101228,Five Elms Primary School,548829.0,186204.0,E09000002,E01000063,Community school,3.0,11.0
+101229,Henry Green Primary School,547581.0,186917.0,E09000002,E01000097,Community school,3.0,11.0
+101230,Roding Primary School,547098.0,184810.0,E09000002,E01000076,Community school,3.0,11.0
+101231,Becontree Primary School,546884.0,186340.0,E09000002,E01000019,Community school,3.0,11.0
+101232,John Perry Primary School,550639.0,184798.0,E09000002,E01000107,Community school,3.0,11.0
+101234,William Ford CofE Junior School,549383.0,184397.0,E09000002,E01000085,Voluntary aided school,7.0,11.0
+101237,St Peter's Catholic Primary School,548838.0,183622.0,E09000002,E01000053,Voluntary aided school,3.0,11.0
+101258,Barnfield Primary School,520286.0,190526.0,E09000003,E01000128,Community school,3.0,11.0
+101262,Brookland Junior School,525598.0,189486.0,E09000003,E01000205,Community school,7.0,11.0
+101263,Brookland Infant and Nursery School,525598.0,189486.0,E09000003,E01000205,Community school,3.0,7.0
+101264,Brunswick Park Primary and Nursery School,528271.0,194004.0,E09000003,E01000118,Community school,3.0,11.0
+101266,Church Hill School,527487.0,194545.0,E09000003,E01000117,Community school,4.0,11.0
+101269,Colindale Primary School,521535.0,189221.0,E09000003,E01000147,Community school,2.0,11.0
+101270,Coppetts Wood Primary School,528083.0,190944.0,E09000003,E01000164,Community school,2.0,11.0
+101271,Courtland School,521053.0,193499.0,E09000003,E01000228,Community school,4.0,11.0
+101272,Cromer Road Primary School,526107.0,196508.0,E09000003,E01000247,Community school,5.0,11.0
+101274,Deansbrook Infant School,520522.0,191904.0,E09000003,E01000233,Community school,3.0,7.0
+101277,Edgware Primary School,519523.0,191548.0,E09000003,E01000194,Community school,3.0,11.0
+101278,Fairway Primary School and Children's Centre,520747.0,193496.0,E09000003,E01000228,Community school,2.0,11.0
+101279,Foulds School,523906.0,196826.0,E09000003,E01000249,Community school,5.0,11.0
+101280,Frith Manor Primary School,524584.0,192216.0,E09000003,E01033911,Community school,1.0,11.0
+101281,Garden Suburb Junior School,524978.0,188877.0,E09000003,E01000211,Community school,7.0,11.0
+101282,Garden Suburb Infant School,524978.0,188877.0,E09000003,E01000211,Community school,4.0,7.0
+101283,Goldbeaters Primary School,520791.0,190910.0,E09000003,E01000130,Community school,3.0,11.0
+101285,Hollickwood Primary School,528626.0,191205.0,E09000003,E01000163,Foundation school,2.0,11.0
+101286,Holly Park Primary School,528107.0,192524.0,E09000003,E01000158,Community school,3.0,11.0
+101289,Livingstone Primary and Nursery School,526921.0,196783.0,E09000003,E01000167,Community school,3.0,11.0
+101290,Manorside Primary School,526076.0,190672.0,E09000003,E01000297,Community school,3.0,11.0
+101293,Monkfrith Primary School,528377.0,194732.0,E09000003,E01000115,Community school,5.0,11.0
+101294,Moss Hall Junior School,525719.0,191679.0,E09000003,E01000302,Community school,7.0,11.0
+101295,Moss Hall Infant School,525719.0,191679.0,E09000003,E01000302,Community school,5.0,7.0
+101296,Northside Primary School,526149.0,192370.0,E09000003,E01000299,Community school,2.0,11.0
+101298,Woodridge Primary School,525135.0,193224.0,E09000003,E01000283,Community school,4.0,11.0
+101299,Tudor Primary School,526318.0,190626.0,E09000003,E01000319,Community school,3.0,11.0
+101301,Underhill School,524264.0,195593.0,E09000003,E01000291,Community school,2.0,11.0
+101304,Whitings Hill Primary School,523382.0,195582.0,E09000003,E01000287,Community school,3.0,11.0
+101309,Chalgrove Primary School,524324.0,189626.0,E09000003,E01000201,Community school,4.0,11.0
+101311,Sunnyfields Primary School,522591.0,189509.0,E09000003,E01000239,Community school,3.0,11.0
+101312,Queenswell Infant & Nursery School,526761.0,193616.0,E09000003,E01000281,Community school,3.0,7.0
+101313,Queenswell Junior School,526761.0,193616.0,E09000003,E01000281,Community school,7.0,11.0
+101314,Danegrove Primary School,527502.0,195470.0,E09000003,E01000173,Community school,5.0,11.0
+101315,All Saints' CofE Primary School NW2,524872.0,186340.0,E09000003,E01000139,Voluntary aided school,4.0,11.0
+101316,Christ Church Primary School,523772.0,197077.0,E09000003,E01000249,Voluntary aided school,2.0,11.0
+101317,Holy Trinity CofE Primary School,526979.0,189621.0,E09000003,E01000177,Voluntary aided school,2.0,11.0
+101318,Monken Hadley CofE Primary School,525232.0,197563.0,E09000003,E01000254,Voluntary aided school,4.0,11.0
+101319,St John's CofE Junior Mixed and Infant School,527783.0,192497.0,E09000003,E01000158,Voluntary aided school,3.0,11.0
+101321,St John's CofE Primary and Nursery School,526280.0,193561.0,E09000003,E01000284,Voluntary aided school,3.0,11.0
+101323,St Mary's CofE Primary School,524746.0,190949.0,E09000003,E01000204,Voluntary aided school,2.0,11.0
+101324,"St Mary's CofE Primary School, East Barnet",527317.0,195180.0,E09000003,E01000174,Voluntary aided school,4.0,11.0
+101325,St Paul's CofE Primary School N11,528581.0,192454.0,E09000003,E01000124,Voluntary aided school,3.0,11.0
+101326,St Paul's CofE Primary School NW7,522534.0,192785.0,E09000003,E01000261,Voluntary aided school,4.0,11.0
+101327,"St Andrew's CofE Voluntary Aided Primary School, Totteridge",524931.0,193894.0,E09000003,E01000279,Voluntary aided school,4.0,11.0
+101328,Trent CofE Primary School,527895.0,196294.0,E09000003,E01000168,Voluntary aided school,5.0,11.0
+101329,All Saints' CofE Nursery and Primary School N20,526917.0,193833.0,E09000003,E01000281,Voluntary aided school,3.0,11.0
+101330,The Annunciation Catholic Infant School,520591.0,190759.0,E09000003,E01000129,Voluntary aided school,3.0,7.0
+101331,Our Lady of Lourdes RC School,526420.0,190952.0,E09000003,E01000316,Voluntary aided school,3.0,11.0
+101332,St Agnes' Catholic Primary School,524125.0,186126.0,E09000003,E01000142,Voluntary aided school,3.0,11.0
+101333,St Catherine's RC School,525067.0,195987.0,E09000003,E01000293,Voluntary aided school,2.0,11.0
+101334,St Vincent's Catholic Primary School,523095.0,192498.0,E09000003,E01000255,Voluntary aided school,2.0,11.0
+101335,St Theresa's Catholic Primary School,525580.0,189989.0,E09000003,E01000203,Voluntary aided school,3.0,11.0
+101337,St Joseph's Catholic Primary School,522624.0,189086.0,E09000003,E01000237,Voluntary aided school,3.0,11.0
+101338,Sacred Heart Roman Catholic Primary School,527228.0,193996.0,E09000003,E01000272,Voluntary aided school,4.0,11.0
+101339,Blessed Dominic Catholic Primary School,521926.0,190575.0,E09000003,E01000151,Voluntary aided school,3.0,11.0
+101340,Rosh Pinah Primary School,519803.0,193439.0,E09000003,E01000187,Voluntary aided school,3.0,11.0
+101341,Menorah Primary School for Girls,524350.0,187703.0,E09000003,E01000220,Voluntary aided school,3.0,11.0
+101342,The Annunciation RC Junior School,520712.0,191769.0,E09000003,E01000235,Voluntary aided school,7.0,11.0
+101376,Mathilda Marks-Kennedy Jewish Primary School,520922.0,192197.0,E09000003,E01000234,Voluntary aided school,3.0,11.0
+101402,Crook Log Primary School,547838.0,175369.0,E09000004,E01000389,Community school,3.0,11.0
+101403,Danson Primary School,546456.0,175254.0,E09000004,E01000388,Community school,4.0,11.0
+101413,Upton Primary School,548454.0,174428.0,E09000004,E01000363,Community school,3.0,11.0
+101426,Birkbeck Primary School,546481.0,172429.0,E09000004,E01000462,Community school,3.0,11.0
+101429,Longlands Primary School,545413.0,172315.0,E09000004,E01000426,Community school,5.0,11.0
+101434,Dulverton Primary School,544704.0,172874.0,E09000004,E01000425,Community school,3.0,11.0
+101437,Parkway Primary School,548249.0,179254.0,E09000004,E01000464,Community school,3.0,11.0
+101451,Foster's Primary School,547493.0,175925.0,E09000004,E01000393,Voluntary controlled school,3.0,11.0
+101455,St Stephen's Catholic Primary School,546284.0,176040.0,E09000004,E01000414,Voluntary aided school,5.0,11.0
+101456,Our Lady of the Rosary Catholic Primary School,545455.0,174139.0,E09000004,E01000341,Voluntary aided school,3.0,11.0
+101457,St Joseph's Catholic Primary School,551010.0,175012.0,E09000004,E01000377,Voluntary aided school,4.0,11.0
+101458,St Fidelis Catholic Primary School,550289.0,177625.0,E09000004,E01000438,Voluntary aided school,3.0,11.0
+101460,St John Fisher Catholic Primary School,548112.0,179495.0,E09000004,E01000465,Voluntary aided school,4.0,11.0
+101495,Anson Primary School,523551.0,185363.0,E09000005,E01000557,Community school,3.0,11.0
+101496,Brentfield Primary School,520547.0,184530.0,E09000005,E01000596,Community school,2.0,11.0
+101498,Carlton Vale Infant School,524972.0,183014.0,E09000005,E01000551,Community school,3.0,7.0
+101499,Harlesden Primary School,521137.0,183464.0,E09000005,E01000525,Community school,3.0,11.0
+101500,Mount Stewart Junior School,517838.0,187953.0,E09000005,E01000538,Community school,7.0,11.0
+101501,Mount Stewart Infant School,517772.0,187995.0,E09000005,E01000538,Community school,2.0,7.0
+101502,Uxendon Manor Primary School,518026.0,188544.0,E09000005,E01033463,Community school,3.0,11.0
+101503,Kingsbury Green Primary School,519977.0,188577.0,E09000005,E01000515,Community school,3.0,11.0
+101504,Leopold Primary School,521666.0,184295.0,E09000005,E01000527,Community school,3.0,11.0
+101506,Lyon Park Primary School,518822.0,184117.0,E09000005,E01000476,Community school,3.0,11.0
+101507,Malorees Primary School,523968.0,184019.0,E09000005,E01000491,Community school,3.0,11.0
+101508,Northview Junior and Infant School,521591.0,185552.0,E09000005,E01000511,Community school,3.0,11.0
+101509,Park Lane Primary School,518377.0,185485.0,E09000005,E01033935,Community school,3.0,11.0
+101510,Preston Park Primary School,517958.0,187213.0,E09000005,E01000573,Community school,2.0,11.0
+101511,Roe Green Junior School,519786.0,189328.0,E09000005,E01000590,Community school,7.0,11.0
+101512,Roe Green Infant School,519786.0,189328.0,E09000005,E01000590,Community school,3.0,7.0
+101515,Barham Primary School,517505.0,184641.0,E09000005,E01000631,Community school,3.0,11.0
+101518,Wykeham Primary School,521071.0,186327.0,E09000005,E01000627,Community school,3.0,11.0
+101519,Elsley Primary School,518881.0,184714.0,E09000005,E01000630,Community school,3.0,11.0
+101520,Donnington Primary School,522602.0,184026.0,E09000005,E01000643,Community school,3.0,11.0
+101521,The Stonebridge School,520512.0,183840.0,E09000005,E01033938,Community school,3.0,11.0
+101522,Newfield Primary School,521873.0,184023.0,E09000005,E01000522,Community school,3.0,11.0
+101524,Mitchell Brook Primary School,521012.0,184771.0,E09000005,E01000601,Community school,3.0,11.0
+101526,Chalkhill Primary School,519973.0,186213.0,E09000005,E01033932,Community school,3.0,11.0
+101527,Salusbury Primary School,524562.0,183530.0,E09000005,E01000580,Community school,3.0,11.0
+101528,Oliver Goldsmith Primary School,520811.0,188560.0,E09000005,E01000514,Community school,3.0,11.0
+101530,Mora Primary School,523143.0,185937.0,E09000005,E01000554,Community school,3.0,11.0
+101531,Fryent Primary School,520390.0,187901.0,E09000005,E01000519,Community school,3.0,11.0
+101533,Christ Church CofE Primary School,524603.0,184020.0,E09000005,E01000546,Voluntary aided school,4.0,11.0
+101534,John Keble CofE Primary School,521673.0,183577.0,E09000005,E01000533,Voluntary aided school,3.0,11.0
+101535,Princess Frederica CofE Primary School,523191.0,183060.0,E09000005,E01000585,Voluntary aided school,3.0,11.0
+101537,St Mary's CofE Primary School,521289.0,184721.0,E09000005,E01000526,Voluntary aided school,3.0,11.0
+101539,St Joseph's Catholic Junior School,518800.0,185082.0,E09000005,E01000636,Voluntary aided school,7.0,11.0
+101542,St Mary Magdalen's Catholic Junior School,522931.0,184693.0,E09000005,E01000642,Voluntary aided school,7.0,11.0
+101543,St Robert Southwell Catholic Primary School,520098.0,188410.0,E09000005,E01000515,Voluntary aided school,3.0,11.0
+101544,Convent of Jesus and Mary RC Infant School,523022.0,184716.0,E09000005,E01000642,Voluntary aided school,3.0,7.0
+101545,Our Lady of Lourdes Catholic Primary School,520418.0,183856.0,E09000005,E01033938,Voluntary aided school,2.0,11.0
+101546,St Joseph's Catholic Infant School,518816.0,185048.0,E09000005,E01000636,Voluntary aided school,3.0,7.0
+101549,Sinai Jewish Primary School,519138.0,188145.0,E09000005,E01000484,Voluntary aided school,3.0,11.0
+101554,Malorees Junior School,523903.0,184046.0,E09000005,E01000491,Foundation school,7.0,11.0
+101555,St Joseph's Roman Catholic Primary School,521386.0,184266.0,E09000005,E01000527,Voluntary aided school,2.0,11.0
+101556,The Kilburn Park School Foundation,524976.0,183008.0,E09000005,E01000551,Foundation school,7.0,11.0
+101574,Islamia Primary School,524372.0,183812.0,E09000005,E01000580,Voluntary aided school,4.0,11.0
+101635,Edgebury Primary School,544161.0,171654.0,E09000006,E01000692,Foundation school,4.0,11.0
+101641,Poverest Primary School,546288.0,167923.0,E09000006,E01000733,Foundation school,4.0,11.0
+101712,Beulah Junior School,532319.0,168968.0,E09000008,E01001152,Community school,7.0,11.0
+101720,Elmwood Junior School,531899.0,166938.0,E09000008,E01034139,Community school,7.0,11.0
+101721,Elmwood Infant School,531899.0,166938.0,E09000008,E01034139,Community school,3.0,7.0
+101725,Howard Primary School,532255.0,164547.0,E09000008,E01001170,Community school,4.0,11.0
+101733,Purley Oaks Primary School,532675.0,163281.0,E09000008,E01001034,Community school,3.0,11.0
+101745,Winterbourne Junior Girls' School,531246.0,168384.0,E09000008,E01000995,Community school,7.0,11.0
+101746,Winterbourne Nursery and Infants' School,531246.0,168384.0,E09000008,E01000995,Community school,3.0,7.0
+101756,Beaumont Primary School,531004.0,160459.0,E09000008,E01001074,Community school,4.0,11.0
+101758,Gresham Primary School,534004.0,161153.0,E09000008,E01001102,Community school,4.0,11.0
+101759,Smitham Primary School,529438.0,159363.0,E09000008,E01001027,Community school,3.0,11.0
+101760,The Hayes Primary School,531884.0,159210.0,E09000008,E01001070,Community school,4.0,11.0
+101773,Forestdale Primary School,536631.0,162965.0,E09000008,E01001065,Community school,4.0,11.0
+101776,Heavers Farm Primary School,533582.0,167776.0,E09000008,E01001112,Community school,3.0,11.0
+101778,Downsview Primary and Nursery School,532089.0,170181.0,E09000008,E01001157,Community school,3.0,11.0
+101779,Park Hill Infant School,533103.0,165267.0,E09000008,E01001044,Community school,5.0,7.0
+101781,Greenvale Primary School,535795.0,161822.0,E09000008,E01001119,Community school,4.0,11.0
+101783,Rockmount Primary School,532922.0,170668.0,E09000008,E01001162,Community school,3.0,11.0
+101785,Norbury Manor Primary School,530283.0,169557.0,E09000008,E01001085,Community school,3.0,11.0
+101787,All Saints CofE Primary School,533166.0,169871.0,E09000008,E01001137,Voluntary aided school,3.0,11.0
+101788,St John's CofE Primary School,535847.0,165564.0,E09000008,E01001063,Voluntary aided school,4.0,11.0
+101792,Coulsdon CofE Primary School,530879.0,158235.0,E09000008,E01001020,Voluntary aided school,4.0,11.0
+101793,Christ Church CofE Primary School (Purley),531675.0,162092.0,E09000008,E01001093,Voluntary aided school,4.0,11.0
+101795,St Joseph's RC Junior School,532238.0,170854.0,E09000008,E01001163,Voluntary aided school,7.0,11.0
+101797,Margaret Roper Catholic Primary School,531024.0,162230.0,E09000008,E01001092,Voluntary aided school,4.0,11.0
+101803,St Joseph's RC Infant School,532253.0,170945.0,E09000008,E01001163,Voluntary aided school,3.0,7.0
+101815,Selsdon Primary and Nursery School,535492.0,162668.0,E09000008,E01001123,Foundation school,3.0,11.0
+101867,Acton Gardens Primary School,519947.0,179646.0,E09000009,E01001357,Community school,3.0,11.0
+101868,East Acton Primary School,521103.0,180608.0,E09000009,E01001241,Community school,4.0,11.0
+101869,Oldfield Primary School,514747.0,183343.0,E09000009,E01001272,Community school,3.0,11.0
+101870,North Ealing Primary School,516812.0,182139.0,E09000009,E01001208,Community school,3.0,11.0
+101873,St John's Primary School,516396.0,180566.0,E09000009,E01001249,Community school,3.0,11.0
+101874,St Mark's Primary School,515260.0,179972.0,E09000009,E01001254,Community school,3.0,11.0
+101875,West Twyford Primary School,519171.0,183099.0,E09000009,E01001276,Community school,3.0,11.0
+101876,West Acton Primary School,519547.0,181243.0,E09000009,E01001197,Community school,3.0,11.0
+101877,Mayfield Primary School,514713.0,181489.0,E09000009,E01001284,Community school,3.0,11.0
+101878,Beaconsfield Primary and Nursery School,512363.0,179989.0,E09000009,E01001362,Community school,3.0,11.0
+101879,Coston Primary School,514489.0,182952.0,E09000009,E01001267,Community school,3.0,11.0
+101880,Downe Manor Primary School,510787.0,182863.0,E09000009,E01001329,Community school,3.0,11.0
+101881,Drayton Green Primary School,516345.0,180901.0,E09000009,E01001207,Community school,3.0,11.0
+101884,North Primary School,512947.0,180576.0,E09000009,E01001215,Community school,4.0,11.0
+101885,Ravenor Primary School,513414.0,182823.0,E09000009,E01001258,Community school,3.0,11.0
+101886,Selborne Primary School,515583.0,183332.0,E09000009,E01001346,Community school,3.0,11.0
+101887,Hambrough Primary School,512655.0,180075.0,E09000009,E01001360,Community school,3.0,11.0
+101888,Hobbayne Primary School,515486.0,181074.0,E09000009,E01001288,Community school,3.0,11.0
+101889,John Perryn Primary School,521131.0,181446.0,E09000009,E01001239,Community school,3.0,11.0
+101890,Southfield Primary School,521084.0,179487.0,E09000009,E01001375,Community school,4.0,11.0
+101891,Allenby Primary School,513496.0,181384.0,E09000009,E01001217,Community school,3.0,11.0
+101892,Blair Peach Primary School,512312.0,179996.0,E09000009,E01001365,Community school,3.0,11.0
+101893,Clifton Primary School,512382.0,178931.0,E09000009,E01001372,Community school,3.0,11.0
+101894,Dairy Meadow Primary School,513011.0,179361.0,E09000009,E01001338,Community school,3.0,11.0
+101895,Derwentwater Primary School,520204.0,180451.0,E09000009,E01001201,Community school,3.0,11.0
+101896,Durdans Park Primary School,512757.0,181747.0,E09000009,E01001294,Community school,3.0,11.0
+101897,Fielding Primary School,516659.0,179349.0,E09000009,E01001306,Community school,3.0,11.0
+101898,Gifford Primary School,512879.0,183165.0,E09000009,E01001263,Community school,3.0,11.0
+101899,Greenwood Primary School,514461.0,185172.0,E09000009,E01001309,Community school,4.0,11.0
+101900,"Havelock Primary School, Nursery & Arp",512898.0,179250.0,E09000009,E01001333,Community school,3.0,11.0
+101901,Horsenden Primary School,515394.0,184779.0,E09000009,E01001307,Community school,3.0,11.0
+101902,Willow Tree Primary School,512441.0,184719.0,E09000009,E01001317,Community school,3.0,11.0
+101903,Lady Margaret Primary School,512963.0,181786.0,E09000009,E01001294,Community school,4.0,11.0
+101904,Little Ealing Primary School,517493.0,179052.0,E09000009,E01001301,Community school,3.0,11.0
+101905,Oaklands Primary School,515915.0,179783.0,E09000009,E01001253,Community school,3.0,11.0
+101906,Perivale Primary School,517216.0,183407.0,E09000009,E01001341,Community school,3.0,11.0
+101907,Stanhope Primary School,514145.0,182174.0,E09000009,E01001261,Community school,2.0,11.0
+101908,Viking Primary School,511587.0,182837.0,E09000009,E01001331,Community school,3.0,11.0
+101909,Wolf Fields Primary School,512910.0,178713.0,E09000009,E01001336,Community school,3.0,11.0
+101910,Featherstone Primary and Nursery School,511470.0,178903.0,E09000009,E01001370,Community school,3.0,11.0
+101911,Three Bridges Primary School,513597.0,179239.0,E09000009,E01001339,Community school,3.0,11.0
+101912,Montpelier Primary School,517782.0,181877.0,E09000009,E01001280,Community school,4.0,11.0
+101913,Tudor Primary School,512183.0,180763.0,E09000009,E01001363,Community school,3.0,11.0
+101916,Vicar's Green Primary School,517274.0,183120.0,E09000009,E01001345,Community school,3.0,11.0
+101919,Mount Carmel Catholic Primary School,517527.0,179037.0,E09000009,E01001301,Voluntary aided school,3.0,11.0
+101920,Our Lady of the Visitation Catholic Primary School,514406.0,182097.0,E09000009,E01001261,Voluntary aided school,3.0,11.0
+101921,St John Fisher Catholic Primary School,517181.0,183465.0,E09000009,E01001341,Voluntary aided school,3.0,11.0
+101922,St Anselm's Catholic Primary School,512517.0,179361.0,E09000009,E01001333,Voluntary aided school,3.0,11.0
+101923,St Gregory's Catholic Primary School,517570.0,181970.0,E09000009,E01001281,Voluntary aided school,3.0,11.0
+101924,St Joseph's Catholic Primary School,515447.0,180385.0,E09000009,E01001251,Voluntary aided school,3.0,11.0
+101925,St Raphael's Catholic Primary School,510877.0,183102.0,E09000009,E01001325,Voluntary aided school,3.0,11.0
+101926,St Vincent's Catholic Primary School,519880.0,180631.0,E09000009,E01001197,Voluntary aided school,3.0,11.0
+101927,The Edward Betham Church of England Primary School,514489.0,182952.0,E09000009,E01001267,Voluntary aided school,3.0,11.0
+101981,Capel Manor Primary School,534602.0,199562.0,E09000010,E01001412,Community school,4.0,11.0
+101983,Carterhatch Infant School,534567.0,197594.0,E09000010,E01001516,Community school,2.0,7.0
+101984,Chase Side Primary School,532249.0,197316.0,E09000010,E01001540,Community school,3.0,11.0
+101989,Firs Farm Primary School,532811.0,193418.0,E09000010,E01001404,Community school,3.0,11.0
+101992,Garfield Primary School,529140.0,192210.0,E09000010,E01001529,Community school,3.0,11.0
+101993,George Spicer Primary School,533756.0,196492.0,E09000010,E01001518,Community school,4.0,11.0
+101994,Hadley Wood Primary School,526427.0,198404.0,E09000010,E01001417,Community school,4.0,11.0
+101996,Hazelwood Junior School,531435.0,192682.0,E09000010,E01001500,Community school,7.0,11.0
+101997,Hazelwood Infant School,531435.0,192682.0,E09000010,E01001500,Community school,3.0,7.0
+102002,Prince of Wales Primary School,536770.0,198543.0,E09000010,E01001445,Community school,3.0,11.0
+102003,The Raglan Junior School,533517.0,194889.0,E09000010,E01001400,Community school,7.0,11.0
+102004,Raglan Infant School,533476.0,194848.0,E09000010,E01001399,Community school,3.0,7.0
+102005,Suffolks Primary School,534629.0,197220.0,E09000010,E01001513,Community school,2.0,11.0
+102006,Tottenhall Infant School,531249.0,191940.0,E09000010,E01001394,Community school,3.0,7.0
+102014,Southbury Primary School,535099.0,196350.0,E09000010,E01001505,Community school,2.0,11.0
+102024,Bush Hill Park Primary School,534127.0,195811.0,E09000010,E01001515,Community school,2.0,11.0
+102026,St Michael at Bowes CofE Junior School,531297.0,191945.0,E09000010,E01001394,Voluntary aided school,7.0,11.0
+102027,St John's CofE Primary School,531794.0,198989.0,E09000010,E01001412,Voluntary aided school,4.0,11.0
+102028,Forty Hill CofE Primary School,534178.0,198690.0,E09000010,E01001412,Voluntary aided school,3.0,11.0
+102029,St Andrew's CofE Primary School,533105.0,197208.0,E09000010,E01001542,Voluntary aided school,5.0,11.0
+102030,St Andrew's Southgate Primary School (CE),529664.0,194475.0,E09000010,E01001520,Voluntary aided school,4.0,11.0
+102031,Freezywater St George's CofE VA Primary School,535716.0,199064.0,E09000010,E01001547,Voluntary aided school,3.0,11.0
+102032,St John and St James CofE Primary School,533972.0,191952.0,E09000010,E01001554,Voluntary aided school,3.0,11.0
+102033,St James CofE Primary School,535271.0,197210.0,E09000010,E01001439,Voluntary aided school,4.0,11.0
+102034,St Michael's CofE Primary School,532321.0,197873.0,E09000010,E01001408,Voluntary aided school,3.0,11.0
+102035,St Paul's CofE Primary School,531633.0,194592.0,E09000010,E01001569,Voluntary aided school,4.0,11.0
+102036,St Mary's Catholic Primary School,535756.0,196174.0,E09000010,E01001504,Voluntary aided school,3.0,11.0
+102037,St Edmund's Catholic Primary School,534676.0,194044.0,E09000010,E01001491,Voluntary aided school,4.0,11.0
+102038,St George's Catholic Primary School,532834.0,197346.0,E09000010,E01001541,Voluntary aided school,3.0,11.0
+102039,St Monica's RC Primary School,530216.0,193218.0,E09000010,E01001532,Voluntary aided school,2.0,11.0
+102040,Our Lady of Lourdes Catholic Primary School,529136.0,192398.0,E09000010,E01001529,Voluntary aided school,3.0,11.0
+102041,Latymer All Saints CofE Primary School,533785.0,193650.0,E09000010,E01001423,Voluntary aided school,3.0,11.0
+102054,St Matthew's CofE Primary School,535458.0,195673.0,E09000010,E01001502,Voluntary aided school,3.0,11.0
+102078,Belmont Junior School,532117.0,189860.0,E09000014,E01002083,Community school,7.0,11.0
+102079,Belmont Infant School,532117.0,189860.0,E09000014,E01002083,Community school,3.0,7.0
+102080,Bounds Green Junior School,530010.0,191371.0,E09000014,E01001970,Community school,7.0,11.0
+102081,Bounds Green Infant School,530010.0,191371.0,E09000014,E01001970,Community school,3.0,7.0
+102084,Campsbourne Junior School,530186.0,189628.0,E09000014,E01002018,Community school,7.0,11.0
+102085,Campsbourne Infant School,530186.0,189628.0,E09000014,E01002018,Community school,3.0,7.0
+102087,The Devonshire Hill Nursery & Primary School,532986.0,191555.0,E09000014,E01002091,Community school,2.0,11.0
+102091,Earlsmead Primary School,533919.0,188987.0,E09000014,E01002071,Community school,2.0,11.0
+102092,Highgate Primary School,527936.0,188318.0,E09000014,E01002010,Community school,3.0,11.0
+102094,Lancasterian Primary School,533638.0,190953.0,E09000014,E01002041,Community school,2.0,11.0
+102097,Coldfall Primary School,527923.0,190269.0,E09000014,E01001995,Community school,3.0,11.0
+102098,Tetherdown Primary School,528127.0,189297.0,E09000014,E01001993,Community school,4.0,11.0
+102106,Rokesly Junior School,530372.0,188815.0,E09000014,E01002017,Community school,7.0,11.0
+102107,Rokesly Infant & Nursery School,530372.0,188815.0,E09000014,E01002017,Community school,3.0,7.0
+102110,South Harringay Junior School,531662.0,188552.0,E09000014,E01001999,Community school,7.0,11.0
+102111,South Harringay Infant School,531649.0,188545.0,E09000014,E01001999,Community school,3.0,7.0
+102115,West Green Primary School,532173.0,189052.0,E09000014,E01002048,Community school,4.0,11.0
+102121,Coleridge Primary School,529869.0,187979.0,E09000014,E01001984,Community school,3.0,11.0
+102124,Welbourne Primary School,533991.0,189460.0,E09000014,E01002066,Community school,2.0,11.0
+102125,Lea Valley Primary School,534398.0,191220.0,E09000014,E01002036,Community school,3.0,11.0
+102127,Ferry Lane Primary School,534658.0,189183.0,E09000014,E01033944,Community school,3.0,11.0
+102128,Rhodes Avenue Primary School,529205.0,190797.0,E09000014,E01001963,Community school,3.0,11.0
+102129,Crowland Primary School,534027.0,188633.0,E09000014,E01002050,Community school,2.0,11.0
+102130,Weston Park Primary School,530869.0,188546.0,E09000014,E01002059,Community school,3.0,11.0
+102131,The Willow Primary School,532942.0,190328.0,E09000014,E01002082,Community school,3.0,11.0
+102132,St Aidan's Voluntary Controlled Primary School,531031.0,187951.0,E09000014,E01002061,Voluntary controlled school,3.0,11.0
+102135,St Michael's CofE Voluntary Aided Primary School,528221.0,187707.0,E09000014,E01002008,Voluntary aided school,3.0,11.0
+102136,St James Church of England Primary School,528330.0,189117.0,E09000014,E01002022,Voluntary aided school,3.0,11.0
+102139,St Mary's CofE Primary School,530237.0,189323.0,E09000014,E01002013,Voluntary aided school,2.0,11.0
+102142,Our Lady of Muswell Catholic Primary School,528328.0,190003.0,E09000014,E01001997,Voluntary aided school,3.0,11.0
+102143,St Francis de Sales RC Junior School,533829.0,191113.0,E09000014,E01032575,Voluntary aided school,7.0,11.0
+102144,St Ignatius RC Primary School,533578.0,188225.0,E09000014,E01002055,Voluntary aided school,3.0,11.0
+102145,St Mary's Priory RC Junior School,532704.0,188523.0,E09000014,E01002046,Voluntary aided school,7.0,11.0
+102146,St Paul's Catholic Primary School,530647.0,190404.0,E09000014,E01002098,Voluntary aided school,4.0,11.0
+102147,St Mary's Priory RC Infant School,532704.0,188523.0,E09000014,E01002046,Voluntary aided school,3.0,7.0
+102149,St Francis de Sales RC Infant School,533835.0,191076.0,E09000014,E01032575,Voluntary aided school,3.0,7.0
+102150,St Martin of Porres Catholic Primary School,529363.0,191548.0,E09000014,E01001973,Voluntary aided school,4.0,11.0
+102152,St John Vianney RC Primary School,531938.0,189139.0,E09000014,E01002048,Voluntary aided school,3.0,11.0
+102181,"Newton Farm Nursery, Infant and Junior School",512751.0,186853.0,E09000015,E01002216,Community school,3.0,11.0
+102185,Roxeth Primary School,514880.0,186903.0,E09000015,E01002132,Community school,4.0,11.0
+102186,Marlborough Primary School,515062.0,189176.0,E09000015,E01002181,Community school,3.0,11.0
+102187,Grimsdyke School,512522.0,191622.0,E09000015,E01002146,Community school,4.0,11.0
+102188,Camrose Primary With Nursery,518642.0,190777.0,E09000015,E01002121,Community school,3.0,11.0
+102189,Belmont School,515938.0,190307.0,E09000015,E01002231,Community school,3.0,11.0
+102193,Kenmore Park Junior School,518049.0,189732.0,E09000015,E01002168,Community school,7.0,11.0
+102199,Longfield Primary School,513061.0,188104.0,E09000015,E01002153,Community school,3.0,11.0
+102202,Grange Primary School,513848.0,187215.0,E09000015,E01002241,Community school,3.0,11.0
+102204,Cannon Lane Primary School,511772.0,188117.0,E09000015,E01002196,Community school,4.0,11.0
+102207,Pinner Park Primary School,513787.0,189949.0,E09000015,E01034593,Community school,3.0,11.0
+102209,Stag Lane Primary School,519215.0,190371.0,E09000015,E01002124,Community school,3.0,11.0
+102211,Elmgrove Primary School & Nursery,516269.0,189135.0,E09000015,E01002172,Community school,3.0,11.0
+102212,Kenmore Park Infant and Nursery School,518049.0,189732.0,E09000015,E01002168,Community school,3.0,7.0
+102213,Roxbourne Primary School,512138.0,186828.0,E09000015,E01032576,Community school,0.0,11.0
+102214,Stanburn Primary School,517199.0,191102.0,E09000015,E01002109,Community school,3.0,11.0
+102215,Weald Rise Primary School,515645.0,191154.0,E09000015,E01002141,Community school,2.0,11.0
+102216,West Lodge Primary School,511769.0,189316.0,E09000015,E01002192,Community school,4.0,11.0
+102222,Norbury School,515100.0,188475.0,E09000015,E01002128,Community school,3.0,11.0
+102223,Vaughan Primary School,514092.0,188075.0,E09000015,E01002238,Community school,3.0,11.0
+102224,Glebe Primary School,518119.0,189466.0,E09000015,E01002167,Community school,3.0,11.0
+102230,St Anselm's Catholic Primary School,515057.0,187620.0,E09000015,E01002129,Voluntary aided school,4.0,11.0
+102231,St Teresa's Catholic Primary School and Nursery,514022.0,190858.0,E09000015,E01002151,Voluntary aided school,3.0,11.0
+102268,The James Oglethorpe Primary School,557570.0,186616.0,E09000016,E01002391,Community school,4.0,11.0
+102269,Harold Wood Primary School,554997.0,189759.0,E09000016,E01002268,Community school,4.0,11.0
+102272,Elm Park Primary School,552881.0,185723.0,E09000016,E01002287,Community school,4.0,11.0
+102276,Hylands Primary School,552372.0,188182.0,E09000016,E01002352,Community school,3.0,11.0
+102278,Harold Court Primary School,555322.0,191230.0,E09000016,E01002298,Community school,3.0,11.0
+102280,Langtons Infant School & Nursery,554073.0,187242.0,E09000016,E01002359,Community school,3.0,7.0
+102283,Suttons Primary School,553877.0,185820.0,E09000016,E01002285,Community school,2.0,11.0
+102285,Whybridge Infant School,552029.0,184000.0,E09000016,E01002372,Community school,4.0,7.0
+102291,Clockhouse Primary School,549988.0,191473.0,E09000016,E01002302,Community school,3.0,11.0
+102294,Crownfield Junior School,549433.0,190308.0,E09000016,E01002325,Community school,7.0,11.0
+102295,Crownfield Infant School,549433.0,190308.0,E09000016,E01002325,Community school,3.0,7.0
+102299,Parklands Primary School,550658.0,189989.0,E09000016,E01002338,Community school,2.0,11.0
+102303,Squirrels Heath Primary School,552912.0,188781.0,E09000016,E01002382,Community school,4.0,11.0
+102308,Gidea Park Primary School,552099.0,189498.0,E09000016,E01002354,Community school,4.0,11.0
+102309,Towers Infant School,553371.0,187923.0,E09000016,E01002318,Community school,2.0,7.0
+102312,Parsonage Farm Primary School,553377.0,182904.0,E09000016,E01002343,Community school,4.0,11.0
+102313,Towers Junior School,553323.0,187827.0,E09000016,E01002318,Community school,7.0,11.0
+102314,Brady Primary School,553052.0,181755.0,E09000016,E01002347,Community school,3.0,11.0
+102316,Scotts Primary School,553545.0,185156.0,E09000016,E01002288,Community school,4.0,11.0
+102317,Broadford Primary School,553971.0,191548.0,E09000016,E01002297,Community school,3.0,11.0
+102319,Newtons Primary School,550692.0,183278.0,E09000016,E01002368,Community school,3.0,11.0
+102321,Nelmes Primary School,554864.0,189070.0,E09000016,E01002268,Community school,4.0,11.0
+102322,Mead Primary School,554608.0,191769.0,E09000016,E01002299,Community school,3.0,11.0
+102324,Rainham Village Primary School,552430.0,182359.0,E09000016,E01002345,Community school,3.0,11.0
+102325,Hilldene Primary School,552977.0,191609.0,E09000016,E01002311,Community school,3.0,11.0
+102328,St Edward's Church of England Voluntary Aided Primary School,551124.0,189480.0,E09000016,E01002340,Voluntary aided school,2.0,11.0
+102329,St Mary's Catholic Primary School,552326.0,187377.0,E09000016,E01002320,Voluntary aided school,4.0,11.0
+102330,La Salette Catholic Primary School,552102.0,182754.0,E09000016,E01002370,Voluntary aided school,4.0,11.0
+102331,St Patrick's Catholic Primary School,549636.0,190807.0,E09000016,E01002326,Voluntary aided school,4.0,11.0
+102332,St Ursula's Catholic Primary School,553024.0,191942.0,E09000016,E01002311,Voluntary aided school,3.0,11.0
+102334,St Joseph's Catholic Primary School,555976.0,186572.0,E09000016,E01002386,Voluntary aided school,4.0,11.0
+102335,St Peter's Catholic Primary School,551046.0,189566.0,E09000016,E01002340,Voluntary aided school,4.0,11.0
+102336,St Alban's Catholic Primary School,552574.0,184346.0,E09000016,E01002267,Voluntary aided school,4.0,11.0
+102368,Bourne Primary School,511334.0,184924.0,E09000017,E01002499,Community school,3.0,11.0
+102369,The Breakspear School,507406.0,186808.0,E09000017,E01002459,Community school,3.0,11.0
+102373,Colham Manor Primary School,507071.0,181457.0,E09000017,E01002551,Community school,2.0,11.0
+102375,Coteford Infant School,510186.0,188456.0,E09000017,E01002436,Community school,3.0,7.0
+102377,Deanesfield Primary School,511664.0,185752.0,E09000017,E01002498,Community school,3.0,11.0
+102379,Field End Infant School,511795.0,186560.0,E09000017,E01002421,Community school,2.0,7.0
+102380,Glebe Primary School,508488.0,185552.0,E09000017,E01002464,Community school,3.0,11.0
+102381,Harefield Infant and Junior School,505112.0,190547.0,E09000017,E01002439,Community school,3.0,11.0
+102382,Harefield Infant School,505050.0,190544.0,E09000017,E01002439,Community school,3.0,7.0
+102383,Harlyn Primary School,510753.0,189845.0,E09000017,E01002480,Community school,3.0,11.0
+102384,Harmondsworth Primary School,505655.0,177525.0,E09000017,E01002444,Community school,3.0,11.0
+102385,Heathrow Primary School,506988.0,177916.0,E09000017,E01002446,Community school,3.0,11.0
+102388,Lady Bankes Primary School,510453.0,186919.0,E09000017,E01002471,Community school,3.0,11.0
+102391,Minet Junior School,510563.0,180360.0,E09000017,E01002501,Community school,7.0,11.0
+102392,Minet Infant and Nursery School,510563.0,180360.0,E09000017,E01002501,Community school,2.0,7.0
+102393,Newnham Junior School,511440.0,187433.0,E09000017,E01002419,Community school,7.0,11.0
+102394,Newnham Infant and Nursery School,511440.0,187433.0,E09000017,E01002419,Community school,3.0,7.0
+102399,Whitehall School,505442.0,183529.0,E09000017,E01002523,Community school,4.0,11.0
+102400,Whiteheath Junior School,508248.0,187992.0,E09000017,E01002533,Community school,7.0,11.0
+102403,Yeading Junior School,511190.0,181608.0,E09000017,E01002396,Community school,7.0,11.0
+102404,Yeading Infant and Nursery School,511203.0,181551.0,E09000017,E01002396,Community school,3.0,7.0
+102407,Highfield Primary School,507941.0,182886.0,E09000017,E01002457,Community school,3.0,11.0
+102408,Rabbsfarm Primary School,506026.0,180857.0,E09000017,E01002552,Community school,4.0,11.0
+102409,Warrender Primary School,509964.0,187686.0,E09000017,E01002435,Community school,3.0,11.0
+102411,Whitehall Infant School,505413.0,183387.0,E09000017,E01002523,Community school,3.0,7.0
+102413,Whiteheath Infant & Nursery School,508115.0,188074.0,E09000017,E01002533,Community school,2.0,7.0
+102414,Frithwood Primary School,509709.0,191703.0,E09000017,E01002477,Community school,3.0,11.0
+102416,Ruislip Gardens Primary School,509599.0,185939.0,E09000017,E01002494,Community school,3.0,11.0
+102417,Bishop Winnington-Ingram CofE Primary School,508573.0,187712.0,E09000017,E01002539,Voluntary aided school,2.0,11.0
+102418,Holy Trinity CofE Primary School,508306.0,191749.0,E09000017,E01002475,Voluntary aided school,2.0,11.0
+102420,Dr Triplett's CofE Primary School,509973.0,181078.0,E09000017,E01002508,Voluntary aided school,3.0,11.0
+102421,St Swithun Wells Catholic Primary School,511551.0,186256.0,E09000017,E01002416,Voluntary aided school,3.0,11.0
+102422,Botwell House Catholic Primary School,509698.0,179936.0,E09000017,E01034612,Voluntary aided school,4.0,11.0
+102424,St Catherine Catholic Primary School,505676.0,179425.0,E09000017,E01002527,Voluntary aided school,3.0,11.0
+102425,St Mary's Catholic Primary School,505028.0,183848.0,E09000017,E01002520,Voluntary aided school,3.0,11.0
+102426,Sacred Heart Catholic Primary School,509289.0,186608.0,E09000017,E01002467,Voluntary aided school,3.0,11.0
+102430,Oak Farm Primary School,507730.0,183934.0,E09000017,E01002451,Foundation school,3.0,11.0
+102432,Grange Park School,509872.0,182060.0,E09000017,E01002426,Foundation school,3.0,11.0
+102434,Hillside Infant School,510151.0,191063.0,E09000017,E01002482,Foundation school,3.0,7.0
+102435,Hillside Junior School,510151.0,191063.0,E09000017,E01002482,Foundation school,7.0,11.0
+102438,St Andrew's C of E Primary School,505861.0,183737.0,E09000017,E01034604,Voluntary aided school,3.0,11.0
+102439,Hayes Park School,509632.0,182266.0,E09000017,E01002422,Foundation school,3.0,11.0
+102470,Belmont Primary School,520690.0,178592.0,E09000018,E01032573,Community school,3.0,11.0
+102471,Cardinal Primary School,510779.0,173152.0,E09000018,E01002612,Community school,3.0,11.0
+102472,Cavendish Primary School,521106.0,177281.0,E09000018,E01002572,Community school,3.0,11.0
+102484,Feltham Hill Infant and Nursery School,509664.0,172324.0,E09000018,E01002601,Community school,3.0,7.0
+102485,Grove Park Primary School,520137.0,177597.0,E09000018,E01002576,Community school,3.0,11.0
+102491,Hounslow Town Primary School,514272.0,175758.0,E09000018,E01002645,Community school,3.0,11.0
+102492,Isleworth Town Primary School,516139.0,176282.0,E09000018,E01002681,Community school,3.0,11.0
+102493,Lionel Primary School,518405.0,178577.0,E09000018,E01002562,Community school,3.0,11.0
+102494,Marlborough Primary School,516229.0,176881.0,E09000018,E01002682,Community school,3.0,11.0
+102496,Norwood Green Infant and Nursery School,512552.0,178345.0,E09000018,E01002631,Community school,3.0,7.0
+102500,Spring Grove Primary School,514791.0,176242.0,E09000018,E01002643,Community school,3.0,11.0
+102503,Strand-on-the-Green Junior School,519493.0,177903.0,E09000018,E01002581,Community school,7.0,11.0
+102504,Strand-on-the-Green Infant and Nursery School,519493.0,177903.0,E09000018,E01002581,Community school,3.0,7.0
+102505,Wellington Primary School,512823.0,176312.0,E09000018,E01002662,Community school,3.0,11.0
+102506,Worple Primary School,516484.0,175406.0,E09000018,E01002667,Community school,3.0,11.0
+102512,Ivybridge Primary School,515922.0,174346.0,E09000018,E01002672,Community school,3.0,11.0
+102514,Edward Pauling Primary School,509447.0,172812.0,E09000018,E01002596,Community school,3.0,11.0
+102515,The Smallberry Green Primary School,516226.0,176513.0,E09000018,E01002681,Community school,3.0,11.0
+102519,Grove Road Primary School,513110.0,175201.0,E09000018,E01002646,Community school,3.0,11.0
+102520,Beavers Community Primary School,511171.0,175731.0,E09000018,E01002589,Community school,3.0,11.0
+102523,The Blue School CofE Primary,516442.0,175825.0,E09000018,E01002667,Voluntary aided school,3.0,11.0
+102524,St Paul's CofE Primary School,517794.0,177567.0,E09000018,E01033082,Voluntary aided school,3.0,11.0
+102526,Our Lady and St John's Catholic Primary School,517184.0,178195.0,E09000018,E01002565,Voluntary aided school,3.0,11.0
+102527,St Lawrence Catholic Primary School,510644.0,173014.0,E09000018,E01002612,Voluntary aided school,3.0,11.0
+102528,"St Mary's Catholic Primary School, Isleworth",516294.0,175817.0,E09000018,E01002668,Voluntary aided school,3.0,11.0
+102529,"St Mary's Catholic Primary School ,Chiswick",521077.0,178004.0,E09000018,E01002689,Voluntary aided school,3.0,11.0
+102531,St Michael and St Martin Catholic Primary School,512686.0,175478.0,E09000018,E01034039,Voluntary aided school,3.0,11.0
+102564,Burlington Junior School,521978.0,168166.0,E09000021,E01002931,Community school,7.0,11.0
+102565,Burlington Infant and Nursery School,521978.0,168166.0,E09000021,E01002931,Community school,2.0,7.0
+102567,Coombe Hill Infant School,520639.0,169833.0,E09000021,E01002959,Community school,4.0,7.0
+102568,Ellingham Primary School,517790.0,163452.0,E09000021,E01002949,Community school,2.0,11.0
+102574,Tolworth Junior School,518935.0,166180.0,E09000021,E01002996,Community school,7.0,11.0
+102575,Tolworth Infant and Nursery School,518935.0,166180.0,E09000021,E01002996,Community school,2.0,7.0
+102576,Coombe Hill Junior School,520639.0,169833.0,E09000021,E01002959,Community school,7.0,11.0
+102577,Maple Infants' School,517909.0,167629.0,E09000021,E01002987,Community school,3.0,7.0
+102578,Alexandra Primary School,519149.0,170071.0,E09000021,E01002938,Community school,3.0,11.0
+102579,King Athelstan Primary School,518673.0,168767.0,E09000021,E01002964,Community school,2.0,11.0
+102580,Grand Avenue Primary and Nursery School,520005.0,167029.0,E09000021,E01002917,Community school,3.0,11.0
+102581,Malden Manor Primary and Nursery School,521203.0,166671.0,E09000021,E01002977,Community school,3.0,11.0
+102582,King's Oak Primary School,520150.0,168715.0,E09000021,E01002973,Community school,2.0,11.0
+102583,Lovelace Primary School,517260.0,164156.0,E09000021,E01002943,Community school,3.0,11.0
+102585,Christ Church New Malden CofE Primary School,520701.0,168667.0,E09000021,E01002958,Voluntary aided school,3.0,11.0
+102586,Christ Church CofE Primary School,519292.0,167354.0,E09000021,E01002924,Voluntary aided school,5.0,11.0
+102587,Malden Parochial CofE Primary School,521278.0,166253.0,E09000021,E01002979,Voluntary aided school,3.0,11.0
+102588,St Andrew's and St Mark's CofE Junior School,517886.0,167577.0,E09000021,E01002987,Voluntary aided school,7.0,11.0
+102589,St John's C of E Primary School,518372.0,168606.0,E09000021,E01002964,Voluntary aided school,3.0,11.0
+102590,St Paul's CofE Primary School,518091.0,164804.0,E09000021,E01002939,Voluntary aided school,5.0,11.0
+102591,"St Paul's CofE Primary School, Kingston Hill",519245.0,170090.0,E09000021,E01002935,Voluntary aided school,4.0,11.0
+102592,St Matthew's CofE Primary School,518442.0,166790.0,E09000021,E01002995,Voluntary aided school,5.0,11.0
+102593,St Mary's CofE (Aided) Primary School,518544.0,163632.0,E09000021,E01002947,Voluntary aided school,3.0,11.0
+102604,St Luke's CofE Primary School,518533.0,169913.0,E09000021,E01002933,Foundation school,3.0,11.0
+102626,Bond Primary School,527647.0,169328.0,E09000024,E01003405,Community school,3.0,11.0
+102628,Dundonald Primary School,524583.0,170095.0,E09000024,E01003383,Community school,3.0,11.0
+102629,Garfield Primary School,526333.0,170941.0,E09000024,E01003455,Community school,3.0,11.0
+102632,Hatfeild Primary School,524097.0,167361.0,E09000024,E01003422,Community school,3.0,11.0
+102633,Hollymount School,523143.0,169842.0,E09000024,E01003444,Community school,3.0,11.0
+102634,Joseph Hood Primary School,524278.0,168952.0,E09000024,E01003366,Community school,3.0,11.0
+102635,Links Primary School,528358.0,170616.0,E09000024,E01003397,Community school,3.0,11.0
+102636,Lonesome Primary School,528779.0,169447.0,E09000024,E01003412,Community school,3.0,11.0
+102638,Merton Abbey Primary School,525912.0,169823.0,E09000024,E01003357,Community school,3.0,11.0
+102639,Merton Park Primary School,525188.0,169312.0,E09000024,E01003424,Community school,3.0,11.0
+102640,Morden Primary School,525115.0,167495.0,E09000024,E01003452,Community school,3.0,11.0
+102642,Pelham Primary School,525429.0,170149.0,E09000024,E01003355,Community school,3.0,11.0
+102643,Haslemere Primary School,526653.0,169193.0,E09000024,E01003376,Community school,2.0,11.0
+102644,Poplar Primary School,525305.0,168616.0,E09000024,E01003425,Community school,3.0,11.0
+102645,St Mark's Primary School,527938.0,169123.0,E09000024,E01003388,Community school,3.0,11.0
+102646,The Sherwood School,529391.0,168221.0,E09000024,E01003434,Community school,3.0,11.0
+102647,Singlegate Primary School,526898.0,170310.0,E09000024,E01034580,Community school,3.0,11.0
+102648,Wimbledon Park Primary School,525490.0,172549.0,E09000024,E01003478,Community school,3.0,11.0
+102649,Abbotsbury Primary School,525610.0,167776.0,E09000024,E01003453,Community school,3.0,11.0
+102652,West Wimbledon Primary School,522774.0,168885.0,E09000024,E01003447,Community school,3.0,11.0
+102653,Cranmer Primary School,527753.0,168045.0,E09000024,E01003375,Community school,3.0,11.0
+102654,Gorringe Park Primary School,528303.0,169740.0,E09000024,E01003392,Community school,3.0,11.0
+102655,Hillcross Primary School,524580.0,168083.0,E09000024,E01003363,Community school,3.0,11.0
+102656,Liberty Primary,527324.0,169465.0,E09000024,E01003405,Community school,3.0,11.0
+102661,William Morris Primary School,529940.0,168652.0,E09000024,E01003433,Community school,3.0,11.0
+102662,Wimbledon Chase Primary School,524394.0,169733.0,E09000024,E01003380,Community school,3.0,11.0
+102663,All Saints' CofE Primary School,526440.0,170412.0,E09000024,E01003359,Voluntary aided school,3.0,11.0
+102664,St Matthew's CofE Primary School,522222.0,169895.0,E09000024,E01003463,Voluntary aided school,3.0,11.0
+102665,Holy Trinity CofE Primary School,525562.0,170820.0,E09000024,E01003457,Voluntary aided school,3.0,11.0
+102666,Bishop Gilpin CofE Primary School,524756.0,171337.0,E09000024,E01003465,Voluntary aided school,3.0,11.0
+102667,St Peter and Paul Catholic Primary School,527570.0,168344.0,E09000024,E01003375,Voluntary aided school,3.0,11.0
+102668,Sacred Heart Catholic Primary School,522517.0,168302.0,E09000024,E01003470,Voluntary aided school,2.0,11.0
+102669,St Teresa's Catholic Primary School,526614.0,167197.0,E09000024,E01003438,Voluntary aided school,2.0,11.0
+102670,St Mary's Catholic Primary School,525218.0,170279.0,E09000024,E01003358,Voluntary aided school,3.0,11.0
+102672,The Priory CofE School,525696.0,171091.0,E09000024,E01003454,Voluntary aided school,3.0,11.0
+102709,Altmore Infant School,542856.0,183973.0,E09000025,E01003628,Community school,2.0,7.0
+102710,Avenue Primary School,542245.0,185458.0,E09000025,E01003591,Community school,3.0,11.0
+102711,Brampton Primary School,542007.0,182609.0,E09000025,E01003537,Community school,3.0,11.0
+102712,Carpenters Primary School,538398.0,183866.0,E09000025,E01034221,Community school,3.0,11.0
+102716,Dersingham Primary School,543043.0,185546.0,E09000025,E01003582,Community school,3.0,11.0
+102721,Godwin Junior School,540818.0,185642.0,E09000025,E01003547,Community school,7.0,11.0
+102722,Woodgrange Infant School,540770.0,185541.0,E09000025,E01003543,Community school,3.0,7.0
+102723,Grange Primary School,540020.0,182582.0,E09000025,E01003498,Community school,2.0,11.0
+102725,Keir Hardie Primary School,540280.0,181665.0,E09000025,E01003508,Community school,3.0,11.0
+102728,Lathom Junior School,542505.0,184073.0,E09000025,E01003520,Community school,7.0,11.0
+102729,Stratford Manor Primary School & Nursery,539324.0,183434.0,E09000025,E01003633,Community school,3.0,11.0
+102730,Maryland Primary School,539321.0,185350.0,E09000025,E01003548,Community school,3.0,11.0
+102735,Odessa Infant School,540061.0,185325.0,E09000025,E01003545,Community school,3.0,7.0
+102736,Park Primary School,539834.0,184464.0,E09000025,E01003554,Community school,3.0,11.0
+102740,Roman Road Primary School,541930.0,182305.0,E09000025,E01003539,Community school,3.0,11.0
+102742,Salisbury Primary School,542023.0,185410.0,E09000025,E01003587,Community school,2.0,11.0
+102745,William Davies Primary School,541666.0,184618.0,E09000025,E01003563,Community school,3.0,11.0
+102746,Star Primary School,539316.0,182153.0,E09000025,E01003497,Community school,3.0,11.0
+102748,St Stephen's Primary School,541460.0,184085.0,E09000025,E01003565,Community school,4.0,11.0
+102751,Winsor Primary School,543168.0,181099.0,E09000025,E01003481,Community school,3.0,11.0
+102752,Colegrave Primary School,538884.0,185166.0,E09000025,E01003616,Community school,4.0,11.0
+102755,Southern Road Primary School,540863.0,183247.0,E09000025,E01003599,Community school,2.0,11.0
+102758,Calverton Primary School,541781.0,181109.0,E09000025,E01003514,Community school,3.0,11.0
+102759,Ellen Wilkinson Primary School,542018.0,181658.0,E09000025,E01003513,Community school,3.0,11.0
+102763,Essex Primary School,542530.0,185044.0,E09000025,E01003534,Community school,3.0,11.0
+102764,St James' CofE Primary School,540032.0,185275.0,E09000025,E01003545,Voluntary controlled school,3.0,11.0
+102765,West Ham Church Primary School,539554.0,183926.0,E09000025,E01003636,Voluntary controlled school,3.0,11.0
+102766,St Luke's Primary School,539835.0,181317.0,E09000025,E01034208,Voluntary aided school,3.0,11.0
+102795,Manford Primary School,545550.0,192178.0,E09000026,E01003727,Community school,3.0,11.0
+102798,Cleveland Road Primary School,543934.0,186014.0,E09000026,E01003689,Community school,3.0,11.0
+102802,Fairlop Primary School,544192.0,191047.0,E09000026,E01003698,Community school,3.0,11.0
+102805,Gilbert Colvin Primary School,543461.0,190547.0,E09000026,E01003709,Community school,3.0,11.0
+102806,Glade Primary School,542650.0,190425.0,E09000026,E01003707,Community school,3.0,11.0
+102807,Goodmayes Primary School,546708.0,187076.0,E09000026,E01003719,Community school,3.0,11.0
+102808,Gordon Primary School,544788.0,186235.0,E09000026,E01003743,Community school,3.0,11.0
+102811,Mossford Green Primary School,544165.0,190115.0,E09000026,E01003705,Community school,3.0,11.0
+102812,Newbury Park Primary School,544596.0,188392.0,E09000026,E01003645,Community school,3.0,11.0
+102819,Uphall Primary School,543775.0,185266.0,E09000026,E01003732,Community school,3.0,11.0
+102820,William Torbitt Primary School,545540.0,188715.0,E09000026,E01003641,Community school,3.0,11.0
+102823,Aldersbrook Primary School,541125.0,186994.0,E09000026,E01003790,Community school,3.0,11.0
+102830,Roding Primary School,542424.0,191453.0,E09000026,E01003657,Community school,3.0,11.0
+102831,Wells Primary School,540456.0,192807.0,E09000026,E01003746,Community school,3.0,11.0
+102832,Snaresbrook Primary School,540315.0,189359.0,E09000026,E01003774,Community school,3.0,11.0
+102833,Fullwood Primary School,544155.0,189394.0,E09000026,E01003638,Community school,3.0,11.0
+102834,Woodlands Primary School,544578.0,185418.0,E09000026,E01003735,Community school,3.0,11.0
+102835,Grove Primary School,547031.0,188780.0,E09000026,E01033590,Community school,3.0,11.0
+102836,Chadwell Primary School,547180.0,187680.0,E09000026,E01003666,Community school,3.0,11.0
+102837,Coppice Primary School,546421.0,192504.0,E09000026,E01003722,Community school,3.0,11.0
+102838,John Bramston Primary School,546040.0,191731.0,E09000026,E01003720,Community school,3.0,11.0
+102839,Nightingale Primary School,541049.0,189312.0,E09000026,E01003759,Community school,3.0,11.0
+102840,Barley Lane Primary School,546558.0,187778.0,E09000026,E01003773,Community school,3.0,11.0
+102841,Wanstead Church School,540388.0,188596.0,E09000026,E01003778,Voluntary aided school,3.0,11.0
+102842,St Augustine's Catholic Primary School,543825.0,188898.0,E09000026,E01003653,Voluntary aided school,3.0,11.0
+102844,St Antony's Catholic Primary School,540248.0,192755.0,E09000026,E01003746,Voluntary aided school,3.0,11.0
+102845,St Bede's Catholic Primary School,547407.0,188602.0,E09000026,E01003665,Voluntary aided school,3.0,11.0
+102847,Wohl Ilford Jewish Primary School,544642.0,190403.0,E09000026,E01003700,Voluntary aided school,3.0,11.0
+102883,Carlisle Infant School,513869.0,170613.0,E09000027,E01003830,Community school,4.0,7.0
+102884,Darell Primary and Nursery School,519250.0,175818.0,E09000027,E01003848,Community school,3.0,11.0
+102885,East Sheen Primary School,521285.0,175422.0,E09000027,E01003809,Community school,4.0,11.0
+102886,Hampton Hill Junior School,514112.0,171081.0,E09000027,E01003813,Community school,7.0,11.0
+102887,Hampton Junior School,513235.0,169868.0,E09000027,E01003827,Community school,7.0,11.0
+102888,Hampton Infant School and Nursery,513018.0,170153.0,E09000027,E01003824,Community school,3.0,7.0
+102889,Hampton Wick Infant and Nursery School,517532.0,170164.0,E09000027,E01003834,Community school,3.0,7.0
+102890,Heathfield Junior School,513394.0,173248.0,E09000027,E01003842,Community school,7.0,11.0
+102891,Heathfield Infant School,513394.0,173248.0,E09000027,E01003842,Community school,3.0,7.0
+102892,Lowther Primary School,522410.0,177538.0,E09000027,E01003800,Community school,3.0,11.0
+102893,Meadlands Primary School,517185.0,171944.0,E09000027,E01003820,Community school,3.0,11.0
+102895,Orleans Primary School,516703.0,173951.0,E09000027,E01003868,Community school,3.0,11.0
+102896,The Russell Primary School,517944.0,173070.0,E09000027,E01003816,Community school,3.0,11.0
+102897,Sheen Mount Primary School,519841.0,174974.0,E09000027,E01003805,Community school,4.0,11.0
+102898,Stanley Primary School,515113.0,171842.0,E09000027,E01003812,Community school,3.0,11.0
+102900,Trafalgar Junior School,514919.0,172760.0,E09000027,E01003898,Community school,7.0,11.0
+102901,Trafalgar Infant School,514711.0,173067.0,E09000027,E01003898,Community school,5.0,7.0
+102902,Barnes Primary School,521592.0,175859.0,E09000027,E01003853,Community school,3.0,11.0
+102903,Collis Primary School,516542.0,170589.0,E09000027,E01003838,Community school,3.0,11.0
+102904,Buckingham Primary School,512947.0,171078.0,E09000027,E01003833,Community school,3.0,11.0
+102905,Chase Bridge Primary School,515056.0,174072.0,E09000027,E01003905,Community school,3.0,11.0
+102906,The Vineyard School,518398.0,174135.0,E09000027,E01003879,Community school,4.0,11.0
+102907,St Richard's Church of England Primary School,516930.0,172209.0,E09000027,E01003819,Voluntary aided school,3.0,11.0
+102908,Holy Trinity Church of England Primary School,519243.0,175207.0,E09000027,E01003863,Voluntary aided school,3.0,11.0
+102909,St Mary Magdalen's Catholic Primary School,520835.0,175871.0,E09000027,E01003856,Voluntary aided school,4.0,11.0
+102911,St John the Baptist Church of England Junior School,517589.0,170065.0,E09000027,E01003834,Voluntary aided school,7.0,11.0
+102912,St Edmund's Catholic Primary School,514038.0,173919.0,E09000027,E01003908,Voluntary aided school,3.0,11.0
+102913,St James's Catholic Primary School,515032.0,172224.0,E09000027,E01003885,Voluntary aided school,3.0,11.0
+102914,St Mary's Church of England Primary School,516330.0,173617.0,E09000027,E01003896,Voluntary aided school,4.0,11.0
+102915,St Stephen's C E Primary School,516561.0,174436.0,E09000027,E01003866,Voluntary aided school,4.0,11.0
+102916,Sacred Heart Catholic Primary School,516805.0,170375.0,E09000027,E01003838,Voluntary aided school,3.0,11.0
+102917,St Mary's and St Peter's Church of England Primary School,515540.0,171316.0,E09000027,E01003888,Voluntary aided school,4.0,11.0
+102918,Bishop Perrin Church of England Primary School,513638.0,173464.0,E09000027,E01003842,Voluntary aided school,4.0,11.0
+102920,Archdeacon Cambridge's Church of England Primary School,515342.0,172754.0,E09000027,E01003885,Voluntary aided school,3.0,11.0
+102921,The King's Church of England Primary School,519102.0,177063.0,E09000027,E01003847,Voluntary aided school,4.0,11.0
+102969,Hackbridge Primary School,528356.0,165994.0,E09000029,E01034154,Community school,3.0,11.0
+102971,High View Primary School,530312.0,164261.0,E09000029,E01004081,Foundation school,3.0,11.0
+102975,Devonshire Primary School,526158.0,163242.0,E09000029,E01004153,Community school,3.0,11.0
+102981,Robin Hood Infants' School,525346.0,164285.0,E09000029,E01004162,Community school,5.0,7.0
+102982,Dorchester Primary School,523168.0,166077.0,E09000029,E01004193,Foundation school,3.0,11.0
+102983,Beddington Infants' School,529235.0,164934.0,E09000029,E01004173,Foundation school,2.0,7.0
+102984,Robin Hood Junior School,525681.0,164483.0,E09000029,E01034155,Community school,7.0,11.0
+102986,Foresters Primary School,529920.0,163508.0,E09000029,E01004086,Foundation school,3.0,11.0
+102990,All Saints Benhilton CofE Primary School,525958.0,165272.0,E09000029,E01004149,Voluntary aided school,3.0,11.0
+102991,Holy Trinity CofE Junior School,529111.0,164812.0,E09000029,E01004173,Voluntary aided school,7.0,11.0
+102992,St Dunstan's Cheam CofE Primary School,524094.0,163448.0,E09000029,E01004112,Voluntary aided school,3.0,11.0
+102994,St Mary's RC Junior School,527711.0,164439.0,E09000029,E01004100,Voluntary aided school,7.0,11.0
+102995,St Mary's RC Infants School,527676.0,164638.0,E09000029,E01004099,Voluntary aided school,3.0,7.0
+103005,Stanley Park Junior School,527976.0,163354.0,E09000029,E01004104,Foundation school,7.0,11.0
+103032,Chase Lane Primary School,536921.0,192595.0,E09000031,E01004452,Community school,3.0,11.0
+103036,Whitehall Primary School,539324.0,193740.0,E09000031,E01004389,Community school,3.0,11.0
+103044,Downsell Primary School,538836.0,185859.0,E09000031,E01004337,Community school,2.0,11.0
+103048,Newport School,538459.0,186807.0,E09000031,E01004372,Community school,3.0,11.0
+103052,Chapel End Infant School and Early Years Centre,537672.0,190662.0,E09000031,E01004344,Community school,2.0,7.0
+103053,Edinburgh Primary School,536981.0,188402.0,E09000031,E01004445,Community school,4.0,11.0
+103054,Greenleaf Primary School,536934.0,189703.0,E09000031,E01004457,Community school,3.0,11.0
+103059,Handsworth Primary School,538751.0,191778.0,E09000031,E01004388,Community school,4.0,11.0
+103060,Thorpe Hall Primary School,538521.0,190659.0,E09000031,E01004378,Community school,3.0,11.0
+103061,The Winns Primary School,536923.0,190087.0,E09000031,E01004463,Community school,3.0,11.0
+103069,Oakhill Primary School,539165.0,191657.0,E09000031,E01004380,Community school,4.0,11.0
+103070,Henry Maynard Primary School,538297.0,188936.0,E09000031,E01004466,Community school,3.0,11.0
+103072,South Grove Primary School,536606.0,188446.0,E09000031,E01004444,Community school,3.0,11.0
+103073,Dawlish Primary School,538088.0,187043.0,E09000031,E01004369,Community school,4.0,11.0
+103074,Gwyn Jones Primary School,538916.0,187934.0,E09000031,E01004362,Community school,3.0,11.0
+103075,George Tomlinson Primary School,539334.0,187180.0,E09000031,E01004440,Community school,3.0,11.0
+103077,Mission Grove Primary School,536596.0,188984.0,E09000031,E01004392,Community school,3.0,11.0
+103078,Coppermill Primary School,535896.0,188751.0,E09000031,E01004391,Community school,3.0,11.0
+103079,Stoneydown Park School,536127.0,189272.0,E09000031,E01004393,Community school,3.0,11.0
+103081,Parkside Primary School,537559.0,193679.0,E09000031,E01004356,Community school,3.0,11.0
+103082,The Jenny Hammond Primary School,539267.0,185908.0,E09000031,E01004328,Community school,4.0,11.0
+103084,Chingford CofE Primary School,538678.0,194104.0,E09000031,E01004359,Voluntary controlled school,4.0,11.0
+103085,St Mary's Catholic Primary School,538762.0,194384.0,E09000031,E01004354,Voluntary aided school,4.0,11.0
+103086,St Joseph's Catholic Junior School,537581.0,187369.0,E09000031,E01034488,Voluntary aided school,7.0,11.0
+103088,St Patrick's Catholic Primary School,536095.0,189171.0,E09000031,E01004393,Voluntary aided school,3.0,11.0
+103090,St Joseph's Catholic Infant School,537163.0,186973.0,E09000031,E01004434,Voluntary aided school,2.0,7.0
+121792,Springfield Community Primary School,534184.0,188188.0,E09000012,E01001825,Community school,3.0,11.0
+127046,Redbridge Primary School,542260.0,188915.0,E09000026,E01003682,Community school,4.0,11.0
+130095,Wembley Primary School,518376.0,186130.0,E09000005,E01000571,Community school,3.0,11.0
+130302,Rushmore Primary School,535500.0,185850.0,E09000012,E01001796,Community school,3.0,11.0
+130303,Gayhurst Community School,534450.0,184386.0,E09000012,E01001816,Community school,3.0,11.0
+130340,Monteagle Primary School,546880.0,183956.0,E09000002,E01000045,Community school,3.0,11.0
+130342,Christopher Hatton Primary School,531069.0,182107.0,E09000007,E01000920,Community school,3.0,11.0
+130343,Ainslie Wood Primary School,537822.0,192180.0,E09000031,E01004417,Community school,3.0,11.0
+130352,Arnhem Wharf Primary School,537091.0,179221.0,E09000030,E01004280,Community school,3.0,11.0
+130357,Richard Alibon Primary School with ARP for Cognitive and Learning Difficulties : SEN Base,549230.0,185430.0,E09000002,E01000018,Community school,3.0,11.0
+130358,Alexandra Primary School,530642.0,190171.0,E09000014,E01002029,Community school,3.0,11.0
+130381,Sandringham Primary School,541183.0,185020.0,E09000025,E01003567,Community school,2.0,11.0
+130915,Ridgeway Primary School,533464.0,162449.0,E09000008,E01001107,Community school,3.0,11.0
+130918,Bessemer Grange Primary School,533015.0,175043.0,E09000028,E01004048,Community school,3.0,11.0
+130919,Godwin Primary School,548443.0,184276.0,E09000002,E01000059,Community school,3.0,11.0
+130921,Middle Park Primary School,541724.0,173671.0,E09000011,E01001653,Community school,3.0,11.0
+130932,William Patten Primary School,533537.0,186525.0,E09000012,E01001829,Community school,3.0,11.0
+130934,Muschamp Primary School and Language Opportunity Base,527341.0,165792.0,E09000029,E01004167,Foundation school,3.0,11.0
+130995,Central Park Primary School,541903.0,183146.0,E09000025,E01003492,Community school,3.0,11.0
+130998,Hasmonean Primary School,523711.0,188555.0,E09000003,E01000311,Voluntary aided school,3.0,11.0
+131013,Highlands Primary School,542552.0,187390.0,E09000026,E01003691,Community school,3.0,11.0
+131057,Barn Croft Primary School,536237.0,188187.0,E09000031,E01004448,Community school,4.0,11.0
+131096,Stroud Green Primary School,531286.0,187275.0,E09000014,E01002065,Community school,1.0,11.0
+131103,Culvers House Primary School,528211.0,166309.0,E09000029,E01004186,Foundation school,3.0,11.0
+131109,Discovery Primary School,545486.0,180007.0,E09000011,E01033741,Community school,3.0,11.0
+131141,Hoxton Garden Primary,533197.0,183412.0,E09000012,E01001755,Community school,3.0,11.0
+131144,Grange Primary School,517751.0,179695.0,E09000009,E01001233,Community school,3.0,11.0
+131246,James Wolfe Primary School and Centre for the Deaf,538374.0,177202.0,E09000011,E01001642,Community school,3.0,11.0
+131247,Bonneville Primary School,529358.0,174325.0,E09000022,E01003026,Community school,3.0,11.0
+131304,Mayespark Primary School,546124.0,186315.0,E09000026,E01003737,Community school,3.0,11.0
+131316,Whitchurch Primary School & Nursery,517594.0,191239.0,E09000015,E01002109,Community school,3.0,11.0
+131325,Newington Green Primary School,532984.0,185306.0,E09000019,E01002777,Community school,2.0,11.0
+131340,Hill Mead Primary School,531580.0,175364.0,E09000022,E01003052,Community school,3.0,11.0
+131359,Menorah Foundation School,520316.0,191325.0,E09000003,E01000134,Voluntary aided school,3.0,11.0
+131407,Oakthorpe Primary School,532141.0,192284.0,E09000010,E01001556,Community school,4.0,11.0
+131426,The Mawney Foundation School,550728.0,188893.0,E09000016,E01002243,Foundation school,3.0,11.0
+131478,Earlham Primary School,531072.0,191060.0,E09000014,E01002102,Community school,2.0,11.0
+131520,"Sacred Heart Catholic Primary School, Battersea",527416.0,176084.0,E09000032,E01004534,Voluntary aided school,3.0,11.0
+131577,Pinner Wood School,511186.0,190637.0,E09000015,E01002187,Community school,3.0,11.0
+131590,R J Mitchell Primary School,552937.0,184858.0,E09000016,E01002263,Community school,4.0,11.0
+131595,Lordship Lane Primary School,532029.0,190582.0,E09000014,E01002100,Community school,3.0,11.0
+131617,Wessex Gardens Primary School,524174.0,187396.0,E09000003,E01000145,Community school,2.0,11.0
+131625,Cranbrook Primary School,542630.0,187782.0,E09000026,E01003693,Community school,5.0,11.0
+131638,Cherry Lane Primary School,506940.0,178704.0,E09000017,E01002446,Community school,3.0,11.0
+131657,West Grove Primary,529794.0,194765.0,E09000010,E01001524,Community school,3.0,11.0
+131682,Clore Tikva School,544180.0,190430.0,E09000026,E01003705,Voluntary aided school,3.0,11.0
+131706,Betty Layward Primary School,532879.0,186072.0,E09000012,E01001737,Community school,3.0,11.0
+131731,Bruce Grove Primary School,533636.0,190050.0,E09000014,E01001979,Community school,2.0,11.0
+131737,Harry Gosling Primary School,534299.0,181195.0,E09000030,E01035689,Community school,3.0,11.0
+131740,Rotherfield Primary School,532543.0,183917.0,E09000019,E01002797,Community school,3.0,11.0
+131773,Canonbury Primary School,531811.0,184603.0,E09000019,E01002791,Community school,3.0,11.0
+131775,Gascoigne Primary School,544442.0,183568.0,E09000002,E01034479,Community school,3.0,11.0
+131824,Hitherfield Primary School,531122.0,172473.0,E09000022,E01003152,Community school,3.0,11.0
+131841,Alexander McLeod Primary School,546803.0,178377.0,E09000011,E01001571,Community school,5.0,11.0
+131842,Hugh Myddelton Primary School,531473.0,182684.0,E09000019,E01002723,Community school,2.0,11.0
+131843,Brunswick Park Primary School,532820.0,177188.0,E09000028,E01003918,Community school,3.0,11.0
+131844,Hunters Hall Primary School,549595.0,185391.0,E09000002,E01000015,Community school,3.0,11.0
+131845,Southwood Primary School,548106.0,185779.0,E09000002,E01000078,Community school,3.0,11.0
+131847,Christchurch Primary School,544066.0,187093.0,E09000026,E01003787,Community school,3.0,11.0
+131871,Muswell Hill Primary School,528975.0,189705.0,E09000014,E01001997,Community school,4.0,11.0
+131874,Henry Fawcett Primary School,531198.0,177886.0,E09000022,E01003101,Community school,3.0,11.0
+131879,Risley Avenue Primary School,533204.0,190768.0,E09000014,E01002095,Community school,2.0,11.0
+131916,Avigdor Hirsch Torah Temimah Primary School,522571.0,185971.0,E09000005,E01000503,Voluntary aided school,3.0,11.0
+131930,South Park Primary School,545504.0,186420.0,E09000026,E01003742,Community school,3.0,11.0
+131936,St Mary and St Michael Primary School,535206.0,181217.0,E09000030,E01004298,Voluntary aided school,3.0,11.0
+131970,The Orion Primary School,521550.0,191400.0,E09000003,E01000235,Community school,2.0,11.0
+132137,St John and St James CofE Primary School,535310.0,185044.0,E09000012,E01001735,Voluntary aided school,3.0,11.0
+132169,Malmesbury Primary School,526267.0,166961.0,E09000024,E01003438,Community school,3.0,11.0
+132203,Highfield Primary School,532041.0,194019.0,E09000010,E01001570,Community school,3.0,11.0
+132245,Kingsgate Primary School,525140.0,184253.0,E09000007,E01000931,Community school,3.0,11.0
+132253,South Grove Primary School,532970.0,188826.0,E09000014,E01002045,Community school,2.0,11.0
+132263,Crane Park Primary School,512518.0,172690.0,E09000018,E01002604,Community school,2.0,11.0
+132264,Fairholme Primary School,508889.0,173237.0,E09000018,E01002559,Community school,3.0,11.0
+132266,Green Dragon Primary School,518364.0,177913.0,E09000018,E01034043,Community school,3.0,11.0
+132766,Engayne Primary School,557104.0,188172.0,E09000016,E01002259,Community school,5.0,11.0
+132789,Sir John Heron Primary School,542595.0,185608.0,E09000025,E01003581,Community school,2.0,11.0
+132800,Conway Primary School,545112.0,178560.0,E09000011,E01001675,Community school,3.0,11.0
+132812,Plaistow Primary School,540838.0,183368.0,E09000025,E01003599,Community school,3.0,11.0
+132827,Eglinton Primary School,543464.0,177512.0,E09000011,E01001698,Community school,3.0,11.0
+133343,Kew Riverside Primary School,519786.0,176433.0,E09000027,E01033571,Community school,4.0,11.0
+133364,Pardes House Primary School,524942.0,190464.0,E09000003,E01000196,Voluntary aided school,4.0,11.0
+133365,Beis Yaakov Primary School,520792.0,189548.0,E09000005,E01000516,Voluntary aided school,3.0,11.0
+133486,The William Hogarth Primary School,521192.0,178039.0,E09000018,E01002689,Community school,3.0,11.0
+133574,Lansbury Lawrence Primary School,537693.0,181255.0,E09000030,E01004244,Community school,3.0,11.0
+133662,Jubilee Primary School,531108.0,174289.0,E09000022,E01003179,Community school,3.0,11.0
+133707,The Mulberry Primary School,534039.0,190372.0,E09000014,E01002077,Community school,2.0,11.0
+133728,Marshgate Primary School,518896.0,174985.0,E09000027,E01003875,Community school,4.0,11.0
+133774,St Thomas of Canterbury Catholic Primary School,528132.0,168862.0,E09000024,E01003389,Voluntary aided school,3.0,11.0
+133931,Oakdale Junior School,540973.0,190096.0,E09000026,E01003765,Community school,7.0,11.0
+133932,Oakdale Infants' School,540779.0,190138.0,E09000026,E01003765,Community school,3.0,7.0
+133934,Gearies Primary School,543557.0,188805.0,E09000026,E01003653,Community school,3.0,11.0
+133935,Churchfields Junior School,540188.0,190783.0,E09000026,E01003674,Community school,7.0,11.0
+133936,Churchfields Infants' School,540381.0,190689.0,E09000026,E01003674,Community school,5.0,7.0
+133938,Parkhill Infants' School,543057.0,189755.0,E09000026,E01003680,Community school,3.0,7.0
+133939,Parkhill Junior School,543057.0,189755.0,E09000026,E01003680,Community school,7.0,11.0
+134009,Larmenier & Sacred Heart Catholic Primary School,523792.0,178878.0,E09000013,E01001869,Voluntary aided school,3.0,11.0
+134041,Gatton (VA) Primary School,527461.0,171758.0,E09000032,E01004610,Voluntary aided school,4.0,11.0
+134160,Malmesbury Primary School,536787.0,182835.0,E09000030,E01004229,Community school,3.0,11.0
+134185,Orchard Primary School,546869.0,171190.0,E09000004,E01000384,Community school,3.0,11.0
+134217,Petts Hill Primary School,513727.0,185115.0,E09000009,E01001316,Community school,3.0,11.0
+134273,Normand Croft Community School for Early Years and Primary Education,524788.0,177797.0,E09000013,E01001909,Community school,2.0,11.0
+134307,Starks Field Primary School,533401.0,193924.0,E09000010,E01001461,Community school,3.0,11.0
+134507,The Orchard School,530568.0,173476.0,E09000022,E01003025,Voluntary aided school,4.0,11.0
+134677,Woodcroft Primary School,521082.0,191423.0,E09000003,E01000133,Community school,2.0,11.0
+134680,Chestnuts Primary School,532327.0,188862.0,E09000014,E01002043,Foundation school,3.0,11.0
+134681,North Harringay Primary School,531344.0,189139.0,E09000014,E01001998,Foundation school,3.0,11.0
+134780,Bishop Ridley Church of England VA Primary School,545185.0,175462.0,E09000004,E01000412,Voluntary aided school,3.0,11.0
+134903,Rye Oak Primary School,534641.0,175729.0,E09000028,E01004064,Community school,2.0,11.0
+134929,St John's CofE School,516480.0,192697.0,E09000015,E01002226,Voluntary aided school,2.0,11.0
+135086,Akiva School,525517.0,190047.0,E09000003,E01000203,Voluntary aided school,4.0,11.0
+135193,Our Lady and St George's Catholic Primary School,538094.0,189757.0,E09000031,E01004470,Voluntary aided school,2.0,11.0
+135211,Cedars Manor School,514232.0,190906.0,E09000015,E01002139,Community school,3.0,11.0
+135226,Martin Primary School,526982.0,190033.0,E09000003,E01000178,Community school,3.0,11.0
+135261,The Rosary Catholic Primary School,513081.0,177758.0,E09000018,E01002626,Voluntary aided school,3.0,11.0
+135482,Khalsa Primary School,513222.0,178601.0,E09000009,E01001335,Voluntary aided school,3.0,11.0
+135562,The Orchard Primary School,513018.0,174913.0,E09000018,E01002651,Community school,3.0,11.0
+135588,Branfil Primary School,555207.0,185949.0,E09000016,E01002389,Community school,4.0,11.0
+135614,Iqra Primary School,529997.0,174534.0,E09000022,E01003029,Voluntary aided school,3.0,11.0
+135812,Crowlands Primary School,550109.0,188376.0,E09000016,E01002246,Community school,3.0,11.0
+135831,Bedfont Primary School,509086.0,174388.0,E09000018,E01002555,Community school,2.0,11.0
+135880,Chatsworth Primary School,514365.0,175245.0,E09000018,E01002655,Community school,3.0,11.0
+136191,Heston Primary School,513255.0,177466.0,E09000018,E01002628,Community school,3.0,11.0
+136362,Roger Ascham Primary School,536753.0,190767.0,E09000031,E01004403,Academy converter,3.0,11.0
+136364,Yardley Primary School,537956.0,195499.0,E09000031,E01004349,Academy converter,3.0,11.0
+136402,Beit Shvidler Primary School,519756.0,192430.0,E09000003,E01000192,Voluntary aided school,3.0,11.0
+136413,Hillyfield Primary Academy,536262.0,190062.0,E09000031,E01004404,Academy converter,3.0,11.0
+136431,George Carey Church of England Primary School,546391.0,182286.0,E09000002,E01034477,Voluntary aided school,3.0,11.0
+136445,Christ the Saviour Church of England Primary School,517691.0,180814.0,E09000009,E01034030,Voluntary aided school,3.0,11.0
+136564,Whitehorse Manor Infant School,532842.0,168080.0,E09000008,E01001111,Academy converter,3.0,7.0
+136565,Whitehorse Manor Junior School,532842.0,168080.0,E09000008,E01001111,Academy converter,7.0,11.0
+136566,Ecclesbourne Primary School,532135.0,167577.0,E09000008,E01001004,Academy converter,3.0,11.0
+136599,East Wickham Primary Academy,546123.0,176548.0,E09000004,E01000400,Academy converter,3.0,11.0
+136665,Dulwich Hamlet Junior School,532981.0,174097.0,E09000028,E01004069,Academy converter,7.0,11.0
+136714,Gonville Academy,530728.0,167907.0,E09000008,E01001174,Academy converter,3.0,11.0
+136737,Wood End Primary School,514535.0,185161.0,E09000009,E01001309,Academy converter,3.0,11.0
+136796,Westbourne Primary School,525125.0,165290.0,E09000029,E01004148,Academy converter,3.0,11.0
+136807,St Luke's Church of England School,525270.0,185912.0,E09000007,E01000878,Free schools,4.0,11.0
+136808,Eden Primary,528088.0,190096.0,E09000014,E01001996,Free schools,4.0,11.0
+136809,Cranford Primary School,510511.0,176224.0,E09000018,E01002586,Community school,3.0,11.0
+136915,Warren Road Primary School,545712.0,164469.0,E09000006,E01000686,Academy converter,4.0,11.0
+136920,Hayes Primary School,540917.0,166336.0,E09000006,E01000765,Academy converter,4.0,11.0
+136932,Willow Bank Primary School,547622.0,179744.0,E09000004,E01000470,Academy sponsor led,4.0,11.0
+136934,Aldborough Primary School,545304.0,187848.0,E09000026,E01003754,Free schools,4.0,11.0
+136938,Etz Chaim Jewish Primary School,522029.0,192076.0,E09000003,E01000258,Free schools,3.0,11.0
+136952,Woodpecker Hall Primary Academy,535504.0,194876.0,E09000010,E01001477,Free schools,2.0,11.0
+137016,"Canary Wharf Primary, East Ferry",538006.0,178555.0,E09000030,E01004217,Free schools,4.0,11.0
+137032,Darrick Wood Infant & Nursery School,543802.0,164935.0,E09000006,E01000751,Academy converter,3.0,7.0
+137035,Stewart Fleming Primary School,535126.0,168971.0,E09000006,E01000704,Academy converter,4.0,11.0
+137069,Pickhurst Infant Academy,539640.0,167158.0,E09000006,E01000764,Academy converter,5.0,7.0
+137070,Pickhurst Academy,539640.0,167158.0,E09000006,E01000764,Academy converter,7.0,11.0
+137114,Ark Oval Primary Academy,533053.0,166054.0,E09000008,E01000975,Academy sponsor led,4.0,11.0
+137195,David Livingstone Academy,532387.0,169539.0,E09000008,E01001160,Academy converter,4.0,11.0
+137216,Balgowan Primary School,536503.0,169103.0,E09000006,E01000707,Academy converter,4.0,11.0
+137242,Valley Primary School,539599.0,169471.0,E09000006,E01000677,Academy converter,2.0,11.0
+137244,Biggin Hill Primary School,542282.0,159261.0,E09000006,E01000658,Academy converter,2.0,11.0
+137295,Corpus Christi Catholic Primary School,530706.0,174698.0,E09000022,E01003018,Academy converter,3.0,11.0
+137303,Independent Jewish Day School,523787.0,188927.0,E09000003,E01000236,Academy converter,4.0,11.0
+137323,Ark Atwood Primary Academy,525556.0,182007.0,E09000033,E01004754,Free schools,3.0,11.0
+137331,Ark Conway Primary Academy,522054.0,180889.0,E09000013,E01001959,Free schools,3.0,11.0
+137380,Northumberland Heath Primary School,549876.0,177175.0,E09000004,E01000441,Academy converter,3.0,11.0
+137393,The New North Academy,532215.0,184031.0,E09000019,E01002797,Academy converter,4.0,11.0
+137413,Harris Primary Academy Peckham Park,534433.0,177091.0,E09000028,E01004008,Academy converter,3.0,11.0
+137417,Peareswood Primary School,551660.0,176927.0,E09000004,E01000433,Academy converter,3.0,11.0
+137430,Oasis Academy South Bank Primary,531185.0,179665.0,E09000022,E01032582,Academy converter,3.0,11.0
+137441,Tidemill Academy,537350.0,177243.0,E09000023,E01032579,Academy converter,3.0,11.0
+137563,Belleville Primary School,527681.0,174732.0,E09000032,E01004556,Academy converter,3.0,11.0
+137566,William Tyndale Primary School,531770.0,184284.0,E09000019,E01002791,Academy converter,3.0,11.0
+137569,Holy Family Catholic Primary School,519197.0,181676.0,E09000009,E01001274,Voluntary aided school,3.0,11.0
+137575,Lime Tree Primary School,518354.0,167212.0,E09000021,E01002999,Foundation school,4.0,11.0
+137648,"Redriff Primary, City of London Academy",536369.0,179935.0,E09000028,E01004056,Academy converter,3.0,11.0
+137682,Sir William Burrough Primary School,536504.0,181262.0,E09000030,E01035690,Academy converter,3.0,11.0
+137683,Crofton Junior School,544622.0,166870.0,E09000006,E01000813,Academy converter,7.0,11.0
+137856,St Agatha's Catholic Primary School,518774.0,170626.0,E09000021,E01002938,Academy converter,3.0,11.0
+137930,Tubbenden Primary School,544854.0,165018.0,E09000006,E01000757,Academy converter,3.0,11.0
+137958,St James' Roman Catholic Primary School,543870.0,167619.0,E09000006,E01000809,Academy converter,5.0,11.0
+137959,St James the Great RC Primary and Nursery School,531853.0,169172.0,E09000008,E01001147,Academy converter,3.0,11.0
+138203,Kingfisher Hall Primary Academy,535371.0,196589.0,E09000010,E01001440,Free schools,3.0,11.0
+138258,Emmanuel Community School,537674.0,189499.0,E09000031,E01004410,Free schools,4.0,11.0
+138272,Rimon Jewish Primary School,524705.0,187020.0,E09000003,E01000135,Free schools,5.0,11.0
+138276,Solebay Primary - A Paradigm Academy,536202.0,182242.0,E09000030,E01035670,Free schools,3.0,11.0
+138335,St Cyprian's Greek Orthodox Primary Academy,532260.0,169543.0,E09000008,E01001160,Academy converter,3.0,11.0
+138364,Willow Brook Primary School Academy,537243.0,187075.0,E09000031,E01004434,Academy sponsor led,3.0,11.0
+138381,Enfield Heights Academy,535211.0,197901.0,E09000010,E01001550,Free schools,4.0,11.0
+138446,Harris Primary Academy Coleraine Park,534536.0,190592.0,E09000014,E01002075,Academy sponsor led,3.0,11.0
+138447,Harris Primary Academy Philip Lane,532605.0,189353.0,E09000014,E01002086,Academy sponsor led,3.0,11.0
+138502,Robert Fitzroy Academy,533607.0,167089.0,E09000008,E01000980,Academy sponsor led,4.0,11.0
+138588,Lift Noel Park,531474.0,190204.0,E09000014,E01002032,Academy sponsor led,3.0,11.0
+138589,Lift Trinity,530755.0,190745.0,E09000014,E01002098,Academy sponsor led,2.0,11.0
+138608,Sudbury Primary School,516584.0,185882.0,E09000005,E01000608,Academy converter,3.0,11.0
+138611,Crofton Infant School,544822.0,166769.0,E09000006,E01000813,Academy converter,2.0,7.0
+138612,St Thomas Becket Catholic Primary School,534345.0,167335.0,E09000008,E01001186,Academy converter,4.0,11.0
+138613,Cranford Park Academy,509803.0,178578.0,E09000017,E01002491,Academy converter,3.0,11.0
+138621,Wood End Park Academy,508440.0,181011.0,E09000017,E01002402,Academy converter,3.0,11.0
+138680,Ark Bentworth Primary Academy,522755.0,181081.0,E09000013,E01001876,Academy converter,3.0,11.0
+138684,Thames View Infants,546165.0,183070.0,E09000002,E01000093,Academy converter,3.0,7.0
+138687,Oasis Academy Byron,530576.0,158804.0,E09000008,E01001019,Academy converter,2.0,11.0
+138688,Krishna Avanti Primary School,519166.0,190876.0,E09000015,E01002121,Academy converter,3.0,11.0
+138689,Latchmere School,518683.0,170670.0,E09000021,E01002934,Academy converter,3.0,11.0
+138690,Barclay Primary School,538623.0,188214.0,E09000031,E01004364,Academy converter,3.0,11.0
+138943,Upminster Infant School,556105.0,186509.0,E09000016,E01002386,Academy converter,5.0,7.0
+138944,Upminster Junior School,556105.0,186509.0,E09000016,E01002386,Academy converter,7.0,11.0
+138983,Belmore Primary Academy,510973.0,182641.0,E09000017,E01002393,Academy sponsor led,2.0,11.0
+139016,The Woodside Primary Academy,538380.0,189924.0,E09000031,E01004470,Academy sponsor led,2.0,11.0
+139094,Aerodrome Primary Academy,531710.0,164071.0,E09000008,E01001169,Academy converter,3.0,11.0
+139115,Belvedere Junior School,549861.0,179072.0,E09000004,E01000408,Academy sponsor led,7.0,11.0
+139117,Brookside Primary School,511435.0,182524.0,E09000017,E01002540,Academy sponsor led,3.0,11.0
+139169,St Ann's CE Primary School,532749.0,188730.0,E09000014,E01002045,Academy converter,4.0,11.0
+139175,St Michael's CofE Primary School,530749.0,190633.0,E09000014,E01002098,Academy converter,3.0,11.0
+139176,St Paul's and All Hallows CofE Infant School,534195.0,191095.0,E09000014,E01002038,Academy converter,3.0,7.0
+139177,St Paul's and All Hallows CofE Junior School,534199.0,191111.0,E09000014,E01002034,Academy converter,7.0,11.0
+139212,Christ Church (Erith) CofE Primary School,550983.0,177699.0,E09000004,E01000407,Academy sponsor led,4.0,11.0
+139213,St Augustine of Canterbury CofE Primary School,548919.0,178971.0,E09000004,E01000337,Academy sponsor led,4.0,11.0
+139240,Holy Trinity CofE Primary School,533870.0,189638.0,E09000014,E01002081,Academy sponsor led,3.0,11.0
+139259,Chapel End Junior Academy,537656.0,190679.0,E09000031,E01004344,Academy sponsor led,7.0,11.0
+139275,Laurel Lane Primary School,506047.0,178913.0,E09000017,E01002525,Academy sponsor led,3.0,11.0
+139295,Coteford Junior School,510137.0,188820.0,E09000017,E01002436,Academy converter,7.0,11.0
+139302,St Matthew's CofE Primary School,506021.0,180428.0,E09000017,E01034609,Academy converter,3.0,11.0
+139306,Cowley St Laurence CofE Primary School,505578.0,181898.0,E09000017,E01002519,Academy converter,3.0,11.0
+139317,Whittingham Primary Academy,536198.0,190596.0,E09000031,E01004400,Academy converter,3.0,11.0
+139393,Applegarth Academy,537538.0,163605.0,E09000008,E01001054,Academy sponsor led,3.0,11.0
+139406,Langtons Junior Academy,554073.0,187242.0,E09000016,E01002359,Academy sponsor led,7.0,11.0
+139421,St Mary's Hampton Church of England Primary,513035.0,169701.0,E09000027,E01003826,Free schools,4.0,11.0
+139423,Our Lady and St Joseph Catholic Primary School,537507.0,180862.0,E09000030,E01004256,Voluntary aided school,3.0,11.0
+139488,Brentside Primary School,515273.0,182094.0,E09000009,E01001283,Academy converter,3.0,11.0
+139489,Deansbrook Junior School,520522.0,191904.0,E09000003,E01000233,Academy converter,7.0,11.0
+139494,Pelham Primary School,549396.0,175545.0,E09000004,E01000330,Academy converter,2.0,11.0
+139546,West London Free School Primary,522921.0,178798.0,E09000013,E01001899,Free schools,4.0,11.0
+139549,Thomson House School,520518.0,175821.0,E09000027,E01003855,Free schools,4.0,11.0
+139561,Hope Community School,547464.0,171071.0,E09000004,E01000385,Free schools,4.0,11.0
+139562,Alma Primary,526478.0,193650.0,E09000003,E01000281,Free schools,4.0,11.0
+139592,Tooting Primary School,527869.0,171360.0,E09000032,E01004527,Free schools,4.0,11.0
+139609,Charville Academy,509118.0,183116.0,E09000017,E01002425,Academy converter,3.0,11.0
+139633,Parkfield Primary School,522584.0,187917.0,E09000003,E01000310,Academy sponsor led,3.0,11.0
+139639,Gray's Farm Primary Academy,546977.0,169671.0,E09000006,E01000738,Academy sponsor led,3.0,11.0
+139640,Harris Primary Academy Kenley,532253.0,160266.0,E09000008,E01001069,Academy sponsor led,3.0,11.0
+139645,Ark Brunel Primary Academy,524136.0,182280.0,E09000020,E01002852,Academy sponsor led,3.0,11.0
+139672,Haberdashers' Hatcham Free School,536014.0,176078.0,E09000023,E01003342,Free schools,4.0,11.0
+139678,Harris Primary Academy Kent House,535805.0,169952.0,E09000006,E01000797,Academy sponsor led,3.0,11.0
+139687,Mosaic Jewish Primary School,522023.0,174005.0,E09000032,E01004568,Free schools,4.0,11.0
+139699,Ark Priory Primary Academy,520416.0,179858.0,E09000009,E01001355,Academy sponsor led,3.0,11.0
+139723,Riverley Primary School,537412.0,187139.0,E09000031,E01004434,Academy sponsor led,3.0,11.0
+139724,Sybourn Primary School,536802.0,187550.0,E09000031,E01004425,Academy sponsor led,2.0,11.0
+139775,Rutherford House School,528313.0,172732.0,E09000032,E01004485,Free schools,4.0,11.0
+139814,"The Olive School, Hackney",535121.0,185240.0,E09000012,E01001735,Free schools,4.0,11.0
+139817,The Hyde School,521470.0,188530.0,E09000003,E01000312,Academy sponsor led,3.0,11.0
+139820,Ark White City Primary Academy,522938.0,180698.0,E09000013,E01001957,Academy sponsor led,3.0,11.0
+139824,Wilberforce Primary,524383.0,182958.0,E09000033,E01004719,Academy sponsor led,3.0,11.0
+139830,Ark Franklin Primary Academy,523722.0,183042.0,E09000005,E01000582,Academy sponsor led,3.0,11.0
+139837,Abacus Belsize Primary School,529656.0,183804.0,E09000007,E01000958,Free schools,4.0,11.0
+139869,Norwood Green Junior School,512552.0,178345.0,E09000018,E01002631,Academy converter,7.0,11.0
+139889,Westbrook Primary School,512929.0,177231.0,E09000018,E01002620,Academy converter,3.0,11.0
+139898,Pimlico Primary,529431.0,178226.0,E09000033,E01035722,Free schools,5.0,11.0
+139905,Harris Primary Academy Benson,536366.0,165280.0,E09000008,E01001063,Academy sponsor led,3.0,11.0
+139907,Judith Kerr Primary School,532594.0,174398.0,E09000028,E01004073,Free schools,3.0,11.0
+139909,Hewens Primary School,508346.0,182206.0,E09000017,E01002423,Free schools,4.0,11.0
+139926,Nanaksar Primary School,511258.0,180073.0,E09000017,E01002507,Free schools,4.0,11.0
+139965,Harris Junior Academy Carshalton,527733.0,164972.0,E09000029,E01004166,Academy sponsor led,7.0,11.0
+139966,Harris Primary Academy Crystal Palace,535074.0,170377.0,E09000006,E01000806,Academy sponsor led,3.0,11.0
+139984,Parish Church of England Primary School,540189.0,170454.0,E09000006,E01000822,Academy converter,4.0,11.0
+140022,Oasis Academy Pinewood,549795.0,192411.0,E09000016,E01002305,Academy sponsor led,3.0,11.0
+140045,Tudor Academy,538423.0,162936.0,E09000008,E01001053,Academy sponsor led,3.0,11.0
+140050,Gateway Academy,526953.0,182355.0,E09000033,E01033598,Academy converter,3.0,11.0
+140064,Culloden Primary - A Paradigm Academy,538399.0,181277.0,E09000030,E01004243,Academy converter,3.0,11.0
+140080,Alexandra Junior School,535952.0,170915.0,E09000006,E01000803,Academy converter,7.0,11.0
+140082,Highfield Infants' School,539471.0,168333.0,E09000006,E01000831,Academy converter,5.0,7.0
+140088,Raglan Primary School,541482.0,168152.0,E09000006,E01000679,Academy converter,2.0,11.0
+140096,Old Ford Primary - A Paradigm Academy,536596.0,183433.0,E09000030,E01004222,Academy converter,3.0,11.0
+140113,Forest Academy,537228.0,165357.0,E09000008,E01001135,Academy converter,3.0,11.0
+140158,Oriel Academy West London,511993.0,172056.0,E09000018,E01002608,Academy sponsor led,3.0,11.0
+140208,Harris Primary Academy Haling Park,532655.0,163924.0,E09000008,E01001037,Academy sponsor led,3.0,11.0
+140213,Kensington Primary Academy,524646.0,178992.0,E09000020,E01002814,Academy sponsor led,3.0,11.0
+140222,Oasis Academy Putney,523133.0,175935.0,E09000032,E01004604,Academy sponsor led,4.0,11.0
+140236,Saracens Broadfields,519590.0,193724.0,E09000003,E01000188,Academy converter,2.0,11.0
+140243,Hurst Primary School,547956.0,173514.0,E09000004,E01000446,Academy converter,3.0,11.0
+140257,Highfield Junior School,539328.0,168292.0,E09000006,E01000831,Academy converter,7.0,11.0
+140260,Cheam Park Farm Primary Academy,524385.0,165473.0,E09000029,E01004133,Academy converter,4.0,11.0
+140295,St Aidan's Catholic Primary Academy,544933.0,187367.0,E09000026,E01003757,Academy converter,3.0,11.0
+140320,Barnehurst Infant School,550289.0,176697.0,E09000004,E01000370,Academy converter,3.0,7.0
+140321,Barnehurst Junior School,550235.0,176683.0,E09000004,E01000370,Academy converter,7.0,11.0
+140387,John Locke Academy,506148.0,183623.0,E09000017,E01034601,Academy sponsor led,3.0,11.0
+140391,Lake Farm Park Academy,509332.0,180479.0,E09000017,E01002405,Academy sponsor led,3.0,11.0
+140395,Harris Primary Academy Purley Way,531192.0,164292.0,E09000008,E01001172,Academy sponsor led,4.0,11.0
+140405,Thomas Gamuel Primary School,537162.0,188106.0,E09000031,E01004447,Academy sponsor led,2.0,11.0
+140423,Floreat Wandsworth Primary School,525956.0,173583.0,E09000032,E01004493,Academy sponsor led,2.0,11.0
+140426,Mossbourne Riverside Academy,537230.0,184786.0,E09000012,E01001849,Academy sponsor led,3.0,11.0
+140434,Chestnut Park Primary School,531958.0,166697.0,E09000008,E01034139,Academy sponsor led,4.0,11.0
+140435,Heathfield Academy,532498.0,164631.0,E09000008,E01034152,Academy sponsor led,4.0,11.0
+140443,Bursted Wood Primary School,549645.0,176496.0,E09000004,E01000355,Academy converter,4.0,11.0
+140448,Perry Hall Primary School,545845.0,167071.0,E09000006,E01000727,Academy converter,5.0,11.0
+140449,Farnborough Primary School,544497.0,164204.0,E09000006,E01000752,Academy converter,5.0,11.0
+140450,Manor Oak Primary School,547926.0,167914.0,E09000006,E01000721,Academy converter,3.0,11.0
+140451,Alexandra Infant School,535971.0,170058.0,E09000006,E01000799,Academy converter,5.0,7.0
+140484,St Martin's Church of England Primary School,506033.0,178742.0,E09000017,E01002530,Academy sponsor led,3.0,11.0
+140495,Whitehall Park School,529459.0,187564.0,E09000019,E01002757,Free schools,4.0,11.0
+140507,John Donne Primary School,534743.0,176680.0,E09000028,E01004005,Academy converter,3.0,11.0
+140517,Atwood Primary School,534231.0,160564.0,E09000008,E01001103,Academy converter,4.0,11.0
+140532,Sherwood Park Primary School,546847.0,174111.0,E09000004,E01000346,Academy converter,3.0,11.0
+140533,Elmstead Wood Primary School,542250.0,171446.0,E09000006,E01000785,Academy converter,3.0,11.0
+140601,Millbrook Park Primary School,524310.0,191639.0,E09000003,E01000257,Academy sponsor led,3.0,11.0
+140648,St John's Church of England Primary School,535339.0,170261.0,E09000006,E01000806,Academy sponsor led,4.0,11.0
+140657,Aylward Primary School,517981.0,192291.0,E09000015,E01002113,Academy sponsor led,3.0,11.0
+140667,Knollmead Primary School,520229.0,165821.0,E09000021,E01002919,Academy sponsor led,3.0,11.0
+140671,Pinkwell Primary School,508426.0,178846.0,E09000017,E01002486,Academy sponsor led,3.0,11.0
+140674,Oasis Academy Ryelands,534768.0,167867.0,E09000008,E01001194,Academy sponsor led,3.0,11.0
+140682,Westbridge Academy,527035.0,176960.0,E09000032,E01004581,Academy sponsor led,3.0,11.0
+140683,Winterbourne Boys' Academy,531246.0,168384.0,E09000008,E01000995,Academy sponsor led,7.0,11.0
+140686,Kings Cross Academy,529992.0,183696.0,E09000007,E01035708,Academy sponsor led,3.0,11.0
+140687,Dorothy Barley Junior Academy,546744.0,185292.0,E09000002,E01000073,Academy sponsor led,7.0,11.0
+140704,Chipstead Valley Primary School,528288.0,159114.0,E09000008,E01001026,Academy converter,2.0,11.0
+140710,Days Lane Primary School,545899.0,174138.0,E09000004,E01000343,Academy converter,3.0,11.0
+140717,Fairchildes Primary School,539271.0,161391.0,E09000008,E01001081,Academy converter,2.0,11.0
+140718,Oak Hill Academy West London,509695.0,172161.0,E09000018,E01002601,Academy converter,7.0,11.0
+140729,Keston Church of England Primary School,541578.0,164419.0,E09000006,E01000666,Academy converter,4.0,11.0
+140752,Orion Scotts Park,541307.0,169936.0,E09000006,E01000653,Academy converter,3.0,11.0
+140811,Earl's Court Free School Primary,522891.0,178876.0,E09000013,E01001899,Free schools,4.0,11.0
+140818,Drapers' Brookside Junior School,554091.0,192337.0,E09000016,E01002278,Academy sponsor led,7.0,11.0
+140833,Gladstone Park Primary School,522742.0,185142.0,E09000005,E01000505,Academy sponsor led,3.0,11.0
+140840,Broadmead Primary School,532913.0,167136.0,E09000008,E01001109,Academy sponsor led,3.0,11.0
+140841,Rowdown Primary School,538826.0,162187.0,E09000008,E01001076,Academy sponsor led,3.0,11.0
+140934,Harris Primary Academy Beckenham,537242.0,168645.0,E09000006,E01000770,Free schools,4.0,11.0
+140936,Harris Primary Academy Shortlands,539498.0,168932.0,E09000006,E01000828,Free schools,4.0,11.0
+140937,Harris Primary Academy East Dulwich,533765.0,174676.0,E09000028,E01003956,Free schools,4.0,11.0
+140963,St Mary's Church of England Primary Norwood Green,513435.0,178494.0,E09000009,E01001335,Free schools,3.0,11.0
+140967,Paxton Academy Sports And Science,531247.0,167866.0,E09000008,E01001183,Free schools,2.0,11.0
+140974,Alexandra Primary School,513950.0,176295.0,E09000018,E01002640,Community school,3.0,11.0
+140999,La Fontaine Academy,541374.0,169020.0,E09000006,E01000647,Free schools,4.0,11.0
+141017,Meridian Angel Primary School,535059.0,192064.0,E09000010,E01001559,Free schools,4.0,11.0
+141027,Park Academy,525784.0,169236.0,E09000024,E01003426,Free schools,4.0,11.0
+141039,"Canary Wharf Primary, Glenworth",538579.0,178697.0,E09000030,E01004218,Free schools,4.0,11.0
+141047,Brampton Primary Academy,547941.0,176369.0,E09000004,E01000356,Academy converter,3.0,11.0
+141054,Heathland School,513025.0,186247.0,E09000015,E01002212,Academy converter,3.0,11.0
+141055,Hillingdon Primary School,507561.0,182530.0,E09000017,E01002410,Academy converter,3.0,11.0
+141114,Mayplace Primary School,550631.0,175326.0,E09000004,E01000328,Academy sponsor led,2.0,11.0
+141117,St. Mary Cray Primary Academy,547207.0,167462.0,E09000006,E01000725,Academy sponsor led,4.0,11.0
+141118,New Valley Primary School,531520.0,159048.0,E09000008,E01001070,Academy sponsor led,4.0,11.0
+141119,St Mark's Church of England Primary Academy,534245.0,168413.0,E09000008,E01001145,Academy sponsor led,4.0,11.0
+141120,Beulah Infants' School,532341.0,168918.0,E09000008,E01001152,Academy sponsor led,3.0,7.0
+141143,Harris Primary Academy Merton,529751.0,168655.0,E09000024,E01003433,Academy sponsor led,2.0,11.0
+141154,North West London Jewish Day School,524137.0,184374.0,E09000005,E01000495,Academy converter,3.0,11.0
+141158,St Peter and St Paul Catholic Primary School,545313.0,169466.0,E09000006,E01000698,Academy converter,3.0,11.0
+141173,Rise Park Junior School,550966.0,190881.0,E09000016,E01002333,Academy sponsor led,7.0,11.0
+141209,Brook House Primary School,533838.0,191709.0,E09000014,E01002034,Free schools,4.0,11.0
+141291,Leesons Primary School,546538.0,168730.0,E09000006,E01000730,Academy converter,3.0,11.0
+141296,Sheringham Primary School,542881.0,185860.0,E09000025,E01003581,Academy converter,4.0,11.0
+141299,Rise Park Infant School,550966.0,190881.0,E09000016,E01002333,Academy converter,3.0,7.0
+141352,Trinity Church of England Primary School,542428.0,166644.0,E09000006,E01000665,Academy sponsor led,2.0,11.0
+141447,Cuddington Croft Primary School and Nursery,523990.0,162820.0,E09000029,E01004112,Academy converter,3.0,11.0
+141481,St Vincent's Catholic Primary School,542165.0,171978.0,E09000006,E01000782,Academy converter,4.0,11.0
+141482,St Philomena's Primary School,547305.0,166927.0,E09000006,E01000726,Academy converter,5.0,11.0
+141529,St Nicholas Church of England Primary,544251.0,170018.0,E09000006,E01000696,Academy converter,4.0,11.0
+141535,St Mary's Catholic Primary School,538098.0,170133.0,E09000006,E01000713,Academy converter,4.0,11.0
+141549,Drapers' Maylands Primary School,555266.0,192587.0,E09000016,E01002279,Free schools,3.0,11.0
+141561,Rosedale Primary School,508973.0,181384.0,E09000017,E01002401,Academy sponsor led,3.0,11.0
+141566,St Joseph's Catholic Primary School,540989.0,170054.0,E09000006,E01000820,Academy converter,4.0,11.0
+141567,St Mark's Church of England Primary School,540034.0,168617.0,E09000006,E01000829,Academy converter,5.0,11.0
+141576,Northwold Primary School,534289.0,186613.0,E09000012,E01001768,Academy converter,2.0,11.0
+141577,Drapers' Pyrgo Priory School,555019.0,192476.0,E09000016,E01002279,Academy converter,3.0,11.0
+141613,Midfield Primary School,546304.0,170044.0,E09000006,E01000735,Academy converter,3.0,11.0
+141651,Thames View Junior School,545972.0,183054.0,E09000002,E01000093,Academy sponsor led,7.0,11.0
+141666,Angel Oak Academy,533488.0,177465.0,E09000028,E01004012,Academy sponsor led,4.0,11.0
+141672,St Andrew and St Francis CofE Primary School,522423.0,184834.0,E09000005,E01000641,Academy sponsor led,3.0,11.0
+141685,Langford Primary School,525887.0,176415.0,E09000013,E01001935,Academy sponsor led,3.0,11.0
+141718,Ryefield Primary School,508478.0,183834.0,E09000017,E01002454,Academy converter,3.0,11.0
+141734,Lime Academy Larkswood,537731.0,192879.0,E09000031,E01004414,Academy converter,2.0,11.0
+141748,Walthamstow Primary Academy,536990.0,190880.0,E09000031,E01004346,Free schools,4.0,11.0
+141750,Halley House School,533743.0,185415.0,E09000012,E01001745,Free schools,3.0,11.0
+141751,Kilburn Grange School,525130.0,183950.0,E09000005,E01000548,Free schools,4.0,11.0
+141764,Castle Hill Primary School,518673.0,164299.0,E09000021,E01002939,Academy converter,3.0,11.0
+141784,Hawes Down Primary School,538909.0,166076.0,E09000006,E01000838,Academy converter,4.0,11.0
+141866,Lessness Heath Primary School,549310.0,178211.0,E09000004,E01000332,Academy sponsor led,3.0,11.0
+141876,Green Wrythe Primary School,526945.0,167073.0,E09000029,E01004189,Academy sponsor led,3.0,11.0
+141889,Fairford Academy Barnehurst,550969.0,176679.0,E09000004,E01000368,Academy sponsor led,2.0,11.0
+141896,Cudham Church of England Primary School,543297.0,159316.0,E09000006,E01000748,Academy converter,4.0,11.0
+141902,Greenside Primary School,522430.0,179776.0,E09000013,E01001858,Academy converter,3.0,11.0
+141907,Holy Innocents Catholic Primary School,545698.0,165100.0,E09000006,E01000683,Academy converter,2.0,11.0
+141925,St Helen's Catholic Primary School,540040.0,182405.0,E09000025,E01003501,Academy converter,2.0,11.0
+141927,St Joachim's Catholic Primary School,541025.0,181159.0,E09000025,E01003512,Academy converter,2.0,11.0
+141976,Burnt Oak Junior School,546116.0,173056.0,E09000004,E01000460,Academy sponsor led,7.0,11.0
+142012,Deer Park School,517490.0,174345.0,E09000027,E01003893,Free schools,4.0,11.0
+142033,Orion Mead Road,544184.0,170942.0,E09000006,E01000692,Academy sponsor led,4.0,7.0
+142090,The Belham Primary School,533912.0,175881.0,E09000028,E01004046,Free schools,4.0,11.0
+142110,Ark Byron Primary Academy,520665.0,180122.0,E09000009,E01001244,Free schools,4.0,11.0
+142112,Hackney New Primary School,533009.0,183989.0,E09000012,E01001750,Free schools,4.0,11.0
+142114,Watling Park School,519953.0,191285.0,E09000003,E01000134,Free schools,4.0,11.0
+142122,Twickenham Primary Academy,515479.0,173083.0,E09000027,E01003884,Free schools,4.0,11.0
+142133,Riverside Primary School,547006.0,182440.0,E09000002,E01000094,Free schools,4.0,11.0
+142177,Avenue Primary Academy,525167.0,162352.0,E09000029,E01004093,Academy converter,3.0,11.0
+142226,St. Mary's Catholic Junior School,532644.0,166268.0,E09000008,E01034142,Academy sponsor led,7.0,11.0
+142228,Old Bexley Church of England School,548886.0,173437.0,E09000004,E01000448,Academy converter,3.0,11.0
+142229,Holy Trinity Lamorbey Church of England School,546258.0,173015.0,E09000004,E01000462,Academy converter,3.0,11.0
+142233,Orion Ravensworth,542749.0,172064.0,E09000006,E01000781,Academy converter,2.0,11.0
+142234,Oaklands Primary Academy,541217.0,159337.0,E09000006,E01000656,Academy converter,2.0,11.0
+142246,St Mary's Catholic Infant School,532625.0,166192.0,E09000008,E01034147,Academy converter,3.0,7.0
+142255,Mossbourne Parkside Academy,534440.0,185098.0,E09000012,E01001761,Academy converter,3.0,11.0
+142256,New King's Road School,524737.0,176318.0,E09000013,E01001951,Academy converter,3.0,11.0
+142267,Upton Cross Primary School,540922.0,183771.0,E09000025,E01003568,Academy converter,3.0,11.0
+142294,St Paulinus Church of England Primary School,551293.0,175109.0,E09000004,E01033791,Academy converter,5.0,11.0
+142295,Hillsgrove Primary School,547170.0,177188.0,E09000004,E01000451,Academy converter,3.0,11.0
+142298,Oak Lodge Primary School,537549.0,166471.0,E09000006,E01000837,Academy converter,2.0,11.0
+142299,Marian Vian Primary School,536074.0,167986.0,E09000006,E01032568,Academy converter,4.0,11.0
+142300,Unicorn Primary School,537774.0,167753.0,E09000006,E01000775,Academy converter,4.0,11.0
+142301,Wickham Common Primary School,540128.0,164832.0,E09000006,E01000759,Academy converter,4.0,11.0
+142379,The Crescent Primary School,532880.0,167289.0,E09000008,E01001114,Academy converter,4.0,11.0
+142398,Cheam Common Junior Academy,522737.0,165542.0,E09000029,E01004122,Academy sponsor led,7.0,11.0
+142403,Worsley Bridge Primary School,537322.0,170426.0,E09000006,E01000710,Academy sponsor led,4.0,11.0
+142455,Al-Noor Voluntary Aided Muslim Primary School,546788.0,187049.0,E09000026,E01032581,Voluntary aided school,4.0,11.0
+142456,St Winifred's RC Primary School,539752.0,174018.0,E09000023,E01003281,Voluntary aided school,3.0,11.0
+142489,Avanti Court Primary School,544748.0,189739.0,E09000026,E01003701,Academy converter,3.0,11.0
+142558,St Bernadette's Catholic Primary School,518540.0,189173.0,E09000015,E01002165,Academy converter,3.0,11.0
+142584,Burnt Ash Primary School,540044.0,171081.0,E09000006,E01032562,Academy converter,5.0,11.0
+142586,Leigh Stationers' Primary Academy,544831.0,175927.0,E09000004,E01000395,Academy converter,3.0,11.0
+142587,Good Shepherd Catholic Primary and Nursery School,537845.0,163368.0,E09000008,E01001054,Academy converter,3.0,11.0
+142610,John Wood School & Nursery,533675.0,166776.0,E09000008,E01000982,Academy sponsor led,4.0,11.0
+142632,Portway Primary School,540055.0,183597.0,E09000025,E01003598,Academy sponsor led,1.0,11.0
+142636,Claremont Primary School,523635.0,186708.0,E09000003,E01000223,Academy converter,3.0,11.0
+142694,Chelsfield Primary School,548238.0,164217.0,E09000006,E01000680,Academy converter,4.0,11.0
+142697,Darrick Wood Junior School,543802.0,164935.0,E09000006,E01000751,Academy converter,7.0,11.0
+142699,Eastbury Primary School,545822.0,184040.0,E09000002,E01000040,Academy converter,3.0,11.0
+142703,Furness Primary School,522256.0,183121.0,E09000005,E01000535,Academy converter,3.0,11.0
+142708,Hartley Primary School,542283.0,183629.0,E09000025,E01003525,Academy converter,3.0,11.0
+142713,Mayville Academy,539156.0,186478.0,E09000031,E01004341,Academy converter,3.0,11.0
+142718,Oakington Manor Primary School,519960.0,185118.0,E09000005,E01000619,Academy converter,3.0,11.0
+142721,Pratts Bottom Primary School,547345.0,161874.0,E09000006,E01000680,Academy converter,5.0,11.0
+142723,Royal Park Primary Academy,548120.0,172332.0,E09000004,E01000381,Academy converter,3.0,11.0
+142726,Selwyn Primary School,540484.0,183852.0,E09000025,E01003597,Academy converter,3.0,11.0
+142729,St Aidan's Catholic Primary School,529303.0,159212.0,E09000008,E01001027,Academy converter,4.0,11.0
+142731,St Chad's Catholic Primary School,533380.0,167845.0,E09000008,E01001112,Academy converter,3.0,11.0
+142743,The Highway Primary School,547078.0,164431.0,E09000006,E01000685,Academy converter,2.0,11.0
+142750,Victor Seymour Infants' School,527847.0,165009.0,E09000029,E01004166,Academy converter,3.0,7.0
+142772,Ashmole Primary School,529082.0,193961.0,E09000003,E01000122,Free schools,4.0,11.0
+142861,Krishna Avanti Primary School,531998.0,164894.0,E09000008,E01001166,Free schools,4.0,11.0
+142874,One Degree Academy,531470.0,198025.0,E09000010,E01001468,Free schools,2.0,11.0
+142875,"Galleywall Primary, City of London Academy",534822.0,178551.0,E09000028,E01004037,Free schools,4.0,11.0
+142885,Concordia Academy,550979.0,188164.0,E09000016,E01033787,Free schools,4.0,11.0
+142889,Edison Primary School,512542.0,176831.0,E09000018,E01002618,Free schools,4.0,11.0
+142897,Langley Park Primary School,538061.0,167231.0,E09000006,E01000837,Free schools,4.0,11.0
+142904,Saint Jerome Church of England Bilingual School,515670.0,188704.0,E09000015,E01002130,Free schools,4.0,11.0
+142966,Drapers' Brookside Infant School,554152.0,192388.0,E09000016,E01002278,Academy converter,3.0,7.0
+143020,"City of London Primary Academy, Islington",532190.0,182190.0,E09000019,E01002706,Free schools,4.0,11.0
+143033,Clare House Primary School,538247.0,169103.0,E09000006,E01000772,Academy converter,4.0,11.0
+143079,Windrush Thamesmead Primary School,546939.0,180338.0,E09000011,E01001693,Academy converter,3.0,11.0
+143085,Chatsworth Infant School,546420.0,173340.0,E09000004,E01000460,Academy converter,3.0,7.0
+143097,"St George's, Bickley, Church of England Primary School",541613.0,169084.0,E09000006,E01000647,Academy converter,4.0,11.0
+143110,Red Hill Primary School,543518.0,171152.0,E09000006,E01000695,Academy converter,4.0,11.0
+143118,Woodlands Academy,516000.0,181854.0,E09000009,E01001206,Academy sponsor led,3.0,11.0
+143133,Beecholme Primary School,528624.0,169820.0,E09000024,E01003395,Academy sponsor led,3.0,11.0
+143178,Woodside Primary School,534078.0,166848.0,E09000008,E01000981,Academy converter,2.0,11.0
+143198,Hazelbury Primary School,533311.0,193331.0,E09000010,E01001464,Academy converter,2.0,11.0
+143199,Lavender Primary School,532995.0,197977.0,E09000010,E01001407,Academy converter,2.0,11.0
+143200,Chesterfield Primary School,536204.0,198589.0,E09000010,E01001448,Academy converter,3.0,11.0
+143201,Bowes Primary School,529879.0,192208.0,E09000010,E01001390,Academy converter,3.0,11.0
+143202,Brimsdown Primary School,536016.0,196954.0,E09000010,E01001438,Academy converter,3.0,11.0
+143209,Timbercroft Primary School,545264.0,177428.0,E09000011,E01001685,Academy converter,3.0,11.0
+143210,Brooklands Primary School,540311.0,175836.0,E09000011,E01001656,Academy converter,2.0,11.0
+143211,Millennium Primary School,539725.0,179099.0,E09000011,E01033732,Academy converter,3.0,11.0
+143212,Queen's Manor School,523582.0,177153.0,E09000013,E01001917,Academy converter,3.0,11.0
+143213,Fulham Primary School,525224.0,177604.0,E09000013,E01001883,Academy converter,3.0,11.0
+143214,Sulivan Primary School,525155.0,176169.0,E09000013,E01001925,Academy converter,3.0,11.0
+143216,Benhurst Primary School,552897.0,186268.0,E09000016,E01002366,Academy converter,4.0,11.0
+143276,Gainsborough Primary School,539271.0,182593.0,E09000025,E01003500,Academy converter,3.0,11.0
+143277,Kaizen Primary School,540726.0,182200.0,E09000025,E01003601,Academy converter,3.0,11.0
+143375,Cheam Fields Primary Academy,524043.0,164365.0,E09000029,E01004115,Academy converter,3.0,11.0
+143383,Selwyn Primary School,538136.0,191542.0,E09000031,E01004382,Academy converter,2.0,11.0
+143384,Davies Lane Primary School,539547.0,186984.0,E09000031,E01004440,Academy converter,2.0,11.0
+143411,Tweeddale Primary School,526761.0,166569.0,E09000029,E01004123,Academy converter,3.0,11.0
+143426,Harris Primary Academy Orpington,547210.0,166615.0,E09000006,E01000787,Academy sponsor led,3.0,11.0
+143432,Upland Primary School,548550.0,175796.0,E09000004,E01000366,Academy converter,0.0,11.0
+143592,Foxfield Primary School,544122.0,178461.0,E09000011,E01001634,Academy converter,3.0,11.0
+143593,Rockliffe Manor Primary School,545525.0,177585.0,E09000011,E01001671,Academy converter,3.0,11.0
+143594,Woodhill Primary School,542375.0,178697.0,E09000011,E01034173,Academy converter,3.0,11.0
+143596,South Rise Primary School,544713.0,178425.0,E09000011,E01001632,Academy converter,3.0,11.0
+143597,Halstow Primary School,540019.0,178163.0,E09000011,E01001665,Academy converter,5.0,11.0
+143598,Horn Park Primary School,540826.0,173663.0,E09000011,E01001654,Academy converter,4.0,11.0
+143599,Deansfield Primary School,543353.0,175720.0,E09000011,E01001606,Academy converter,3.0,11.0
+143601,Alderwood Primary School,545054.0,174230.0,E09000011,E01033729,Academy converter,3.0,11.0
+143617,Winston Way Academy,544347.0,186548.0,E09000026,E01003686,Academy converter,3.0,11.0
+143628,Brookfield Primary Academy,524295.0,166033.0,E09000029,E01004134,Academy converter,2.0,11.0
+143668,Royal Wharf Primary School,540797.0,179909.0,E09000025,E01034230,Free schools,3.0,11.0
+143739,Anglo Portuguese School of London,525848.0,174572.0,E09000032,E01004513,Free schools,4.0,11.0
+143774,James Dixon Primary School,534388.0,169775.0,E09000006,E01000743,Academy converter,3.0,11.0
+143866,Bedonwell Infant and Nursery School,548292.0,177759.0,E09000004,E01000420,Academy converter,3.0,7.0
+143867,Bedonwell Junior School,548292.0,177759.0,E09000004,E01000420,Academy converter,7.0,11.0
+143868,Barrington Primary School,547665.0,176046.0,E09000004,E01000357,Academy converter,4.0,11.0
+143881,Tollgate Primary School,541266.0,182067.0,E09000025,E01003601,Academy converter,3.0,11.0
+143882,Cleves Primary School,541805.0,183725.0,E09000025,E01003490,Academy converter,3.0,11.0
+143883,Drew Primary School,542185.0,180187.0,E09000025,E01034224,Academy converter,3.0,11.0
+143925,Hujjat Primary School,515088.0,191765.0,E09000015,E01002144,Free schools,4.0,11.0
+144035,St Margarets CofE Primary School,544043.0,184012.0,E09000002,E01034474,Academy converter,3.0,11.0
+144065,St Peter's Primary School,533097.0,163788.0,E09000008,E01001038,Academy converter,4.0,11.0
+144091,St Mary's Catholic Primary School,543505.0,174748.0,E09000011,E01001608,Academy converter,3.0,11.0
+144097,Berkeley Academy,511896.0,177485.0,E09000018,E01002632,Academy converter,3.0,11.0
+144139,Ranelagh Primary School,539467.0,183286.0,E09000025,E01003631,Academy converter,3.0,11.0
+144140,Ravenscroft Primary School,540424.0,182089.0,E09000025,E01003509,Academy converter,3.0,11.0
+144141,Kensington Primary School,542705.0,184585.0,E09000025,E01003530,Academy converter,3.0,11.0
+144142,Curwen Primary School,540218.0,183137.0,E09000025,E01003595,Academy converter,3.0,11.0
+144235,Stebon Primary School,537074.0,181611.0,E09000030,E01035677,Academy converter,3.0,11.0
+144236,Bygrove Primary School,537579.0,181154.0,E09000030,E01004244,Academy converter,3.0,11.0
+144238,St Mary's CofE Primary School,538460.0,189080.0,E09000031,E01004465,Academy converter,5.0,11.0
+144239,St Saviour's Church of England Primary School,536614.0,187993.0,E09000031,E01004448,Academy converter,4.0,11.0
+144280,The James Cambell Primary School,547691.0,184072.0,E09000002,E01000054,Academy sponsor led,3.0,11.0
+144287,Harris Primary Academy Beckenham Green,537570.0,169614.0,E09000006,E01000714,Academy converter,4.0,11.0
+144308,Rosendale Primary School,532270.0,173625.0,E09000022,E01003170,Academy converter,3.0,11.0
+144382,Park Hill Junior School,533096.0,165224.0,E09000008,E01001044,Academy converter,7.0,11.0
+144473,William Byrd Primary Academy,508532.0,177907.0,E09000017,E01002448,Academy sponsor led,3.0,11.0
+144504,Green Street Green Primary School,545766.0,163569.0,E09000006,E01000687,Academy converter,2.0,11.0
+144527,Britannia Village Primary School,540674.0,180244.0,E09000025,E01033580,Academy converter,3.0,11.0
+144540,Northwood Primary School,548540.0,179207.0,E09000004,E01000465,Academy converter,4.0,11.0
+144544,Rushy Meadow Primary Academy,527257.0,165440.0,E09000029,E01004165,Academy sponsor led,3.0,11.0
+144549,St Anthony's Catholic Primary School,535068.0,169647.0,E09000006,E01000800,Academy converter,2.0,11.0
+144589,Scargill Infant School,552073.0,184537.0,E09000016,E01002267,Academy converter,2.0,7.0
+144590,Scargill Junior School,552073.0,184537.0,E09000016,E01002267,Academy converter,7.0,11.0
+144596,Whybridge Junior School,552020.0,183864.0,E09000016,E01002373,Academy converter,7.0,11.0
+144621,Belleville Wix Academy,528515.0,175503.0,E09000032,E01004591,Academy sponsor led,3.0,11.0
+144626,Cypress Primary School,533426.0,169417.0,E09000008,E01001140,Academy sponsor led,2.0,11.0
+144653,Summerside Primary Academy,526931.0,191657.0,E09000003,E01000315,Academy sponsor led,3.0,11.0
+144699,The Clara Grant Primary School,537486.0,182177.0,E09000030,E01004241,Academy converter,3.0,11.0
+144794,East Lane Primary School,517396.0,186299.0,E09000005,E01000564,Academy converter,4.0,11.0
+144838,Aragon Primary School,523946.0,166995.0,E09000024,E01003418,Academy converter,3.0,11.0
+144883,Earlsmead Primary School,512872.0,185623.0,E09000015,E01002223,Academy sponsor led,3.0,11.0
+144889,St Michael's East Wickham Church of England Primary School,547450.0,176622.0,E09000004,E01000453,Academy converter,3.0,11.0
+144941,All Saints Carshalton Church of England Primary School,528271.0,164496.0,E09000029,E01004099,Academy converter,3.0,11.0
+145011,St. Paul's (Slade Green) Church of England Primary School,552330.0,177087.0,E09000004,E01033789,Academy sponsor led,3.0,11.0
+145030,The Alton School,521432.0,174074.0,E09000032,E01004576,Academy converter,3.0,11.0
+145041,West Drayton Academy,506530.0,179594.0,E09000017,E01002529,Academy converter,3.0,11.0
+145044,Farnham Green Primary School,546200.0,188029.0,E09000026,E01003771,Academy sponsor led,3.0,11.0
+145045,Ray Lodge Primary School,541627.0,191783.0,E09000026,E01003656,Academy converter,4.0,11.0
+145060,Griffin Primary School,529387.0,176675.0,E09000032,E01035499,Academy sponsor led,3.0,11.0
+145071,Jubilee Primary School,547334.0,180626.0,E09000004,E01000469,Academy converter,3.0,11.0
+145073,Orion Blenheim,547503.0,165864.0,E09000006,E01000792,Academy converter,2.0,11.0
+145087,Rosetta Primary School,540767.0,181590.0,E09000025,E01003517,Academy converter,4.0,11.0
+145088,Earlham Primary School,539975.0,185050.0,E09000025,E01003557,Academy converter,3.0,11.0
+145111,Harrow Lodge Primary School,552071.0,187040.0,E09000016,E01002319,Academy sponsor led,4.0,11.0
+145122,Nelson Primary School,513961.0,173953.0,E09000027,E01003908,Academy sponsor led,3.0,11.0
+145130,Goose Green Primary and Nursery School,533707.0,175360.0,E09000028,E01003953,Academy converter,3.0,11.0
+145131,Castle Hill Academy,538083.0,163637.0,E09000008,E01001055,Academy sponsor led,3.0,11.0
+145142,Avanti House Primary School,515107.0,193372.0,E09000015,E01002225,Free schools,4.0,11.0
+145201,Carterhatch Junior School,534567.0,197594.0,E09000010,E01001516,Academy converter,7.0,11.0
+145204,Churchfields Primary School,535968.0,169207.0,E09000006,E01000700,Academy converter,3.0,11.0
+145207,Grange Park Primary School,530977.0,195990.0,E09000010,E01001473,Academy converter,3.0,11.0
+145208,Gravel Hill Primary School,549770.0,175013.0,E09000004,E01000329,Academy converter,3.0,11.0
+145210,Greenacres Primary School and Language Impairment Unit,543070.0,172575.0,E09000011,E01001602,Academy converter,2.0,11.0
+145215,Nightingale Primary School,543887.0,178056.0,E09000011,E01001700,Academy converter,3.0,11.0
+145235,Monega Primary School,541785.0,184933.0,E09000025,E01003588,Academy sponsor led,3.0,11.0
+145280,Chesterton Primary School,528113.0,176595.0,E09000032,E01004539,Academy converter,3.0,11.0
+145362,Elmhurst Primary School,540776.0,184298.0,E09000025,E01003573,Academy converter,3.0,11.0
+145363,Hallsville Primary School,540086.0,181251.0,E09000025,E01033584,Academy converter,3.0,11.0
+145364,Nelson Primary School,543095.0,183520.0,E09000025,E01003624,Academy converter,3.0,11.0
+145365,Scott Wilkie Primary School,541491.0,181453.0,E09000025,E01003514,Academy converter,3.0,11.0
+145366,Vicarage Primary School,543049.0,182891.0,E09000025,E01003542,Academy converter,3.0,11.0
+145367,New City Primary School,541501.0,182628.0,E09000025,E01003603,Academy converter,3.0,11.0
+145368,Gallions Primary School,543682.0,181384.0,E09000025,E01003487,Academy converter,3.0,11.0
+145385,Stanley Park Infants School,527976.0,163354.0,E09000029,E01004104,Academy converter,3.0,7.0
+145406,Dormers Wells Primary School,513688.0,180684.0,E09000009,E01001220,Academy sponsor led,3.0,11.0
+145475,Southville Primary School,509787.0,173406.0,E09000018,E01002603,Community school,3.0,11.0
+145481,Cheam Common Infants' Academy,522692.0,165586.0,E09000029,E01004121,Academy converter,3.0,7.0
+145484,Manor Park Primary Academy,526232.0,164329.0,E09000029,E01004137,Academy converter,2.0,11.0
+145522,Churchfield Primary School,533834.0,194136.0,E09000010,E01001459,Academy converter,3.0,11.0
+145585,Bickley Primary School,541346.0,168987.0,E09000006,E01000647,Academy converter,5.0,11.0
+145610,Lubavitch Girls Primary School,533621.0,187688.0,E09000012,E01001809,Academy converter,4.0,11.0
+145614,"Christ Church, Streatham Church of England Primary School",530642.0,173424.0,E09000022,E01003025,Academy converter,5.0,11.0
+145615,St Leonard's Church of England Primary School,529711.0,171437.0,E09000022,E01003113,Academy converter,4.0,11.0
+145616,St Luke's Church of England Primary School,532197.0,171468.0,E09000022,E01003082,Academy converter,2.0,11.0
+145621,St George's CofE Primary School,535515.0,172758.0,E09000023,E01003310,Academy converter,2.0,11.0
+145627,Shaftesbury Primary School,541365.0,184317.0,E09000025,E01003564,Academy converter,3.0,11.0
+145718,Braintcroft E-ACT Primary Academy,521761.0,186533.0,E09000005,E01033934,Academy sponsor led,3.0,11.0
+145730,Lubavitch Boys' Primary School,533834.0,187715.0,E09000012,E01001808,Academy sponsor led,5.0,11.0
+145731,Hungerford School,529995.0,184974.0,E09000019,E01002764,Academy sponsor led,3.0,11.0
+145742,Wallington Primary Academy,530311.0,163120.0,E09000029,E01004083,Academy sponsor led,3.0,11.0
+145888,John Keats Primary School,534502.0,178063.0,E09000028,E01003989,Free schools,4.0,11.0
+145955,Delta Primary School,535410.0,194508.0,E09000010,E01001481,Academy converter,3.0,11.0
+145968,Eastfield Primary School,535711.0,198153.0,E09000010,E01001441,Academy converter,3.0,11.0
+145977,Barrow Hedges Primary School,527177.0,163046.0,E09000029,E01004106,Academy converter,3.0,11.0
+145984,Alma Primary School,535987.0,195797.0,E09000010,E01033926,Academy converter,2.0,11.0
+145985,Worcesters Primary School,533965.0,198317.0,E09000010,E01001407,Academy converter,2.0,11.0
+145986,Keys Meadow Primary School,536511.0,199252.0,E09000010,E01001445,Academy converter,3.0,11.0
+146100,Turnham Academy,536114.0,175145.0,E09000023,E01003336,Academy sponsor led,3.0,11.0
+146116,Our Lady of Grace Catholic Junior School,522589.0,186206.0,E09000005,E01000503,Academy converter,7.0,11.0
+146117,Oasis Academy Surrey Square,533192.0,178386.0,E09000028,E01033878,Academy converter,3.0,11.0
+146127,Green Lane Primary and Nursery School,522843.0,166835.0,E09000029,E01004192,Academy converter,3.0,11.0
+146134,Courtwood Primary School,536768.0,162439.0,E09000008,E01001060,Academy converter,4.0,11.0
+146136,Hacton Primary School,554419.0,186215.0,E09000016,E01002289,Academy converter,3.0,11.0
+146137,Quest Primary School,536133.0,163245.0,E09000008,E01001061,Academy converter,3.0,11.0
+146160,Abbey Primary School,525466.0,166535.0,E09000029,E01004124,Academy converter,2.0,11.0
+146176,St George's Primary Catholic Voluntary Academy,515728.0,186230.0,E09000015,E01002135,Academy converter,2.0,11.0
+146178,St John Fisher Catholic Primary School,513011.0,189029.0,E09000015,E01002155,Academy converter,4.0,11.0
+146179,St Margaret Clitherow RC Primary School,520508.0,185961.0,E09000005,E01000626,Academy converter,3.0,11.0
+146185,Dame Tipping Church of England Primary School,551162.0,193382.0,E09000016,E01002304,Academy converter,4.0,11.0
+146191,Franciscan Primary School,528020.0,171453.0,E09000032,E01004533,Academy converter,2.0,11.0
+146214,ARK John Archer Primary Academy,526899.0,175236.0,E09000032,E01004508,Academy converter,3.0,11.0
+146221,Childeric Primary School,536358.0,177160.0,E09000023,E01003301,Academy converter,3.0,11.0
+146225,Monks Orchard Primary School,535862.0,167610.0,E09000008,E01000989,Academy converter,2.0,11.0
+146246,St Joseph's Catholic Primary School,516391.0,190312.0,E09000015,E01002184,Academy converter,3.0,11.0
+146368,Van Gogh Primary,531262.0,176740.0,E09000022,E01003184,Academy converter,3.0,11.0
+146390,Keston Primary School,531303.0,157829.0,E09000008,E01001018,Academy converter,3.0,11.0
+146474,St Richard's Church of England Primary School,512130.0,171100.0,E09000018,E01002610,Academy converter,3.0,11.0
+146543,South Norwood Primary,534121.0,168019.0,E09000008,E01001191,Academy sponsor led,4.0,11.0
+146662,Sacks Morasha Jewish Primary School,526504.0,192220.0,E09000003,E01000323,Academy converter,4.0,11.0
+146663,Wolfson Hillel Primary School,529669.0,195019.0,E09000010,E01001524,Academy converter,3.0,11.0
+146669,St Paul's Church of England Primary School,532078.0,178089.0,E09000028,E01003994,Academy sponsor led,2.0,11.0
+146681,Woodford Green Primary School,540020.0,192313.0,E09000026,E01003746,Academy converter,2.0,11.0
+146721,Our Lady of Grace RC Infant and Nursery School,523176.0,186533.0,E09000005,E01000497,Academy converter,3.0,7.0
+146724,Kensington Avenue Primary School,531394.0,169670.0,E09000008,E01001161,Academy converter,4.0,11.0
+146728,Houndsfield Primary School,534706.0,194606.0,E09000010,E01001479,Academy sponsor led,0.0,11.0
+146750,Priestmead Primary School and Nursery,516813.0,189875.0,E09000015,E01002177,Academy converter,2.0,11.0
+146782,The Welldon Park Academy,514035.0,186012.0,E09000015,E01002219,Academy sponsor led,3.0,11.0
+146803,Shalom Noam Primary School,520114.0,190728.0,E09000003,E01033914,Voluntary aided school,4.0,11.0
+146822,Springwell School,512230.0,177125.0,E09000018,E01002619,Community school,3.0,11.0
+146842,St Paul's Cray Church of England Primary School,547653.0,168586.0,E09000006,E01000719,Academy converter,2.0,11.0
+146862,Galliard Primary School,534411.0,195023.0,E09000010,E01001478,Academy converter,2.0,11.0
+146868,Walker Primary School,529728.0,193491.0,E09000010,E01001521,Academy converter,4.0,11.0
+146870,Belmont Academy,549142.0,177070.0,E09000004,E01000440,Academy converter,3.0,11.0
+146882,Raynham Primary School,534346.0,192236.0,E09000010,E01001558,Academy converter,2.0,11.0
+146892,Castilion Primary School,547307.0,181174.0,E09000004,E01000467,Academy converter,3.0,11.0
+146900,Wilbury Primary School,532854.0,192121.0,E09000010,E01001560,Academy converter,2.0,11.0
+146915,North Beckton Primary School,542828.0,181864.0,E09000025,E01034205,Academy converter,3.0,11.0
+146935,Fleecefield Primary School,534303.0,192871.0,E09000010,E01001430,Academy converter,4.0,11.0
+146946,Brettenham Primary School,534451.0,192789.0,E09000010,E01001430,Academy converter,3.0,11.0
+147179,Longshaw Primary Academy,538813.0,193202.0,E09000031,E01004384,Academy sponsor led,3.0,11.0
+147180,Salisbury Manor Primary School,536931.0,191785.0,E09000031,E01004455,Academy converter,3.0,11.0
+147240,Hook Lane Primary School,546168.0,175745.0,E09000004,E01000414,Academy converter,3.0,11.0
+147327,Ravenstone Primary School,528424.0,173004.0,E09000032,E01004545,Academy converter,3.0,11.0
+147328,St Joseph's Catholic Primary School,544156.0,183775.0,E09000002,E01034474,Academy converter,3.0,11.0
+147329,St Joseph's Catholic Primary School,548737.0,185898.0,E09000002,E01000065,Academy converter,3.0,11.0
+147330,The St Teresa Catholic Primary School,547411.0,185611.0,E09000002,E01000077,Academy converter,3.0,11.0
+147332,Belvedere Infant School,549956.0,179092.0,E09000004,E01000408,Academy converter,3.0,7.0
+147334,Robin Hood Primary and Nursery School,521023.0,171423.0,E09000021,E01002956,Academy converter,3.0,11.0
+147335,St Edward's Catholic Primary School,541402.0,183516.0,E09000025,E01003489,Academy converter,2.0,11.0
+147336,St Francis' Catholic Primary School,539224.0,185147.0,E09000025,E01003548,Academy converter,3.0,11.0
+147337,Our Lady of Lourdes RC Primary School,540060.0,188136.0,E09000026,E01003779,Academy converter,3.0,11.0
+147340,SS Peter and Paul's Catholic Primary School,544785.0,186425.0,E09000026,E01003743,Academy converter,4.0,11.0
+147355,Haberdashers' Hatcham Primary,535760.0,177425.0,E09000023,E01003305,Academy converter,3.0,11.0
+147356,Haberdashers' Slade Green Primary,552262.0,177183.0,E09000004,E01033789,Academy converter,3.0,11.0
+147358,Haberdashers' Crayford Primary,552238.0,175356.0,E09000004,E01000377,Academy converter,3.0,11.0
+147363,Haberdashers' Knights Primary,540233.0,172326.0,E09000023,E01003236,Academy converter,3.0,11.0
+147706,Childs Hill Primary School,524390.0,186337.0,E09000003,E01000138,Academy converter,3.0,11.0
+147970,Benedict Academy,526955.0,168616.0,E09000024,E01003374,Academy sponsor led,3.0,11.0
+147971,West Thornton Primary School,530778.0,167053.0,E09000008,E01001177,Academy sponsor led,4.0,11.0
+148012,Charles Dickens Primary School,532214.0,179740.0,E09000028,E01003929,Academy converter,2.0,11.0
+148025,St Antony's Catholic Primary School,540527.0,184370.0,E09000025,E01003572,Academy converter,2.0,11.0
+148150,Sparrow Farm Primary School,511338.0,173818.0,E09000018,E01002591,Community school,2.0,11.0
+148223,Woodcote Primary School,529730.0,160568.0,E09000008,E01001028,Academy converter,3.0,11.0
+148350,Beddington Park Academy,530018.0,165401.0,E09000029,E01004078,Academy sponsor led,4.0,11.0
+148352,Harris Primary Academy Croydon,531106.0,166395.0,E09000008,E01001008,Academy sponsor led,3.0,11.0
