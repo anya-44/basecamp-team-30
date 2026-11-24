@@ -4,6 +4,6 @@ why chose this dataset
 
 |  | Action | Reason | Rows affected |
 |---|---|---|---|
-| 1 | Filtered `local_authority_ons_district` to codes starting with `E09` | Keep London collisions only | 402466 |
+| 1 | Kept collisions within Greater London plus 400m | Select collisions by their recorded coordinates | 401454 |
 | 2 | | | |
 | 3 | | | |
