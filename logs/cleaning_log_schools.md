@@ -29,8 +29,7 @@ We need the locations of all primary schools in London to identify the surroundi
 | 2 | df.info() | Check the types of columns and to check for blanks | 0 | 
 | 3 | df.describe() | Check for impossible numbers | 0 | 
 | 4 | df.duplicated().sum() | Check for repeated rows | 0 |
-| 5 | Removed schools outside London and made note of schools with bad location data | Schools removed: 46795; Schools with missing or zero coordinates: 22; Schools outside London coordinate bounds: 3 | 46795 |
-| 5.1 (TO DO) | Deal with the 25 MISC schools by manually looking up addresses and finding the corresponding postcode -> free postcodes.io API -> latitude/longitude -> Easting and Northing -> update the original dataframe | N/A | N/A | 
+| 5 | Removed schools outside London (and made note of schools with bad location data)* | Schools removed: 46795; Schools with missing or zero coordinates: 22; Schools outside London coordinate bounds: 3 | 46795 |
 | 6 | Removed all non-primary schools | Included removal of "middle-deemed primary" and "all-through" schools because they introduce greater presence of older children - we ran counts and there were only 86 of these in London, and therefore there would still be plenty of data remaining if they were removed | 2781 |
 | 7 | Applied temporal filtering to construct a balanced sample of schools that were operational across the full five-year observation window, in case this influenced accident levels in the area. Keep schools that: - Opened before or on 1 January 2021, OR have a missing opening date; - Have no closing date, OR closed after 31 December 2025; - Exclude schools that opened after 1 January 2021; - Exclude schools that closed during 2021–2025 |  Considered just removing all schools with unknown dates but we found that this removed far too many schools from the data. We are aware that a  missing opening date does not prove that a school existed in 2021, but it seems likely to us that the school is simply old enough that it predates the records. This leaves us with 1672 schools; 1006 of which have no opening date.| 1109 |
 | 8 | Checked and logged special & independent schools inside our dataset | In case this provides interesting information later on. | 0 |
@@ -38,4 +37,6 @@ We need the locations of all primary schools in London to identify the surroundi
 
 1672 schools remain.
 
+### Note
+(*) I moved this code from step 5 to further down in the cleaning pipeline and discovered that the 25 schools with missing data got filtered out, so it did not matter that this data was missing in the end. 
 
